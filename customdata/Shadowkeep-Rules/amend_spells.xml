@@ -22,7 +22,7 @@
     <!-- Fixing Chummer data errors regarding Rituals -->
     <spell>
       <name>Blood Bond</name>
-        <required>
+      <required>
         <allof>
           <metamagic>Sacrifice</metamagic>
           <metamagicart>Blood Magic</metamagicart>
@@ -31,7 +31,7 @@
     </spell>
     <spell>
       <name>Blood Rite</name>
-        <required>
+      <required>
         <allof>
           <metamagic>Sacrifice</metamagic>
           <metamagicart>Blood Magic</metamagicart>
@@ -123,14 +123,14 @@
       <name>Turn to Goo</name>
       <hide />
     </spell>
-	<spell>
-	  <name>Mana Scape</name>
-	  <hide />
-	</spell>
-	<spell>
-	  <name>False Impressions</name>
-	  <hide />
-	</spell>
+    <spell>
+      <name>Mana Scape</name>
+      <hide />
+    </spell>
+    <spell>
+      <name>False Impressions</name>
+      <hide />
+    </spell>
     <spell>
       <name>Air Filter</name>
       <duration amendoperation="replace">P</duration>
@@ -233,7 +233,7 @@
       <hide />
     </spell>
     <!-- End Blood Magic -->
-        <spell>
+    <spell>
       <name>Decrease [Attribute]</name>
       <descriptor>Negative, Essence</descriptor>
     </spell>

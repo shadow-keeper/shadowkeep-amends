@@ -275,77 +275,77 @@
     <gear>
       <id>30bdbf30-929a-4221-9982-f9de8574f87b</id>
       <name>Counterspelling Focus, Combat</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>e1b66500-1c39-4747-87a6-071b8b1966cc</id>
       <name>Ritual Spellcasting Focus, Combat</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>2f485376-54c1-41be-8678-79cc98e04ebc</id>
       <name>Spellcasting Focus, Combat</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>a56807b8-e430-479d-847d-e0e294b5e937</id>
       <name>Counterspelling Focus, Detection</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>2c465730-38cb-41d4-9d19-366435fb71bb</id>
       <name>Ritual Spellcasting Focus, Detection</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>90885434-a40c-416d-8eb3-2d93b96414c2</id>
       <name>Spellcasting Focus, Detection</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>49e7fc11-d3c6-4021-9162-cdf217a4579a</id>
       <name>Counterspelling Focus, Health</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>41842bc7-e48b-446c-b5ce-73f8399f64c0</id>
       <name>Ritual Spellcasting Focus, Health</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>630114f3-b538-4a4f-ad02-36df0e577d9c</id>
       <name>Spellcasting Focus, Health</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>8f69fd55-e5ff-404f-99ec-45a9c8498657</id>
       <name>Counterspelling Focus, Illusion</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>db0e5016-8ae3-4190-ad94-fe3f318f3f3f</id>
       <name>Ritual Spellcasting Focus, Illusion</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>aa849313-adf9-4134-b86b-1f6a15f6620f</id>
       <name>Spellcasting Focus, Illusion</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>2f4f52bb-a198-4d7a-ab4c-d82de4f80cbf</id>
       <name>Counterspelling Focus, Manipulation</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>7057c240-d998-4b45-a119-de8a3ffaa717</id>
       <name>Ritual Spellcasting Focus, Manipulation</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <id>8783e50c-f80b-4efe-b440-d2963b55c54e</id>
       <name>Spellcasting Focus, Manipulation</name>
-    <hide />
+      <hide />
     </gear>
     <gear>
       <name>Counterspelling Focus, Combat, Individualized, Partial</name>
@@ -467,7 +467,7 @@
       <name>Spellcasting Focus, Manipulation, Individualized, Complete</name>
       <hide />
     </gear>
-        <gear>
+    <gear>
       <name>Counterspelling Focus Formula, Combat</name>
       <hide />
     </gear>
@@ -509,7 +509,7 @@
     </gear>
     <gear>
       <name>Ritual Spellcasting Focus Formula, Illusion</name>
-     <hide />
+      <hide />
     </gear>
     <gear>
       <name>Spellcasting Focus Formula, Illusion</name>

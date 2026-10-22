@@ -19,7 +19,7 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema complexforms.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema complexforms.xsd">
 
   <complexforms>
     <complexform>
@@ -73,7 +73,7 @@
       <name>Search History</name>
       <hide />
     </complexform>
-<!-- Dissonant Streams: NPC only, but seem to all have quality requirements, so probably OK.
+    <!-- Dissonant Streams: NPC only, but seem to all have quality requirements, so probably OK.
     <complexform>
       <name>Causal Nexus</name>
       <hide />

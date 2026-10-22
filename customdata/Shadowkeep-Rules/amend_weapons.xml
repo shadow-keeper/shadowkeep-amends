@@ -1,0 +1,2689 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This file is part of Chummer5a.
+
+  Chummer5a is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  Chummer5a is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with Chummer5a.  If not, see <http://www.gnu.org/licenses/>.
+
+  You can obtain the full source code for Chummer5a at
+  https://github.com/chummer5a/chummer5a
+-->
+<chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema weapons.xsd">
+  <weapons>
+    <weapon>
+      <id>e5ac06f4-3755-42a7-9da9-88de4b3b2ad8</id>
+      <!-- <name>Ares Thunderstruck Gauss Rifle</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>944dfbc8-5972-44f7-810e-039d9f7d98b7</id>
+      <!-- <name>Ares Vigorous Assault Cannon</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>4a4810ca-4d11-49ee-8705-0411edc4d523</id>
+      <!-- <name>Krime Bomb</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>3320c670-23ae-4cce-9c2c-e59d2554ddd7</id>
+      <!-- <name>Krime Cannon</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>b59116dd-eeba-4091-ad87-a1216e7e52fe</id>
+      <!-- <name>Ogre Hammer SWS Assault Cannon</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>8b7cce7a-6e85-4e37-b953-9f79a0ae77fe</id>
+      <!-- <name>Panther XXL</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>b625833a-88bc-4047-b3fc-bc432d96744b</id>
+      <!-- <name>AK-97</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>1a5768a6-012a-4884-9bdd-4f3b32e86aa2</id>
+      <!-- <name>AK-98</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>3a7a90ce-fbb5-4599-a857-b9849eb9769c</id>
+      <!-- <name>Ares Alpha</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>413200d1-fbd4-485f-8a18-152b60cfb290</id>
+      <!-- <name>Ares HVAR</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6d99b7b6-7610-4ba0-833b-ecda09d83366</id>
+      <!-- <name>Colt Inception</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e27e14ac-01bb-46e0-8d63-62994052d92c</id>
+      <!-- <name>Colt M23</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e39c445a-9657-4e71-949e-a1ea093c3504</id>
+      <!-- <name>FN HAR</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5f512bfb-c620-491a-bef4-d7c1b1601035</id>
+      <!-- <name>HK XM30</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>74e0b1e5-2449-4075-9b0d-eb0d8383033b</id>
+      <!-- <name>HK XM30 Grenade Launcher</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cc446f64-1dbd-42dd-8fc4-ca17dc6bcf42</id>
+      <!-- <name>HK XM30 Carbine</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>1bdda305-3448-4419-871d-42bcd971751b</id>
+      <!-- <name>HK XM30 LMG</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>146d58e4-d705-41a0-bd92-c1901b71ffc0</id>
+      <!-- <name>HK XM30 Shotgun</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5d366d23-c0cd-4613-a035-f5a5378dcfa9</id>
+      <!-- <name>HK XM30 Sniper</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>2abf6c76-fe19-4678-b6a3-f0b8750ee61c</id>
+      <!-- <name>Krupp Arms Kriegfaust</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>fd7f400f-c8d5-4e8c-94aa-001109635f19</id>
+      <!-- <name>Nissan Optimum II</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>89396ad6-c605-4577-ad5b-6a18cf58d167</id>
+      <!-- <name>SBd-44</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>23141cfc-e7c9-4af9-b4e0-a7f0443f1170</id>
+      <!-- <name>Shiawase Arms Monsoon</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>40bf3eed-b239-4521-ac1d-80a4e472451e</id>
+      <!-- <name>Ultimax Rain Forest Carbine</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <accuracy amendoperation="replace">5</accuracy>
+      <ap amendoperation="replace">-2</ap>
+      <avail amendoperation="replace">8R</avail>
+      <damage amendoperation="replace">11P</damage>
+      <mode amendoperation="replace">SA/BF</mode>
+    </weapon>
+    <weapon>
+      <id>01e0eee7-452b-4fd5-abe1-29145da4a5e6</id>
+      <!-- <name>Yamaha Raiden</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>bb068078-540d-4c98-85fd-e526e381dec9</id>
+      <!-- <name>Cougar Fineblade: Short</name> -->
+      <spec amendoperation="replace">Knives</spec>
+    </weapon>
+    <weapon>
+      <id>5ec246dc-c129-4e61-a27a-c4d82b223bea</id>
+      <!-- <name>Hand Blade</name> -->
+      <category amendoperation="replace">Cyberweapon</category>
+    </weapon>
+    <weapon>
+      <id>16fe95d3-9c66-4ac6-b4e3-562de5e5619e</id>
+      <!-- <name>Hand Razors</name> -->
+      <category amendoperation="replace">Cyberweapon</category>
+    </weapon>
+    <weapon>
+      <id>ad2ea9ea-74d0-411d-89b7-20702ee4105d</id>
+      <!-- <name>Retractable Climbing Claws</name> -->
+      <category amendoperation="replace">Bio-Weapon</category>
+    </weapon>
+    <weapon>
+      <id>fe835c72-a973-4976-bf5f-751aff1371d4</id>
+      <!-- <name>Spurs</name> -->
+      <category amendoperation="replace">Cyberweapon</category>
+    </weapon>
+    <weapon>
+      <id>2d4e1dae-eedd-426c-84c2-2aba387d98d0</id>
+      <!-- <name>Bow (Rating 1)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>01c3880f-d0a7-4cd5-8460-ba69fc36ae63</id>
+      <!-- <name>Bow (Rating 10)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>ad373842-3031-4ecf-a985-d27f67f096d6</id>
+      <!-- <name>Bow (Rating 2)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>9c17f382-b1c9-45e1-abe6-9644d477d258</id>
+      <!-- <name>Bow (Rating 3)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>b6bf94d9-3513-409f-b5aa-29f415fe9fd7</id>
+      <!-- <name>Bow (Rating 4)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>47d48423-4042-416d-a9e8-f9b69b2dfa4f</id>
+      <!-- <name>Bow (Rating 5)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>48e0644a-9cdb-4dc6-8cca-c5ef08433177</id>
+      <!-- <name>Bow (Rating 6)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a2445838-ebba-46f7-95a6-ed7e02f8373f</id>
+      <!-- <name>Bow (Rating 7)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c28934c2-b82c-4a81-9964-999dc2a66ddd</id>
+      <!-- <name>Bow (Rating 8)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>82953b59-7e08-4abb-afe7-7b568d9a07d1</id>
+      <!-- <name>Bow (Rating 9)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a20f44a1-ced0-4018-9522-8a0e7234c29d</id>
+      <!-- <name>Aquadyne Shark-XS Harpoon Gun</name> -->
+      <spec amendoperation="replace">Harpoon Gun</spec>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Under</mount>
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>437c30e5-580a-401a-8097-e9fab0dc2b57</id>
+      <!-- <name>Ares Giantslayer Slingshot</name> -->
+      <reach amendoperation="replace">1</reach>
+    </weapon>
+    <weapon>
+      <id>db213a06-0430-4711-81a3-5790d5152ba3</id>
+      <!-- <name>Heavy Crossbow</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>bc9db3ec-6fa2-407d-ad76-e49daac3c06f</id>
+      <!-- <name>Light Crossbow</name> -->
+      <conceal amendoperation="replace">2</conceal>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0df17331-7631-4f78-b857-0f3929678db2</id>
+      <!-- <name>Medium Crossbow</name> -->
+      <conceal amendoperation="replace">4</conceal>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>28072a3f-5153-444e-83e3-46129b9ff572</id>
+      <!-- <name>Ranger Sliver Pistol Crossbow</name> -->
+      <conceal amendoperation="replace">0</conceal>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>d50f0212-490b-44ca-8365-09e62ea69697</id>
+      <!-- <name>Standard Harpoon Gun</name> -->
+      <spec amendoperation="replace">Harpoon Gun</spec>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a47e8191-869a-456e-b376-ed04ba7a59f0</id>
+      <!-- <name>Ballistic Shield</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>1752def7-cfed-44d8-a79f-bc95f32c4c13</id>
+      <!-- <name>Battering Ram, Fluid-Motion</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>375930d0-6a29-480e-a6d8-46fe4eaf2a16</id>
+      <!-- <name>Battering Ram, Pneumatic</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>c0e77aad-3ecb-4136-b39d-00e9db6e6407</id>
+      <!-- <name>Battering Ram, Shock</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>5ed720a1-bfa5-4670-85a2-5867f5caafbf</id>
+      <!-- <name>Battering Ram, Standard</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>ebbdbe5e-17da-4a97-8a65-9839513c91fe</id>
+      <!-- <name>Blast Shield</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>fb814f8e-7284-4ae8-b362-63958d6a1921</id>
+      <!-- <name>Monofilament Chainsaw</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Chainsaws</useskill>
+    </weapon>
+    <weapon>
+      <id>e66ab7ea-3408-4a3b-9ab9-7bc26a8e8a6e</id>
+      <!-- <name>Riot Shield</name> -->
+      <ammo amendoperation="replace">0</ammo>
+      <spec amendoperation="remove">
+      </spec>
+      <requireammo amendoperation="remove">
+      </requireammo>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>c0f77a8a-6bda-489e-aea6-bd4d6b3efe33</id>
+      <!-- <name>Ash Arms Combat Chainsaw</name> -->
+      <useskill>Chainsaws</useskill>
+    </weapon>
+    <weapon>
+      <id>05313081-d711-4af0-9a11-ebfbcdd4583f</id>
+      <!-- <name>Ash Arms Monofilament Chainsaw</name> -->
+      <useskill>Chainsaws</useskill>
+    </weapon>
+    <weapon>
+      <id>2c65e7ad-41a9-45aa-9668-b7c7efa6e342</id>
+      <!-- <name>Chainsaw</name> -->
+      <useskill>Chainsaws</useskill>
+    </weapon>
+    <weapon>
+      <id>0170c709-6c90-4a87-93be-64b62a7dcb4f</id>
+      <!-- <name>Monofilament Chainsaw</name> -->
+      <useskill>Chainsaws</useskill>
+    </weapon>
+    <weapon>
+      <id>e3f90df3-a19e-458a-a09f-01ee4cd04502</id>
+      <!-- <name>Bullwhip</name> -->
+      <useskill>Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>e9e5f7a1-a17f-4331-843d-c257af2130aa</id>
+      <!-- <name>Garrote</name> -->
+      <useskill>Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>f2ac00fc-305c-4f2e-b48d-62f9daa528c7</id>
+      <!-- <name>Monofilament Garrote</name> -->
+      <useskill>Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>c3ea1ed4-b117-4ba7-99eb-7d7b4b130b55</id>
+      <!-- <name>Monofilament Whip</name> -->
+      <useskill>Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>dc18811b-eb07-43d8-8d95-d5c468f048f4</id>
+      <!-- <name>Chakram</name> -->
+      <useskill>Blades</useskill>
+      <addweapon>Chakram (Thrown)</addweapon>
+    </weapon>
+    <weapon>
+      <id>9c267b03-103e-43f4-bfe8-986c69dc17d2</id>
+      <!-- <name>Grapple Gun</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+      <useskill>Nonconventional Ballistics</useskill>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>87a94632-b229-44b7-a150-9808388cfa20</id>
+      <!-- <name>Hold-Fast Sprayer</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>fac9d052-4f7d-43cd-a649-8703b4c0b9c2</id>
+      <!-- <name>Micro Flare Launcher</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>dd4a69d9-6861-41de-9557-83617a3fa904</id>
+      <!-- <name>Shiawase Arms Incinerator</name> -->
+      <accessorymounts amendoperation="remove">
+      </accessorymounts>
+      <useskill>Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>a9a07174-a498-4e91-95c9-b6604e03a02c</id>
+      <!-- <name>Shiawase Blazer</name> -->
+      <useskill>Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>011493be-12eb-47ba-a445-f0c8cf139d4f</id>
+      <!-- <name>Urban Tribe Tomahawk</name> -->
+      <conceal amendoperation="replace">0</conceal>
+    </weapon>
+    <weapon>
+      <id>184e07a0-fff1-4102-961c-02c8f53ac335</id>
+      <!-- <name>Javelin</name> -->
+      <conceal amendoperation="replace">2</conceal>
+    </weapon>
+    <weapon>
+      <id>5f04a3bf-666e-4efd-a037-9cd053e6b1eb</id>
+      <!-- <name>Missile: Anti-Vehicle</name> -->
+      <avail amendoperation="replace">18F</avail>
+    </weapon>
+    <weapon>
+      <id>046241b3-d009-4bed-b68b-89a3fcdbf99b</id>
+      <!-- <name>Missile: Fragmentation</name> -->
+      <avail amendoperation="replace">12F</avail>
+    </weapon>
+    <weapon>
+      <id>034a4b54-02d3-4891-84fa-931f0124e260</id>
+      <!-- <name>Missile: High Explosive</name> -->
+      <avail amendoperation="replace">18F</avail>
+    </weapon>
+    <weapon>
+      <id>e360eb17-5cf2-40c7-a65a-92d37f7c9511</id>
+      <!-- <name>Net</name> -->
+      <useskill amendoperation="replace">Throwing Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>AB91307F-B8D1-46E5-A3C1-9A0047F5B1EF</id>
+      <!-- <name>Chakram</name> -->
+      <name amendoperation="replace">Chakram (Thrown)</name>
+      <spec amendoperation="remove">
+      </spec>
+    </weapon>
+    <weapon>
+      <id>504cba24-2141-4879-8062-782332e83386</id>
+      <!-- <name>Ares Antioch-2</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5b98b55d-c87c-453a-ad87-9b34c8cbf04b</id>
+      <!-- <name>ArmTech MGL-12</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <mode amendoperation="replace">SS</mode>
+    </weapon>
+    <weapon>
+      <id>bcaa065e-3a38-4c14-9839-a24d3aef2cc3</id>
+      <!-- <name>RPK HMG</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>d13da888-212b-4eff-9d1d-7d02419250e9</id>
+      <!-- <name>Ruhrmetall SF-20</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c0857027-d3b2-4677-bc97-3f98bcc6f80f</id>
+      <!-- <name>Ultamax HMG-2</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>971c711b-db32-4339-9203-865ef38f350e</id>
+      <!-- <name>Ares Predator V</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>b6078372-786c-4aa0-9d16-38541b403730</id>
+      <!-- <name>Ares Viper Slivergun</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6fb39402-3ae3-4a21-9ed1-50b2c2e1b2c8</id>
+      <!-- <name>Browning Ultra-Power</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>4fcefd61-567a-4f26-a041-d000a07c96d1</id>
+      <!-- <name>Cavalier Deputy</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>36957626-3c6f-4e15-a3ee-dce8c82e2c94</id>
+      <!-- <name>Colt Future Frontier</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6366691e-c1e0-4d5e-b7a6-1c0371708714</id>
+      <!-- <name>Colt Government 2066</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0158c348-b0e0-41e1-a171-1a34af39f0e5</id>
+      <!-- <name>Onotari Arms Violator</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>43103267-c408-4499-92da-602f70ccb24e</id>
+      <!-- <name>PSK-3 Collapsible Heavy Pistol</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c6c02391-12b5-4361-bc24-e1b5afc1ec6e</id>
+      <!-- <name>Remington Roomsweeper</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>61c59a89-3c51-46b7-880a-933b29394315</id>
+      <!-- <name>Ruger Super Warhawk</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>54a29917-7a30-4e21-b577-e0324b860501</id>
+      <!-- <name>Savalette Guardian</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>f5497ad2-f4aa-4b84-9d1d-a9d2dfe90bfc</id>
+      <!-- <name>Streetline Special</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <spec2 amendoperation="remove">
+      </spec2>
+    </weapon>
+    <weapon>
+      <id>df5d5c83-ddf8-4ec2-8a6f-28c61ec7325a</id>
+      <!-- <name>Ares Archon Heavy MP Laser</name> -->
+      <accessorymounts>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Stock</mount>
+      </accessorymounts>
+      <conceal amendoperation="replace">8</conceal>
+      <damage amendoperation="replace">15P</damage>
+      <useskill amendoperation="replace">Laser Weapons</useskill>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>d6c4ff4a-5fbb-4885-9220-a784e2bff4f4</id>
+      <!-- <name>Ares Lancer MP Laser</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Stock</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">2x15(c) or External Source</ammo>
+      <conceal amendoperation="replace">4</conceal>
+      <damage amendoperation="replace">10P</damage>
+      <mode amendoperation="replace">SA/BF</mode>
+      <useskill amendoperation="replace">Laser Weapons</useskill>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>78293136-5bd0-49ac-aa9b-7c291f94c7a4</id>
+      <!-- <name>Ares Redline</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">15(c) or External Source</ammo>
+      <conceal amendoperation="replace">0</conceal>
+      <damage amendoperation="replace">8P</damage>
+      <useskill amendoperation="replace">Laser Weapons</useskill>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>df19a07f-cc04-44b6-b9b2-6d4fe73062e4</id>
+      <!-- <name>GE Vindicator Mini-Gun</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cb04b4c1-97ff-4984-9bc8-943e5f3ac557</id>
+      <!-- <name>Ingram Valiant</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>ba34be4c-2dff-439a-8b7e-942f71bb4942</id>
+      <!-- <name>Krime Wave</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>b2b51722-5c37-43ce-9b08-646b8f1a51eb</id>
+      <!-- <name>Shiawase Armaments Nemesis</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>67474de7-d29b-4b31-a6ae-1e2e981fa5d2</id>
+      <!-- <name>Ares Light Fire 70</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>93722378-dcb6-4988-ba4e-54ce545644fe</id>
+      <!-- <name>Ares Light Fire 75</name> -->
+      <accessories>
+        <accessory>
+          <name amendoperation="replace">Silencer, Ares Light Fire 75</name>
+        </accessory>
+      </accessories>
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cbff618e-6a12-4bab-aaeb-2453706bf42e</id>
+      <!-- <name>Beretta 201T</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>21ddd00b-0e30-4fc0-97c0-14db61af24ad</id>
+      <!-- <name>Colt Agent Special</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>676660a2-3320-4b4a-acaf-f645f2ba6cd7</id>
+      <!-- <name>Colt America L36</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>35f168ec-cc4d-4dd5-bc3e-e1e3f8376dc4</id>
+      <!-- <name>Fichetti Executive Action</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7dff8ab0-c659-4901-ac3b-cb8b4f3839bf</id>
+      <!-- <name>Fichetti Security 600</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>8a6d3d73-2091-4bc1-9a16-b42aa9b159e6</id>
+      <!-- <name>Nitama Sporter</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>274585e0-7e3c-44fd-88f3-287c12c90173</id>
+      <!-- <name>Shiawase Armaments Puzzler</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>66955e6e-0b77-4ce0-9e24-6bb637a36541</id>
+      <!-- <name>Taurus Omni-6</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cb2afbcc-a1bf-465b-9fc2-c91e1ddfb100</id>
+      <!-- <name>Ares Crusader II</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a68fe409-bebb-4c72-941c-0fce94048fec</id>
+      <!-- <name>Cavalier Evanator</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0c8076a9-97e3-4583-8385-c32266c25190</id>
+      <!-- <name>Ceska Black Scorpion</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5563a612-bf02-4fd9-b942-2400bbd1eb70</id>
+      <!-- <name>Fianchetti Military 100</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>404c20aa-8c02-4fcd-a37e-ba63b3e3553f</id>
+      <!-- <name>Onotari Arms Equalizer</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>38e9682d-d679-47a4-97a1-7161cba07cd2</id>
+      <!-- <name>PPSK-4 Collapsible Machine Pistol</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6596b05e-d51b-4388-b57a-950d9b5a96ac</id>
+      <!-- <name>Remington Suppressor</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c8e3d921-45df-4850-8619-7fcca279d774</id>
+      <!-- <name>Steyr TMP</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>060cbbd5-3413-4e57-8c7a-5ee3d2e94945</id>
+      <!-- <name>Ultimax 70</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>091c2e28-94fb-4357-9eb9-bcfa2ca5d8ed</id>
+      <!-- <name>FN MAG-5</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a95df82f-4c48-43b1-8cfe-58d9aedb0b07</id>
+      <!-- <name>Stoner-Ares M202</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>08e04ae5-ee6f-451d-8dc9-7873b6f9d3a5</id>
+      <!-- <name>Ultamax MMG</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c6410d5f-def3-4dc6-b5d6-68fff704f7f2</id>
+      <!-- <name>Aztechnology Striker</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>41eb651e-3efc-4978-9318-7ece7f151eef</id>
+      <!-- <name>Mitsubishi Yakusoku MRL</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">1(m)</ammo>
+      <ammoslots>4</ammoslots>
+      <accessories>
+        <accessory>
+          <name>Smartgun System, Internal</name>
+        </accessory>
+      </accessories>
+    </weapon>
+    <weapon>
+      <id>b4e80557-89cc-40ef-ab2d-8970b818fae9</id>
+      <!-- <name>Onotari Arms Ballista MML</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6753f5f1-72c5-41fb-beb6-6c1a37b82f5e</id>
+      <!-- <name>Onotari Interceptor</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>923ba564-7883-49e8-82a2-415cbfa96685</id>
+      <!-- <name>Auto-Assault 16</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>31269939-24bb-405a-aa5e-a1b77458a1df</id>
+      <!-- <name>Cavalier Falchion</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c2c0e756-a099-4f9d-b6bb-18f412d670a3</id>
+      <!-- <name>Defiance T-250</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5011b79e-8594-4dbe-9768-0db4d11ead2b</id>
+      <!-- <name>Defiance T-250, Short-Barrel</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>622bd915-0e0c-431b-9da5-e0c0c31e2122</id>
+      <!-- <name>Enfield AS-7</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>76e0ae30-a3cf-4d4f-b278-ad49a10df4d2</id>
+      <!-- <name>Franchi SPAS-24</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>8818b584-e084-4fcb-94b8-632728015c6f</id>
+      <!-- <name>Krime Boss</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>228a2a5d-01e5-4f58-90bf-1d61602ad1c5</id>
+      <!-- <name>Mossberg AM-CMDT</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>62221199-7958-4a76-a538-0c8e0a516608</id>
+      <!-- <name>PJSS Model 55</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>67f18a4a-e516-4946-984a-5254b3ba850f</id>
+      <!-- <name>Remington 990</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>3af9c1f7-8582-4849-8b1e-b49dd14c207f</id>
+      <!-- <name>Shiawase Arms Rain</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>eaef40ea-c1ff-4f64-a4fe-31720b250860</id>
+      <!-- <name>Winchester Model 201</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>93869598-2945-412f-8b42-90764ddc1e59</id>
+      <!-- <name>Winchester Model 2054</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>afee8d53-f1da-4500-ab6c-8e22b9c57c3e</id>
+      <!-- <name>Winchester Model 2066</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>50cec60d-a421-4edd-9baa-d10bfbc08e70</id>
+      <!-- <name>Ares Desert Strike</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>ffc2ae2b-fbaa-4d65-9456-c6433f3d53e8</id>
+      <!-- <name>Barret Model 122</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>8c22582e-56ff-4a44-9358-487d8a594833</id>
+      <!-- <name>Cavalier Arms Crockett EBR</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>8524048e-6c2c-414c-91e8-5d4bca711957</id>
+      <!-- <name>Onotari Arms JP-K50</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cf9d0938-73e5-4e40-9a50-003ded439586</id>
+      <!-- <name>Pioneer 60</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e2649ef2-c9a8-43ac-9f6c-9279e7be2f67</id>
+      <!-- <name>Ranger Arms SM-5</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>01d7b203-e57e-4cbd-9f68-a2134683e178</id>
+      <!-- <name>Remington 950</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6098fea5-3069-42b8-9405-80d07578b660</id>
+      <!-- <name>Ruger 101</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e238d380-5e5f-499c-9d33-548d02b50076</id>
+      <!-- <name>SVD</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>8d2c12e7-e08d-4c7a-907a-b5bc178ce9e3</id>
+      <!-- <name>Terracotta Arms AM-47</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>15ec7fbb-4c22-4cae-a7cd-d2c580a6b447</id>
+      <!-- <name>Ares S-III Super Squirt</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>e85d55b3-06f1-48e0-bbe1-14b833ac4181</id>
+      <!-- <name>Ares Screech Sonic Rifle</name> -->
+      <accessorymounts>
+        <mount amendoperation="replace">Internal</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">15(c)</ammo>
+      <useskill amendoperation="replace">Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>92b11d6e-8dbb-448a-95a9-e72d11527fe5</id>
+      <!-- <name>Blowgun</name> -->
+      <category amendoperation="replace">Micro-Drone Weapons</category>
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>07200c8e-d3f3-4ec1-8911-11be322c6d5f</id>
+      <!-- <name>Bola</name> -->
+      <ammo amendoperation="replace">1</ammo>
+      <category amendoperation="replace">Exotic Ranged Weapons</category>
+      <useskill amendoperation="replace">Throwing Weapons</useskill>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>a836fc0b-a1e1-491d-ad8d-7f803c88acdc</id>
+      <!-- <name>FN-AAL Gyrojet Pistol</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>c884cf55-9a96-459d-a764-f223e1853149</id>
+      <!-- <name>Fichetti Pain Inducer</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">Special</ammo>
+      <useskill amendoperation="replace">Non-Ballistic Firearms</useskill>
+      <requireammo amendoperation="remove">
+      </requireammo>
+    </weapon>
+    <weapon>
+      <id>da91e16e-df0f-475e-9a41-c342c59540ab</id>
+      <!-- <name>Knockoff Gun Cane</name> --> 
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>04fd6c88-6d3c-4e5e-8490-4cf422f3e02e</id>
+      <!-- <name>Monofilament Bola</name> -->
+      <category amendoperation="replace">Exotic Ranged Weapons</category>
+      <useskill amendoperation="replace">Throwing Weapons</useskill>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>eb9c657d-d98d-476e-8a86-40d83d8cb821</id>
+      <!-- <name>Mortimer of London 'Trafalger' Gun Cane</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>9c3d9b2e-336e-4c37-b05d-07bea9ae9c3f</id>
+      <!-- <name>Parashield Dart Pistol</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>8432b006-0496-4930-b966-25ab56feb7e2</id>
+      <!-- <name>Parashield Dart Rifle</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>61555ac9-9925-4252-bc25-92c948eb9dfd</id>
+      <!-- <name>SA Retiarius Net Gun</name> -->
+      <name amendoperation="replace">SA Retarius Net Gun</name>
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>a4dda50f-fec2-4142-bc19-49bcc3a13516</id>
+      <!-- <name>SA Retarius Net Gun XL</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>a130db89-380f-49f8-b9f4-6cfd66cbc4fe</id>
+      <!-- <name>Tiffani Elegance Shooting Bracers</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>b312c6dd-56db-4569-b96d-32a9e290e78b</id>
+      <!-- <name>M1 Garand</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>1a1a3b5f-064a-4626-8ddb-efc015187236</id>
+      <!-- <name>Marlin 3041 BL</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>afbb08e1-9362-46c6-b890-9dbd3cd26d2d</id>
+      <!-- <name>Marlin 3468SS</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c4cb38e3-3748-41ad-82e9-56abc111fafe</id>
+      <!-- <name>Marlin 79S</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>2082a58b-e94d-4911-a486-1ad33ac8e3b8</id>
+      <!-- <name>Marlin X71</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c571ea1e-dfd8-4c4e-84d8-9355f24874b0</id>
+      <!-- <name>Springfield 2003</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>72659b65-56ab-4629-be63-d82549edb0b4</id>
+      <!-- <name>Springfield M1A</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c154d964-599f-41bd-9b20-3b63dcbb213d</id>
+      <!-- <name>Springfield Model 1855 Reproduction</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a6afb306-df84-4d99-8f62-1b9a988bea07</id>
+      <!-- <name>Winchester Model 2024</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7aa7ed5d-b094-45c9-9275-974e8aeb4de8</id>
+      <!-- <name>Winchester Model 2067</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c9ae9813-cf66-4435-82c5-a5f28c441d5d</id>
+      <!-- <name>Ares Executioner</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>53393829-2f6d-445d-b3d4-325aabec7cba</id>
+      <!-- <name>Ares SIGMA 3</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>1603b758-f59c-4288-937a-8d7467b9ed33</id>
+      <!-- <name>Cavalier Arms Gladius</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>b2eefb04-0e33-4faa-8e92-5c4bcbfc3f16</id>
+      <!-- <name>Colt Cobra TZ-120</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>de333a81-b997-4b17-ae0d-c221d22a28c7</id>
+      <!-- <name>FN P93 Praetor</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>f9ff7bf6-3ed4-41bd-b934-34e751ecf266</id>
+      <!-- <name>HK 227</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7bf032e5-7e53-4dbd-b5c8-8c57d6c4c9ba</id>
+      <!-- <name>HK Urban Combat</name> -->
+      <accessorymounts>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>017d8327-3bce-420a-af24-a2bed3ab0e83</id>
+      <!-- <name>Ingram Smartgun X</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>980bc771-06f2-41b5-8879-c609bd80254f</id>
+      <!-- <name>Krime Spree</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>be17251c-109c-4fbb-93e6-b59226592536</id>
+      <!-- <name>SCK Model 100</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e80cca4e-3210-4e38-b333-6c1cd42d6b54</id>
+      <!-- <name>Uzi IV</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>74475182-fc21-4583-b9b9-84db8af29328</id>
+      <!-- <name>Cavalier Safeguard</name> -->
+      <accessorymounts>
+        <mount amendoperation="replace">Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7d5bcc0b-9ec2-4c87-aaa7-a4d531d7974e</id>
+      <!-- <name>Defiance EX Shocker</name> -->
+      <accessorymounts>
+        <mount amendoperation="replace">Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>3540d227-3288-410f-aa11-5048179ab322</id>
+      <!-- <name>Tiffani-Defiance Protector</name> -->
+      <accessorymounts>
+        <mount amendoperation="replace">Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>21628e04-95d0-4ba4-bc66-fcbed5a1bf8e</id>
+      <!-- <name>Yamaha Pulsar</name> -->
+      <accessorymounts>
+        <mount amendoperation="replace">Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</id>
+      <!-- <name>Unarmed Attack</name> -->
+      <hide amendoperation="remove">
+      </hide>
+    </weapon>
+    <weapon>
+      <id>ae58f859-37ee-4fac-befa-365acd3c7da7</id>
+      <!-- <name>AK-98 Grenade Launcher</name> -->
+      <page amendoperation="replace">428</page>
+      <source amendoperation="replace">SR5</source>
+      <accessorymounts>
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e9bea546-f35d-4ecc-9d15-8b30df9bdb28</id>
+      <!-- <name>Ares Alpha Grenade Launcher</name> -->
+      <accuracy amendoperation="replace">4</accuracy>
+      <mount amendoperation="remove">
+      </mount>
+      <accessorymounts>
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5df8388e-9ca9-4455-9ac0-3d83ffd77d0d</id>
+      <!-- <name>Underbarrel Grenade Launcher</name> -->
+      <accuracy amendoperation="replace">4</accuracy>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c166caeb-aaa8-4e13-b76d-ae9e567f7dcd</id>
+      <!-- <name>Underbarrel Bola Launcher</name> -->
+      <accuracy amendoperation="replace">4</accuracy>
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <mount amendoperation="remove">Under</mount>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>7d711605-e6a9-42f9-846b-95ef80e8c575</id>
+      <!-- <name>Underbarrel Grapple Gun</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <mount amendoperation="remove">Under</mount>
+      <spec amendoperation="remove">
+      </spec>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>232dfc49-21ad-4b90-b05f-e5523b3ee142</id>
+      <!-- <name>Nissan Optimum II Shotgun</name> -->
+      <mount amendoperation="remove">
+      </mount>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>3a91672e-0588-45a6-b225-149624e813ac</id>
+      <!-- <name>Ares Predator III</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>63bb72d2-977f-4ea3-b119-898186d2c299</id>
+      <!-- <name>Functional Tail (Thagomizer)</name> -->
+      <useskill amendoperation="replace">Unarmed Combat</useskill>
+    </weapon>
+    <weapon>
+      <id>c847a859-8a72-4a1b-acb5-201ddc66fe73</id>
+      <!-- <name>Goring Horns</name> -->
+      <useskill amendoperation="replace">Unarmed Combat</useskill>
+    </weapon>
+    <weapon>
+      <id>c73077d0-fc16-474c-a8e6-ce9635a36224</id>
+      <!-- <name>Foot Anchor</name> -->
+      <category amendoperation="replace">Cyberweapon</category>
+    </weapon>
+    <weapon>
+      <id>0b43e7a8-892d-403a-a0e2-0d015556b1af</id>
+      <!-- <name>Oral Slasher</name> -->
+      <useskill amendoperation="replace">Exotic Natural Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>a67facdd-fbd1-48dd-bb10-e5eaca69ec3d</id>
+      <!-- <name>Flametosser</name> -->
+      <useskill amendoperation="replace">Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>1d37e560-0e33-4129-95a9-a38217c00c0d</id>
+      <!-- <name>Claws (Bio-Weapon)</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>8472cb1d-d3a3-4995-86d8-f07aca06b3a9</id>
+      <!-- <name>Retractable Claws (Bio-Weapon)</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>99cbc9c0-11b6-4906-9dba-adc217592b92</id>
+      <!-- <name>Electrical Discharge</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>bdb9e0d7-fba7-48ed-ba16-2b540f8ce151</id>
+      <!-- <name>Fangs (Bio-Weapon)</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>576770af-b5da-4b76-afdf-5559e7401e2d</id>
+      <!-- <name>Retractable Fangs (Bio-Weapon)</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>f15fe505-99a2-45b0-99d9-a1cbf83dc1c4</id>
+      <!-- <name>Horns (Bio-Weapon)</name> -->
+      <ap amendoperation="replace">-4</ap>
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>380c0512-a672-4f94-a969-83a7679e52c6</id>
+      <!-- <name>Large Stinger</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>5527b38d-2ecf-4729-8b7b-421e0985bab2</id>
+      <!-- <name>Medium Stinger</name> -->
+      <reach amendoperation="replace">1</reach>
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>57e51d68-076b-4f05-ac6f-0fb493333e2d</id>
+      <!-- <name>Medium Tusk(s)</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>a2812fb9-0ad0-424d-98d6-9a48861c664f</id>
+      <!-- <name>Large Tusk(s)</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>7daa50cc-67d5-43d1-b779-28d444a9d519</id>
+      <!-- <name>Grapple Fist</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <spec amendoperation="remove">
+      </spec>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>3a60c3ee-9f6f-46cb-be2f-bec0bccc3318</id>
+      <!-- <name>Tactical Grapple Gun</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+      <useskill>Nonconventional Ballistics</useskill>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Stock</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7b928bc3-c44e-4002-b8ac-17a2bdd01d5a</id>
+      <!-- <name>Bone Spike I</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>2ef46f42-8890-48fd-bb94-67c34c12f0fb</id>
+      <!-- <name>Bone Spike II</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>3babb9d3-a3bb-4c8f-96ce-73f27b6ec7a6</id>
+      <!-- <name>Bone Spike III</name> -->
+      <spec>Bio Implants</spec>
+    </weapon>
+    <weapon>
+      <id>9434fb76-1d7f-463e-b377-b7c07e2a18e2</id>
+      <!-- <name>Cougar Collapsible Spear</name> -->
+      <spec amendoperation="replace">Polearms</spec>
+    </weapon>
+    <weapon>
+      <id>6967eea2-01f8-4931-a59f-d2cd64419561</id>
+      <!-- <name>Collapsible Scythe</name> -->
+      <spec amendoperation="replace">Polearms</spec>
+    </weapon>
+    <weapon>
+      <id>4225b0c1-2da0-4dd9-9c98-2136a57946cf</id>
+      <!-- <name>Throwing Syringe</name> -->
+      <useskill amendoperation="replace">Throwing Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>c965dee9-de62-4569-b96a-4026105440b1</id>
+      <!-- <name>Dynamic Tension Bow</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>1c738c1d-7abc-4756-a683-f5bf92902671</id>
+      <!-- <name>Cavalier Arms Adder Slivergun</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a1b5cec9-e14d-4b4d-8377-436af40b09cd</id>
+      <!-- <name>Flame Bracer</name> -->
+      <useskill amendoperation="replace">Non-Ballistic Firearms</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>82aa8d25-179a-4c21-9a3c-61a171705f65</id>
+      <!-- <name>Shiawase Arms Simoom</name> -->
+      <useskill amendoperation="replace">Nonconventional Ballistics</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>176ab92a-0c00-48fe-a994-668903407fbf</id>
+      <!-- <name>Ares Armatus</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Under</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Stock</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">15(c) or External Source</ammo>
+      <conceal amendoperation="replace">6</conceal>
+      <damage amendoperation="replace">12P</damage>
+      <mode amendoperation="replace">SA/BF</mode>
+      <useskill amendoperation="replace">Laser Weapons</useskill>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>431b07eb-8eb8-4091-a47c-5ffe8736bb50</id>
+      <!-- <name>Colt Manhunter A1</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>d36e75cc-73bc-4de3-9d9c-a236284e9d76</id>
+      <!-- <name>Lemat 2072</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e6c0ceab-ac8f-4b69-bb00-8f6e05396a64</id>
+      <!-- <name>Lemat 2072 (Shotgun Barrel)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Barrel</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a1924b0d-3cc6-4a37-9783-c75145ca929e</id>
+      <!-- <name>Mounted Crossbow</name> -->
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+      <spec>Crossbow</spec>
+    </weapon>
+    <weapon>
+      <id>7914b526-90a1-4691-93bf-1eace51b914f</id>
+      <!-- <name>Underbarrel Shotgun</name> -->
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>fafa3c46-6ced-4cbd-b236-2c5abbae141e</id>
+      <!-- <name>Underbarrel Laser</name> -->
+      <useskill amendoperation="replace">Laser Weapons</useskill>
+      <range amendoperation="remove">
+      </range>
+      <useskillspec amendoperation="remove">
+      </useskillspec>
+    </weapon>
+    <weapon>
+      <id>21fb8d4f-5958-4fd9-996f-7e88ee0282c2</id>
+      <!-- <name>Microwave Gun, High Frequency</name> -->
+      <cost amendoperation="replace">100000</cost>
+      <allowaccessory amendoperation="remove">
+      </allowaccessory>
+      <spec amendoperation="remove">
+      </spec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+      <useskill>Non-Ballistic Firearms</useskill>
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <addweapon>Microwave Gun, Low Frequency</addweapon>
+    </weapon>
+    <weapon>
+      <id>10fb69db-efd0-4f63-80a7-bda5ef0480a4</id>
+      <!-- <name>Microwave Gun, Low Frequency</name> -->
+      <cost amendoperation="replace">100000</cost>
+      <allowaccessory amendoperation="remove">
+      </allowaccessory>
+      <spec amendoperation="remove">
+      </spec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+      <useskill>Non-Ballistic Firearms</useskill>
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>bb17f788-f4d2-4a32-a758-2ed47a1beb63</id>
+      <!-- <name>Repeating Laser</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">15(c) or External Source</ammo>
+      <cost amendoperation="replace">100000</cost>
+      <damage amendoperation="replace">11P</damage>
+      <useskill>Laser Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>581fed02-2312-4a75-95ba-25215b12ab5f</id>
+      <!-- <name>Colt Manhunter</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>581ed592-9caa-41ea-aaf2-55cee20c94e7</id>
+      <!-- <name>Walther PP110</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>79cbec3d-d832-4b57-83e0-e2ffecbcdb0a</id>
+      <!-- <name>Hammerli 620S</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>e46fce7e-a1bf-416e-86ea-2608368b44fe</id>
+      <!-- <name>Yamaha Sakura Fubuki SX</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>44802a19-05ea-4293-b234-a9d24155ce01</id>
+      <!-- <name>Stinger Pen Gun</name> -->
+      <useskill>Nonconventional Ballistics</useskill>
+    </weapon>
+    <weapon>
+      <id>a5bedab8-5421-4e70-9b9c-180ad91d0c0c</id>
+      <!-- <name>Injector Pen</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Blades</useskill>
+    </weapon>
+    <weapon>
+      <id>97037590-5324-4ab1-acdb-b2d204cb937a</id>
+      <!-- <name>Pepper Punch Pen</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>06cc6008-2aa1-4d39-8a5c-884136d82fee</id>
+      <!-- <name>Modified Spray Pen</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <weapontype amendoperation="remove">
+      </weapontype>
+      <useskill>Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>b84e7ffe-acae-461c-a7ce-67056976a96e</id>
+      <!-- <name>Ares Briefcase Shield</name> -->
+      <spec amendoperation="remove">
+      </spec>
+      <useskill>Battering Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>78beeb28-9ae6-418d-97bb-1d45ac19cee8</id>
+      <!-- <name>Osmium Mace</name> -->
+      <spec amendoperation="replace">Maces</spec>
+    </weapon>
+    <weapon>
+      <id>4189afe7-ec22-40f7-9e5d-fef42b9c9a00</id>
+      <!-- <name>Halloweener Barbecue Lighter</name> -->
+      <useskill>Non-Ballistic Firearms</useskill>
+    </weapon>
+    <weapon>
+      <id>f91f4a63-99e7-40f8-b3b6-9a1040018069</id>
+      <!-- <name>Gunstock War Club (Thrown)</name> -->
+      <useskill amendoperation="replace">Throwing Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>5aa40509-e444-4802-8ba5-201447f74a0e</id>
+      <!-- <name>Krime Trollbow (Rating 6)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>eaadb58d-9096-4528-8f1a-b6f0e33a903a</id>
+      <!-- <name>Krime Trollbow (Rating 7)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>027ec050-747c-4b2d-bbd0-bb7573825460</id>
+      <!-- <name>Krime Trollbow (Rating 8)</name> -->
+
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>fb54d2f2-b9ed-4c95-af38-345e5f2c666d</id>
+      <!-- <name>Krime Trollbow (Rating 9)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0e881b55-4f29-4a79-a8e7-ca9dbdefcd94</id>
+      <!-- <name>Krime Trollbow (Rating 10)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0d40d167-2fec-4173-854e-a62ac202c820</id>
+      <!-- <name>Krime Trollbow (Rating 11)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>84f3940c-95b0-42df-8142-2a6378908792</id>
+      <!-- <name>Krime Trollbow (Rating 12)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a77f68e5-d05c-4591-a8f7-2cb8c3bfaa14</id>
+      <!-- <name>Krime Trollbow Horns</name> -->
+    </weapon>
+    <weapon>
+      <id>912ef37a-37b2-459c-a4c9-f84f33e4c4d9</id>
+      <!-- <name>Winchester Airbow</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>ced53705-2d9c-4ee6-b612-550f6ae63980</id>
+      <!-- <name>Krime Tingler</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>03713add-261a-440c-a965-f6bcea5e4aeb</id>
+      <!-- <name>Narcoject One</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0ad1526d-39e8-4918-9be3-54abb9dbaaf3</id>
+      <!-- <name>Browning Ghost</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Barrel</mount>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>0e2d3c7b-d092-45fa-8136-4a9a9c99e2f1</id>
+      <!-- <name>Colt Coral Snake</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>bad08133-2783-463a-b187-fd6210c163ff</id>
+      <!-- <name>Ares Striker</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5fed1380-b7fa-43ec-b80d-252898aaf64a</id>
+      <!-- <name>Barrens Special</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6a419d5a-5779-42be-b9e8-a700094037ec</id>
+      <!-- <name>Browning Phantom</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>9cdf4a80-efc1-4c96-bc99-c67c880be39e</id>
+      <!-- <name>Cavalier Champion</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cbac989a-92f4-4eb8-a6ff-a9b5f7571d5d</id>
+      <!-- <name>Cavalier Thunderstruck</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>88336c7d-f599-4e83-aea7-4d1fcab5e296</id>
+      <!-- <name>Hammerli Gemini</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>c3588f24-9bbb-495d-8a1d-8d21b00c958b</id>
+      <!-- <name>Morrissey Alta</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>f7077fa5-b3e7-488d-badb-d0be38975ec1</id>
+      <!-- <name>Morrissey Elite</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>a6402dd0-fa9d-4c3f-83e5-695510058420</id>
+      <!-- <name>Nemesis Arms Praetorian</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>bda98b10-6aa3-49d6-a44b-e2feba5683bf</id>
+      <!-- <name>Onotari Arms Vagabond</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>f8227e2d-4a63-4e91-bed2-c40c5b665b3f</id>
+      <!-- <name>Cavalier Flash</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>dd591e1f-2ebf-40ba-be8e-ccd4c5b8daf8</id>
+      <!-- <name>Esprit Tsunami</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6e21f323-e111-44ee-ac10-6e465249bcc7</id>
+      <!-- <name>Onotari Arms S-3K</name> -->
+      <accessories>
+      </accessories>
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>2502d04d-8082-4356-9cf9-c8beccde53fc</id>
+      <!-- <name>Ares Stalwart</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>463372d1-b005-4d09-90eb-ceced9ebccea</id>
+      <!-- <name>Colt M23A2</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>63f03317-e192-4354-a504-106dc6b78004</id>
+      <!-- <name>Izom Artemis</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>f1f2016a-8e4d-43d4-847d-a2eb007c52f0</id>
+      <!-- <name>Cavalier Frontier</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>ba44a481-9acc-4baa-a2f2-af8891515ddd</id>
+      <!-- <name>Krime Happiness</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5b4e09a0-4ad6-4bb0-bfee-52572773718e</id>
+      <!-- <name>Onotari HL-13</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>19d63a61-29f4-4892-a6eb-8042cd171676</id>
+      <!-- <name>Onotari HL-13 Personal Defense Weapon</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6704239c-42c0-43c2-8d4c-3f8ff6c01212</id>
+      <!-- <name>Onotari HL-13 Urban Assault</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <spec amendoperation="replace">Carbines</spec>
+    </weapon>
+    <weapon>
+      <id>309098a2-5693-4f4b-9bf7-2302485ea9ac</id>
+      <!-- <name>Krime Boom</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>dddebf4a-dabf-417f-9f44-54de9ac88e2e</id>
+      <!-- <name>Krime Whammy</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5e6759c6-1e51-4b3b-b400-6610d080d966</id>
+      <!-- <name>Krime Triple-Troll Minigun</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>cc196c96-0aac-4091-a273-17e27145659a</id>
+      <!-- <name>Krime Triple-Ork Minigun</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6fc1592a-1d6a-4625-b8ef-b48737711e77</id>
+      <!-- <name>Krime Triple-Dwarf Minigun</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>68e50fee-0025-4981-9931-2014fa1c3073</id>
+      <!-- <name>HK 82A1</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>5e730bc6-4e50-4a15-b3ca-fc1d1a52526f</id>
+      <!-- <name>M79B1 LAW Rocket</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>48299fd8-e705-4fce-a998-598cdb17aea2</id>
+      <!-- <name>Phalanx Systems Vogeljager II</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>df26dd8f-f26f-4d6b-b98c-fbaf810b569e</id>
+      <!-- <name>Terracotta X-6 MGL</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>39a6ea40-087e-4caa-b5a5-94d7c2a203f3</id>
+      <!-- <name>Narcoject Gas Gun</name> -->
+      <useskill amendoperation="replace">Non-Ballistic Firearms</useskill>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>fb50cff6-1cf0-4686-9694-c5aa4cb2023d</id>
+      <!-- <name>Narcoject PEP</name> -->
+      <useskill amendoperation="replace">Laser Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>823ffbe6-b8a9-43f6-91e1-ba3e312ce577</id>
+      <!-- <name>Narcoject Trackstopper</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+      <ammo amendoperation="replace">6(m)</ammo>
+      <weapontype amendoperation="remove">
+      </weapontype>
+    </weapon>
+    <weapon>
+      <id>15c98062-1ac9-45d5-a1f6-6e414b97ea4e</id>
+      <!-- <name>Krime Stun-O-Net</name> -->
+      <requireammo amendoperation="remove">
+      </requireammo>
+    </weapon>
+    <weapon>
+      <id>fb545997-dcd5-48d4-963e-4f0c797e5982</id>
+      <!-- <name>Stoner-Ares M-22A1</name> -->
+      <hide />
+    </weapon>
+    <weapon>
+      <id>e9a6bd24-c551-4cc1-be0a-aca373c44049</id>
+      <!-- <name>Aztechnology Blood Drinker Combat Axe</name> -->
+      <conceal amendoperation="replace">2</conceal>
+    </weapon>
+    <weapon>
+      <id>ea649a24-659b-4343-8719-2ae43da73237</id>
+      <!-- <name>Horizon-Flynn Defense-Com Commlink Taser</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7158a75f-6c6c-4854-a7cc-51cec011572d</id>
+      <!-- <name>Lone Star Remington 995 "Buzzsaw"</name> -->
+      <name amendoperation="replace">Lone Star Remington 995</name>
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>47c4da06-fa71-4784-b0c6-f85002589b94</id>
+      <!-- <name>Minigrenade: Winchester-Howe Hornet Direct-Fire</name> -->
+      <hide />
+    </weapon>
+    <weapon>
+      <id>93190477-d1f9-45d0-bee9-9f9bc9a29638</id>
+      <!-- <name>Ingram Supermach 200</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>aedfc406-ebe3-4abf-8b9d-91d886479884</id>
+      <!-- <name>Hardened Yo-Yo</name> -->
+      <useskill>Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>cf9f71b2-0207-4da7-ac0c-b7d39e2d8cf7</id>
+      <!-- <name>Bladed Yo-Yo</name> -->
+      <useskill amendoperation="replace">Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>e18c38e1-72b8-44e3-9afd-42c203b7b350</id>
+      <!-- <name>Monofilament Yo-Yo</name> -->
+      <useskill amendoperation="replace">Tensile Weapons</useskill>
+    </weapon>
+    <weapon>
+      <id>8be0faad-0a8f-4735-9928-2cfd662ba742</id>
+      <!-- <name>Hardened Skateboard</name> -->
+      <useskill amendoperation="replace">Rolling Blades</useskill>
+    </weapon>
+    <weapon>
+      <id>dc713ac6-122b-4fa0-9a70-63822412962f</id>
+      <!-- <name>Bladed Skateboard</name> -->
+      <useskill amendoperation="replace">Rolling Blades</useskill>
+    </weapon>
+    <weapon>
+      <id>330c3fdf-f64f-482c-9dd9-85d8a8f05f61</id>
+      <!-- <name>Blunderbuss</name> -->
+      <name amendoperation="replace">Donnerbüchse</name>
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Stock</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>3c2d7e43-5c50-4f4b-9989-0db0215b4d5d</id>
+      <!-- <name>Krime Heater</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Light Pistols</category>
+    </weapon>
+    <weapon>
+      <id>7fffffff-30e6-404d-923c-35181458ce1d</id>
+      <!-- <name>Krime Varmint</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7fffffff-d0c6-4cbf-9462-7fffffff1c0c</id>
+      <!-- <name>Krime Chatter</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>39ad41d8-6e4d-4838-afca-7fffffffdcb9</id>
+      <!-- <name>Krime Tradition</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7fffffff-c1e7-4c5a-b2a7-7fffffff1dda</id>
+      <!-- <name>Krime Saint Nicholas</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>6cebbb41-57af-42ca-88e9-7fffffffb01e</id>
+      <!-- <name>Krime AKM-SU97</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Carbines</category>
+      <conceal amendoperation="replace">4</conceal>
+    </weapon>
+    <weapon>
+      <id>02110645-1a34-4703-bf36-7fffffff32a6</id>
+      <!-- <name>Krime AKM-97</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <rc amendoperation="replace">1</rc>
+    </weapon>
+    <weapon>
+      <id>0f288faf-3b1c-4d83-a6a8-7fffffffcd45</id>
+      <!-- <name>Krime Ditch (Shotgun)</name> -->
+      <accessorymounts>
+        <mount>Top</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Stock</mount>
+        <mount>Barrel</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7fffffff-bd92-4531-931d-69a43e0d262f</id>
+      <!-- <name>Krime Ditch (Rifle)</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Sporting Rifles</category>
+    </weapon>
+    <weapon>
+      <id>7fffffff-bf58-494c-88a8-5107a3210405</id>
+      <!-- <name>Krime Stopper-II (Homeguard)</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Shotguns</category>
+    </weapon>
+    <weapon>
+      <id>7fffffff-a4f5-4358-a0cb-7fffffff7193</id>
+      <!-- <name>Krime Stopper-II (Shopkeeper)</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Shotguns</category>
+    </weapon>
+    <weapon>
+      <id>23368c46-c374-4497-b273-61467489ab46</id>
+      <!-- <name>Krime Stopper-II</name> -->
+      <accessorymounts amendoperation="replace">
+        <mount>Barrel</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Shotguns</category>
+    </weapon>
+    <weapon>
+      <id>60728407-ae88-4ecf-885e-7fffffff1b7f</id>
+      <!-- <name>Krime Junior</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7fffffff-fae8-45cb-ac9c-7fffffffe169</id>
+      <!-- <name>Krime Soldier</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <conceal amendoperation="replace">6</conceal>
+    </weapon>
+    <weapon>
+      <id>1a0458f9-8733-4a4a-b983-5785c91f3e0d</id>
+      <!-- <name>Krime KAR-97-H</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7fffffff-d3dc-452b-ab09-7fffffffd3d3</id>
+      <!-- <name>Krime Monster</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <category amendoperation="replace">Medium Machine Guns</category>
+    </weapon>
+    <weapon>
+      <id>7fffffff-f8d7-4f99-8c9d-7fffffff7d80</id>
+      <!-- <name>Krime Confederate</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+      <avail amendoperation="replace">20F</avail>
+    </weapon>
+    <weapon>
+      <id>35d3e76d-f3a6-495c-8d9d-0cc32aa54ee4</id>
+      <!-- <name>Krime T-Shirt Cannon</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <id>7fffffff-195a-47e8-ad05-7fffffffca0b</id>
+      <!-- <name>Krime Escalation</name> -->
+      <accessorymounts>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <damage amendoperation="replace">Missile</damage>
+    </weapon>
+    <weapon>
+      <id>7fffffff-e125-44fb-8977-7fffffffc59c</id>
+      <!-- <name>Krime Calliope</name> -->
+      <hide />
+    </weapon>
+    <weapon>
+      <id>7fffffff-a7c4-4acf-9193-7fffffff0537</id>
+      <!-- <name>Krime Ripper</name> -->
+      <hide />
+    </weapon>
+    <weapon>
+      <id>7fffffff-a8d1-4932-92db-7fffffff48e6</id>
+      <!-- <name>Krime Carpet</name> -->
+      <hide />
+    </weapon>
+    <weapon>
+      <id>7e032b35-2c36-489a-b8da-5a3799562415</id>
+      <!-- <name>Grenade: Krime Party</name> -->
+      <hide />
+    </weapon>
+  </weapons>
+  <accessories>
+    <accessory>
+      <id>7f66a669-917a-4423-bd83-cf0e0a1fb2a8</id>
+      <!-- <name>Concealable Holster</name> -->
+      <required>
+        <weapondetails amendoperation="replace">
+          <OR>
+            <conceal operation="lessthanequals">0</conceal>
+			      <name>Krime Stopper-II</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>18e18bbc-f287-4455-bedf-ba349779a4cb</id>
+      <!-- <name>Quick-Draw Holster</name> -->
+      <required>
+        <weapondetails amendoperation="replace">
+          <OR>
+            <conceal operation="lessthanequals">0</conceal>
+			      <name>Krime Stopper-II</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>ea64527d-0e1e-4248-957b-7c02d79dad30</id>
+      <!-- <name>Concealed Quick-Draw Holster</name> -->
+      <required>
+        <weapondetails amendoperation="replace">
+          <OR>
+            <conceal operation="lessthanequals">0</conceal>
+			      <name>Krime Stopper-II</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>06af1f95-772c-457d-9287-489cf1b0286d</id>
+      <!-- <name>Peak-Discharge Battery Pack, Power Clip</name> -->
+      <ammoreplace amendoperation="replace">15</ammoreplace>
+      <required>
+        <weapondetails>
+          <OR>
+            <name operation="contains">Ares Screech Sonic Rifle</name>
+            <weapontype>energy</weapontype>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>dda0b64a-6fa5-4e61-8631-f662f7066756</id>
+      <!-- <name>Peak-Discharge Battery Pack, Satchel Power Pack</name> -->
+      <ammoreplace amendoperation="replace">30</ammoreplace>
+      <required>
+        <weapondetails>
+          <OR>
+            <name operation="contains">Ares Screech Sonic Rifle</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>5a7459f5-2d95-4866-a855-110c0bc4f158</id>
+      <!-- <name>Peak-Discharge Battery Pack, Power Backpack</name> -->
+      <ammoreplace amendoperation="replace">90</ammoreplace>
+      <required>
+        <weapondetails>
+          <OR>
+            <name operation="contains">Ares Screech Sonic Rifle</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>5cc39a55-3973-4368-81ee-c7a5c0432323</id>
+      <!-- <name>Chameleon Coating (Pistol)</name> -->
+      <required>
+        <weapondetails>
+          <OR>
+            <category operation="contains">Submachine Guns</category>
+            <name operation="contains">Krime Stopper-II</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>98c9ed33-2636-40bb-a455-334e8fb8e65f</id>
+      <!-- <name>Chameleon Coating (Rifle)</name> -->
+      <required>
+        <weapondetails>
+          <OR>
+            <category operation="contains">Submachine Guns</category>
+            <name operation="contains">Krime Stopper-II</name>
+          </OR>
+        </weapondetails>
+      </required>
+    </accessory>
+    <accessory>
+      <id>85b01b5c-c788-4b43-8190-9e0c18391436</id>
+      <!-- <name>Personalized Grip</name> -->
+      <forbidden>
+        <weapondetails>
+          <name amendoperation="remove">
+          </name>
+          <OR>
+            <name>Plasteel Toe Boots</name>
+            <name>Lone Star Bates-Brown Tactical Combat Boots</name>
+          </OR>
+        </weapondetails>
+      </forbidden>
+    </accessory>
+  </accessories>
+</chummer>

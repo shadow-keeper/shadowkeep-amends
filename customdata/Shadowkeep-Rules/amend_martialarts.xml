@@ -32,9 +32,9 @@
         <name>Grasping Vines</name>
       </techniques>
     </martialart>
-	<martialart>
-    <id>21bc338f-7b28-49df-9d11-e4db076404be</id>
-	<techniques amendoperation="replace">
+    <martialart>
+      <id>21bc338f-7b28-49df-9d11-e4db076404be</id>
+      <techniques amendoperation="replace">
         <technique>
           <name>Ballestra</name>
         </technique>
@@ -60,7 +60,7 @@
           <name>Strike the Darkness</name>
         </technique>
       </techniques>
-  </martialart>
+    </martialart>
     <!-- End Region -->
   </martialarts>
   <techniques>
