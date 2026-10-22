@@ -41,7 +41,7 @@
       <name>Horizon Little Buddy</name>
       <hide />
     </vehicle>
-	  <vehicle>
+    <vehicle>
       <name>Medusa Extensions (Mini)</name>
       <hide />
     </vehicle>
@@ -51,7 +51,7 @@
       <name>Avibras-Nissan AN 822</name>
       <accel>3</accel>
     </vehicle>
-	<vehicle>
+    <vehicle>
       <id>61cb015d-236b-4236-a91a-f8ef3b2842c2</id>
       <name>Krime Barco de Pesca</name>
       <page>38</page>
@@ -84,11 +84,11 @@
       </mods>
     </vehicle>
     <!-- End Region -->
-	<!-- Region Rigger 5 -->
-	<vehicle>
-	  <id>34d93e94-55af-463b-bec3-ed719dbd9d91</id>
-	  <avail>14R</avail>
-	</vehicle>
+    <!-- Region Rigger 5 -->
+    <vehicle>
+      <id>34d93e94-55af-463b-bec3-ed719dbd9d91</id>
+      <avail>14R</avail>
+    </vehicle>
     <vehicle>
       <name>Horizon Mini-Zep (Small)</name>
       <mods amendoperation="replace">
@@ -128,7 +128,7 @@
       <name>Chameleon Coating[Stolen Souls]</name>
       <hide />
     </mod>
-<!--    <mod>
+    <!--    <mod>
       <name>Dash Light Bar</name>
       <hide />
     </mod>

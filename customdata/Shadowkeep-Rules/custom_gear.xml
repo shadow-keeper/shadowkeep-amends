@@ -26,7 +26,7 @@
     <category>Custom Deck Accessories</category>
   </categories>
   <gears>
-  <gear>
+    <gear>
       <id>3358875d-34fc-47db-a44a-f6b5a9cd2435</id>
       <name>Ghost Hound(Magic Sense)</name>
       <category>Animals</category>
@@ -35,9 +35,9 @@
       <cost>7000</cost>
       <source>DM</source>
       <page>0</page>
-	  <notes>Upkeep: 10% extra to lifestyle for each step under a Med lifestyle or higher.</notes>
-  </gear>
-  <gear>
+      <notes>Upkeep: 10% extra to lifestyle for each step under a Med lifestyle or higher.</notes>
+    </gear>
+    <gear>
       <id>e010c79c-0e95-4f47-b06c-967efbe626c5</id>
       <name>Ghost Hound(Astral Perception)</name>
       <category>Animals</category>
@@ -46,9 +46,9 @@
       <cost>9000</cost>
       <source>DM</source>
       <page>0</page>
-	  <notes>Upkeep: 10% extra to lifestyle for each step under a Med lifestyle or higher.</notes>
-  </gear>
-  <gear>
+      <notes>Upkeep: 10% extra to lifestyle for each step under a Med lifestyle or higher.</notes>
+    </gear>
+    <gear>
       <id>0198f16e-8bb2-a618-ab2a-f478abe6a4c7</id>
       <name>Ammo:Gyrojet Stick'n'shock</name>
       <category>Ammunition</category>
@@ -772,7 +772,7 @@
       <weaponbonus>
         <damage>1</damage>
       </weaponbonus>
-     <ammoforweapontype>gun</ammoforweapontype>
+      <ammoforweapontype>gun</ammoforweapontype>
     </gear>
     <gear>
       <id>d9f69780-92eb-41ff-9a9c-893f8c52794e</id>
@@ -1320,7 +1320,7 @@
       <avail>0R</avail>
       <cost>Rating * 100</cost>
     </gear>
-	<gear>
+    <gear>
       <id>bdeb3eb6-25aa-4143-b3fc-308ae345c73c</id>
       <name>Counterspelling Focus</name>
       <category>Foci</category>
@@ -1333,7 +1333,7 @@
       </bonus>
       <cost>Rating * 4000</cost>
     </gear>
-	<gear>
+    <gear>
       <id>f5475a83-35bc-4efb-b30a-80b10210d2d7</id>
       <name>Ritual Spellcasting Focus</name>
       <category>Foci</category>
@@ -1342,7 +1342,7 @@
       <page>320</page>
       <avail>(Rating * 3)R</avail>
       <bonus>
-		<spellcategory>
+        <spellcategory>
           <name>Rituals</name>
           <val>Rating</val>
         </spellcategory>
@@ -1363,19 +1363,19 @@
           <name>Combat</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Detection</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Health</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Illusion</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Manipulation</name>
           <val>Rating</val>
         </spellcategory>
@@ -1383,7 +1383,7 @@
       </bonus>
       <cost>Rating * 4000</cost>
     </gear>
-	<gear>
+    <gear>
       <id>4fa4b3d5-5526-4c56-9086-5cb392fe0ce7</id>
       <name>Counterspelling Focus, Individualized, Partial</name>
       <category>Foci</category>
@@ -1401,7 +1401,7 @@
       </required>
       <cost>Rating * 4000</cost>
     </gear>
-	    <gear>
+    <gear>
       <id>a96a6e92-c6d0-460e-8d15-9d608fbe0a8c</id>
       <name>Ritual Spellcasting Focus, Individualized, Partial</name>
       <category>Foci</category>
@@ -1410,7 +1410,7 @@
       <page>230</page>
       <avail>(Rating * 3)R</avail>
       <bonus>
-		<spellcategory>
+        <spellcategory>
           <name>Rituals</name>
           <val>Rating</val>
         </spellcategory>
@@ -1435,20 +1435,20 @@
         <spellcategory>
           <name>Combat</name>
           <val>Rating</val>
-		</spellcategory>
-	    <spellcategory>
+        </spellcategory>
+        <spellcategory>
           <name>Detection</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Health</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Illusion</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Manipulation</name>
           <val>Rating</val>
         </spellcategory>
@@ -1461,7 +1461,7 @@
       </required>
       <cost>Rating * 4000</cost>
     </gear>
-	<gear>
+    <gear>
       <id>2981dfbf-aeba-4033-8d04-77a42014e1e6</id>
       <name>Counterspelling Focus, Individualized, Complete</name>
       <category>Foci</category>
@@ -1488,7 +1488,7 @@
       <page>230</page>
       <avail>(Rating * 3)R</avail>
       <bonus>
-		<spellcategory>
+        <spellcategory>
           <name>Rituals</name>
           <val>Rating</val>
         </spellcategory>
@@ -1513,20 +1513,20 @@
         <spellcategory>
           <name>Combat</name>
           <val>Rating</val>
-		</spellcategory>
-		<spellcategory>
+        </spellcategory>
+        <spellcategory>
           <name>Detection</name>
           <val>Rating</val>
-		</spellcategory>
-		<spellcategory>
+        </spellcategory>
+        <spellcategory>
           <name>Health</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Illusion</name>
           <val>Rating</val>
         </spellcategory>
-		<spellcategory>
+        <spellcategory>
           <name>Manipulation</name>
           <val>Rating</val>
         </spellcategory>
@@ -1674,11 +1674,11 @@ Crash: Astral Beacon for equal duration, -1 dicepool on all actions per dose con
     When ingested, body heat activates the bacteria that quickly spreads through the user's bloodstream. Similarly to FAB III, it feeds on mana; unlike FAB III, this is a much more sluggish process, akin to photosynthesizing via astral 'light'. This dims the colors of the user's aura to nearly background levels, while at the same time, the astrally luminescent byproducts create a flowing aura in their host's form.
     While khamsa is active, the user's aura is masked to a generic mundane metahuman with no particular mood. If an astral observer gets at least 3 hits on an Assensing Test, they do not see the underlying aura, but it becomes apparent the presented one is fake, similarly to noticing camera footage is being looped.
     If a prospective user is currently on the astral plane (astrally perceiving or projecting), or enters it while khamsa is active, the effect is immediately lost. Instead, they suffer from nausea for 10 minutes.
-    HMHVV Infected are entirely unaffected by khamsa. HMHVV treats the bacteria like a hostile claimant and viciously defends its host, similar to its response to CFD.</notes>
+      HMHVV Infected are entirely unaffected by khamsa. HMHVV treats the bacteria like a hostile claimant and viciously defends its host, similar to its response to CFD.</notes>
     </gear>
-	<gear>
-	  <id>53e003be-9def-6f1b-9081-dae4c823ca7d</id>
-	  <name>Spell Formula, Ritual</name>
+    <gear>
+      <id>53e003be-9def-6f1b-9081-dae4c823ca7d</id>
+      <name>Spell Formula, Ritual</name>
       <category>Formulae</category>
       <rating>0</rating>
       <source>SR5</source>
@@ -1689,7 +1689,7 @@ Crash: Astral Beacon for equal duration, -1 dicepool on all actions per dose con
       </bonus>
       <cost>2000</cost>
       <allowrename>True</allowrename>
-	</gear>
+    </gear>
     <gear>
       <id>bdebc478-503a-43ae-814c-f3b77049c99a</id>
       <name>Cinderella</name>
@@ -2535,7 +2535,7 @@ Crash: Astral Beacon for equal duration, -1 dicepool on all actions per dose con
       <avail>0</avail>
       <capacity>[1]</capacity>
       <cost>0</cost>
-       <required>
+      <required>
         <geardetails>
           <OR>
             <name>Custom Deck Core</name>

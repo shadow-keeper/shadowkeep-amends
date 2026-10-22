@@ -19,10 +19,10 @@
   https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema critterpowers.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema critterpowers.xsd">
 
   <powers>
-	<!-- Skills as optional powers (hidden from normal view, only accessible through bonuses) -->
+    <!-- Skills as optional powers (hidden from normal view, only accessible through bonuses) -->
 
     <!-- End Region -->
     <power>

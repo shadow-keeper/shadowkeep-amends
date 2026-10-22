@@ -21,59 +21,59 @@
   <metatypes>
     <metatype>
       <name>Troll</name>
-        <metavariants>
-          <metavariant xpathfilter="name = 'Fomorian'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Horns</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-        </metavariants>
+      <metavariants>
+        <metavariant xpathfilter="name = 'Fomorian'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Horns</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+      </metavariants>
     </metatype>
     <metatype>
       <name>Ork</name>
-        <metavariants>
-          <metavariant xpathfilter="name = 'Satyr'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Horns</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Oni'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Horns</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-        </metavariants>
+      <metavariants>
+        <metavariant xpathfilter="name = 'Satyr'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Horns</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Oni'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Horns</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+      </metavariants>
     </metatype>
-      <metatype xpathfilter="contains(name,'Shapeshifter')">
-        <metavariants>
-          <metavariant xpathfilter="name = 'Fomorian'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Horns</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Satyr'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Horns</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Oni'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Horns</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-        </metavariants>
-      </metatype>
+    <metatype xpathfilter="contains(name,'Shapeshifter')">
+      <metavariants>
+        <metavariant xpathfilter="name = 'Fomorian'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Horns</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Satyr'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Horns</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Oni'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Horns</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+      </metavariants>
+    </metatype>
   </metatypes>
 </chummer>

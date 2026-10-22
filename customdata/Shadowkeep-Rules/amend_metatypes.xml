@@ -36,344 +36,344 @@
       <depaug>7</depaug>
       <qualityrestriction amendoperation="replace">
         <positive>
-            <quality>Beholden to Fate R1</quality>
-            <quality>Beholden to Fate R2</quality>
-            <quality>Exceptional Depth Augmnetation(CHA)</quality>
-            <quality>Exceptional Depth Augmnetation(INT)</quality>
-            <quality>Exceptional Depth Augmnetation(LOG)</quality>
-            <quality>Exceptional Depth Augmnetation(WIL)</quality>
-            <quality>Depth Augmnetation(CHA)</quality>
-            <quality>Depth Augmnetation(INT)</quality>
-            <quality>Depth Augmnetation(LOG)</quality>
-            <quality>Depth Augmnetation(WIL)</quality>
-            <quality>Fix Luck</quality>
-            <quality>Analytical Mind</quality>
-            <quality>Aptitude</quality>
-            <quality>Bilingual</quality>
-            <quality>Catlike</quality>
-            <quality>Codeslinger</quality>
-            <quality>First Impression</quality>
-            <quality>Gearhead</quality>
-            <quality>Guts</quality>
-            <quality>High Pain Tolerance</quality>
-            <quality>Home Ground</quality>
-            <quality>Indomitable (Mental)</quality>
-            <quality>Indomitable (Social)</quality>
-            <quality>Juryrigger</quality>
-            <quality>Lucky</quality>
-            <quality>Photographic Memory</quality>
-            <quality>Quick Healer</quality>
-            <quality>Deus Vult!</quality>
-            <quality>My Country, Right or Wrong</quality>
-            <quality>Out For Myself</quality>
-            <quality>Strive For Perfection</quality>
-            <quality>Acrobatic Defender</quality>
-            <quality>Agile Defender</quality>
-            <quality>Brand Loyalty (Manufacturer)</quality>
-            <quality>Brand Loyalty (Product)</quality>
-            <quality>One Trick Pony</quality>
-            <quality>Perceptive Defender</quality>
-            <quality>Sharpshooter</quality>
-            <quality>Too Pretty To Hit</quality>
-            <quality>Gifted Healer</quality>
-            <quality>College Education</quality>
-            <quality>Inspired</quality>
-            <quality>Animal Empathy</quality>
-            <quality>Black Market Pipeline</quality>
-            <quality>Born Rich</quality>
-            <quality>City Slicker</quality>
-            <quality>College Education</quality>
-            <quality>Common Sense</quality>
-            <quality>Daredevil</quality>
-            <quality>Digital Doppelganger</quality>
-            <quality>Disgraced</quality>
-            <quality>Erased</quality>
-            <quality>Fame: Local</quality>
-            <quality>Fame: National</quality>
-            <quality>Fame: Megacorporate</quality>
-            <quality>Fame: Global</quality>
-            <quality>Inspired</quality>
-            <quality>Jack of All Trades Master of None</quality>
-            <quality>Linguist</quality>
-            <quality>Made Man</quality>
-            <quality>Overclocker</quality>
-            <quality>Outdoorsman</quality>
-            <quality>Perceptive</quality>
-            <quality>Perfect Time</quality>
-            <quality>Privileged Family Name</quality>
-            <quality>Rank (Neither Military nor Law Enforcement) I</quality>
-            <quality>Rank (Neither Military nor Law Enforcement) II</quality>
-            <quality>Rank (Neither Military nor Law Enforcement) III</quality>
-            <quality>Rank (Military or Law Enforcement) I</quality>
-            <quality>Rank (Military or Law Enforcement) II</quality>
-            <quality>Rank (Military or Law Enforcement) III</quality>
-            <quality>Restricted Gear</quality>
-            <quality>School of Hard Knocks</quality>
-            <quality>Sense of Direction</quality>
-            <quality>Sensei</quality>
-            <quality>Solid Rep</quality>
-            <quality>Legendary Rep</quality>
-            <quality>Speed Reading</quality>
-            <quality>Spike Resistance</quality>
-            <quality>Steely Eyed Wheelman</quality>
-            <quality>Technical School Education</quality>
-            <quality>Trust Fund I</quality>
-            <quality>Trust Fund II</quality>
-            <quality>Trust Fund III</quality>
-            <quality>Trust Fund IV</quality>
-            <quality>Trustworthy</quality>
-            <quality>Vehicle Empathy</quality>
-            <quality>Water Sprite</quality>
-            <quality>Data Anomaly</quality>
-            <quality>Fade to Black</quality>
-            <quality>Go Big or Go Home</quality>
-            <quality>Golden Screwdriver</quality>
-            <quality>I C U</quality>
-            <quality>Ninja Vanish</quality>
-            <quality>Online Fame</quality>
-            <quality>Pain is Gain</quality>
-            <quality>Prime Datahaven Membership</quality>
-            <quality>Profiler</quality>
-            <quality>Quick Config</quality>
-            <quality>Chatty</quality>
-            <quality>Designer</quality>
-            <quality>Exceptional Entity</quality>
-            <quality>Hello World!</quality>
-            <quality>Inherent Program</quality>
-            <quality>Improved Restoration</quality>
-            <quality>Low Profile</quality>
-            <quality>Munge</quality>
-            <quality>Multiprocessing</quality>
-            <quality>Pilot Origins</quality>
-            <quality>Redundancy</quality>
-            <quality>Sapper</quality>
-            <quality>Sensor Upgrade</quality>
-            <quality>Snooper</quality>
-            <quality>Virtual Stability</quality>
-            <quality>Better to be Feared Than Loved</quality>
-            <quality>Revels in Murder</quality>
-            <quality>Barrens Rat</quality>
-            <quality>Poisoner</quality>
-            <quality>Practice, Practice, Practice</quality>
-            <quality>Chaser</quality>
-            <quality>Dealer Connection</quality>
-            <quality>Grease Monkey</quality>
-            <quality>Speed Demon</quality>
-            <quality>Stunt Driver</quality>
-            <quality>Subtle Pilot</quality>
-            <quality>Alibi</quality>
-            <quality>Closer</quality>
-            <quality>Cynic</quality>
-            <quality>Empathic Listener</quality>
-            <quality>Groupthink</quality>
-            <quality>Honest Face</quality>
-            <quality>Innocuous</quality>
-            <quality>Master Debater</quality>
-            <quality>Memory Palace</quality>
-            <quality>Method Actor</quality>
-            <quality>Mnemonic Vault</quality>
-            <quality>Watch the Suit</quality>
-            <quality>Alpha Junkie</quality>
-            <quality>Designated Omega</quality>
-            <quality>Disheveled</quality>
-            <quality>Favored (Common Target, Biased)</quality>
-            <quality>Favored (Common Target, Outspoken)</quality>
-            <quality>Favored (Common Target, Fanatic)</quality>
-            <quality>Favored (Specific Target, Biased)</quality>
-            <quality>Favored (Specific Target, Outspoken)</quality>
-            <quality>Favored (Specific Target, Fanatic)</quality>
-            <quality>One Born Every Minute</quality>
-            <quality>The Goat</quality>
-            <quality>Community Connection</quality>
-            <quality>Corporate Loyalist</quality>
-            <quality>Natural Leader</quality>
-            <quality>Observant</quality>
-            <quality>Battle Hardened</quality>
-            <quality>Deck Builder</quality>
-            <quality>Impenetrable Logic</quality>
-            <quality>Rootkit</quality>
-            <quality>Silence is Golden</quality>
-            <quality>Brilliant Heuristics</quality>
-            <quality>Hold the Door</quality>
-            <quality>Fractal Punch</quality>
-            <quality>Lone Wolf</quality>
-            <quality>Team Player</quality>
-            <quality>Trust Data, Not Lore</quality>
-            <quality>Trust Lore, Not Data</quality>
-            <quality>Unique Avatar</quality>
-            <quality>Hair Trigger</quality>
-            <quality>Hi-Rez</quality>
-            <quality>Instinctive Hack</quality>
-            <quality>Rabble Rouser</quality>
-            <quality>Social Chameleon</quality>
-            <quality>Prototype Materials</quality>
-            <quality>Shoot First, Don't Ask Questions</quality>
-            <quality>Special Modifications</quality>
-            <quality>Special Modifications (Prototype Materials)</quality>
-            <quality>Candle in the Darkness</quality>
-            <quality>Massive Network</quality>
-            <quality>Networker</quality>
-            <quality>Spacer</quality>
-            <quality>History Is Not As Certain As We Are Taught</quality>
-            <quality>Secondary Special Modifications</quality>
-            <quality>Additional Prototype Materials</quality>
+          <quality>Beholden to Fate R1</quality>
+          <quality>Beholden to Fate R2</quality>
+          <quality>Exceptional Depth Augmnetation(CHA)</quality>
+          <quality>Exceptional Depth Augmnetation(INT)</quality>
+          <quality>Exceptional Depth Augmnetation(LOG)</quality>
+          <quality>Exceptional Depth Augmnetation(WIL)</quality>
+          <quality>Depth Augmnetation(CHA)</quality>
+          <quality>Depth Augmnetation(INT)</quality>
+          <quality>Depth Augmnetation(LOG)</quality>
+          <quality>Depth Augmnetation(WIL)</quality>
+          <quality>Fix Luck</quality>
+          <quality>Analytical Mind</quality>
+          <quality>Aptitude</quality>
+          <quality>Bilingual</quality>
+          <quality>Catlike</quality>
+          <quality>Codeslinger</quality>
+          <quality>First Impression</quality>
+          <quality>Gearhead</quality>
+          <quality>Guts</quality>
+          <quality>High Pain Tolerance</quality>
+          <quality>Home Ground</quality>
+          <quality>Indomitable (Mental)</quality>
+          <quality>Indomitable (Social)</quality>
+          <quality>Juryrigger</quality>
+          <quality>Lucky</quality>
+          <quality>Photographic Memory</quality>
+          <quality>Quick Healer</quality>
+          <quality>Deus Vult!</quality>
+          <quality>My Country, Right or Wrong</quality>
+          <quality>Out For Myself</quality>
+          <quality>Strive For Perfection</quality>
+          <quality>Acrobatic Defender</quality>
+          <quality>Agile Defender</quality>
+          <quality>Brand Loyalty (Manufacturer)</quality>
+          <quality>Brand Loyalty (Product)</quality>
+          <quality>One Trick Pony</quality>
+          <quality>Perceptive Defender</quality>
+          <quality>Sharpshooter</quality>
+          <quality>Too Pretty To Hit</quality>
+          <quality>Gifted Healer</quality>
+          <quality>College Education</quality>
+          <quality>Inspired</quality>
+          <quality>Animal Empathy</quality>
+          <quality>Black Market Pipeline</quality>
+          <quality>Born Rich</quality>
+          <quality>City Slicker</quality>
+          <quality>College Education</quality>
+          <quality>Common Sense</quality>
+          <quality>Daredevil</quality>
+          <quality>Digital Doppelganger</quality>
+          <quality>Disgraced</quality>
+          <quality>Erased</quality>
+          <quality>Fame: Local</quality>
+          <quality>Fame: National</quality>
+          <quality>Fame: Megacorporate</quality>
+          <quality>Fame: Global</quality>
+          <quality>Inspired</quality>
+          <quality>Jack of All Trades Master of None</quality>
+          <quality>Linguist</quality>
+          <quality>Made Man</quality>
+          <quality>Overclocker</quality>
+          <quality>Outdoorsman</quality>
+          <quality>Perceptive</quality>
+          <quality>Perfect Time</quality>
+          <quality>Privileged Family Name</quality>
+          <quality>Rank (Neither Military nor Law Enforcement) I</quality>
+          <quality>Rank (Neither Military nor Law Enforcement) II</quality>
+          <quality>Rank (Neither Military nor Law Enforcement) III</quality>
+          <quality>Rank (Military or Law Enforcement) I</quality>
+          <quality>Rank (Military or Law Enforcement) II</quality>
+          <quality>Rank (Military or Law Enforcement) III</quality>
+          <quality>Restricted Gear</quality>
+          <quality>School of Hard Knocks</quality>
+          <quality>Sense of Direction</quality>
+          <quality>Sensei</quality>
+          <quality>Solid Rep</quality>
+          <quality>Legendary Rep</quality>
+          <quality>Speed Reading</quality>
+          <quality>Spike Resistance</quality>
+          <quality>Steely Eyed Wheelman</quality>
+          <quality>Technical School Education</quality>
+          <quality>Trust Fund I</quality>
+          <quality>Trust Fund II</quality>
+          <quality>Trust Fund III</quality>
+          <quality>Trust Fund IV</quality>
+          <quality>Trustworthy</quality>
+          <quality>Vehicle Empathy</quality>
+          <quality>Water Sprite</quality>
+          <quality>Data Anomaly</quality>
+          <quality>Fade to Black</quality>
+          <quality>Go Big or Go Home</quality>
+          <quality>Golden Screwdriver</quality>
+          <quality>I C U</quality>
+          <quality>Ninja Vanish</quality>
+          <quality>Online Fame</quality>
+          <quality>Pain is Gain</quality>
+          <quality>Prime Datahaven Membership</quality>
+          <quality>Profiler</quality>
+          <quality>Quick Config</quality>
+          <quality>Chatty</quality>
+          <quality>Designer</quality>
+          <quality>Exceptional Entity</quality>
+          <quality>Hello World!</quality>
+          <quality>Inherent Program</quality>
+          <quality>Improved Restoration</quality>
+          <quality>Low Profile</quality>
+          <quality>Munge</quality>
+          <quality>Multiprocessing</quality>
+          <quality>Pilot Origins</quality>
+          <quality>Redundancy</quality>
+          <quality>Sapper</quality>
+          <quality>Sensor Upgrade</quality>
+          <quality>Snooper</quality>
+          <quality>Virtual Stability</quality>
+          <quality>Better to be Feared Than Loved</quality>
+          <quality>Revels in Murder</quality>
+          <quality>Barrens Rat</quality>
+          <quality>Poisoner</quality>
+          <quality>Practice, Practice, Practice</quality>
+          <quality>Chaser</quality>
+          <quality>Dealer Connection</quality>
+          <quality>Grease Monkey</quality>
+          <quality>Speed Demon</quality>
+          <quality>Stunt Driver</quality>
+          <quality>Subtle Pilot</quality>
+          <quality>Alibi</quality>
+          <quality>Closer</quality>
+          <quality>Cynic</quality>
+          <quality>Empathic Listener</quality>
+          <quality>Groupthink</quality>
+          <quality>Honest Face</quality>
+          <quality>Innocuous</quality>
+          <quality>Master Debater</quality>
+          <quality>Memory Palace</quality>
+          <quality>Method Actor</quality>
+          <quality>Mnemonic Vault</quality>
+          <quality>Watch the Suit</quality>
+          <quality>Alpha Junkie</quality>
+          <quality>Designated Omega</quality>
+          <quality>Disheveled</quality>
+          <quality>Favored (Common Target, Biased)</quality>
+          <quality>Favored (Common Target, Outspoken)</quality>
+          <quality>Favored (Common Target, Fanatic)</quality>
+          <quality>Favored (Specific Target, Biased)</quality>
+          <quality>Favored (Specific Target, Outspoken)</quality>
+          <quality>Favored (Specific Target, Fanatic)</quality>
+          <quality>One Born Every Minute</quality>
+          <quality>The Goat</quality>
+          <quality>Community Connection</quality>
+          <quality>Corporate Loyalist</quality>
+          <quality>Natural Leader</quality>
+          <quality>Observant</quality>
+          <quality>Battle Hardened</quality>
+          <quality>Deck Builder</quality>
+          <quality>Impenetrable Logic</quality>
+          <quality>Rootkit</quality>
+          <quality>Silence is Golden</quality>
+          <quality>Brilliant Heuristics</quality>
+          <quality>Hold the Door</quality>
+          <quality>Fractal Punch</quality>
+          <quality>Lone Wolf</quality>
+          <quality>Team Player</quality>
+          <quality>Trust Data, Not Lore</quality>
+          <quality>Trust Lore, Not Data</quality>
+          <quality>Unique Avatar</quality>
+          <quality>Hair Trigger</quality>
+          <quality>Hi-Rez</quality>
+          <quality>Instinctive Hack</quality>
+          <quality>Rabble Rouser</quality>
+          <quality>Social Chameleon</quality>
+          <quality>Prototype Materials</quality>
+          <quality>Shoot First, Don't Ask Questions</quality>
+          <quality>Special Modifications</quality>
+          <quality>Special Modifications (Prototype Materials)</quality>
+          <quality>Candle in the Darkness</quality>
+          <quality>Massive Network</quality>
+          <quality>Networker</quality>
+          <quality>Spacer</quality>
+          <quality>History Is Not As Certain As We Are Taught</quality>
+          <quality>Secondary Special Modifications</quality>
+          <quality>Additional Prototype Materials</quality>
         </positive>
         <negative>
-            <quality>Addiction (Mild)</quality>
-            <quality>Addiction (Moderate)</quality>
-            <quality>Addiction (Severe)</quality>
-            <quality>Addiction (Burnout)</quality>
-            <quality>Bad Luck</quality>
-            <quality>Bad Rep</quality>
-            <quality>Code of Honor</quality>
-            <quality>Codeblock</quality>
-            <quality>Combat Paralysis</quality>
-            <quality>Dependent (Nuisance)</quality>
-            <quality>Dependent (Inconvenience)</quality>
-            <quality>Dependent (Demanding)</quality>
-            <quality>Gremlins</quality>
-            <quality>Incompetent</quality>
-            <quality>Insomnia (Basic)</quality>
-            <quality>Insomnia (Full)</quality>
-            <quality>Loss of Confidence</quality>
-            <quality>Low Pain Tolerance</quality>
-            <quality>Prejudiced (Common, Biased)</quality>
-            <quality>Prejudiced (Common, Outspoken)</quality>
-            <quality>Prejudiced (Common, Radical)</quality>
-            <quality>Prejudiced (Specific, Biased)</quality>
-            <quality>Prejudiced (Specific, Outspoken)</quality>
-            <quality>Prejudiced (Specific, Radical)</quality>
-            <quality>Scorched</quality>
-            <quality>SINner (Corporate)</quality>
-            <quality>SINner (National)</quality>
-            <quality>SINner (Corporate Limited)</quality>
-            <quality>SINner (Criminal)</quality>
-            <quality>Social Stress</quality>
-            <quality>Uncouth</quality>
-            <quality>Consummate Professional</quality>
-            <quality>Combat Junkie</quality>
-            <quality>Earther</quality>
-            <quality>Uneducated</quality>
-            <quality>Unsteady Hands</quality>
-            <quality>Illness</quality>
-            <quality>Bi-Polar</quality>
-            <quality>Big Regret</quality>
-            <quality>Computer Illiterate</quality>
-            <quality>Creature of Comfort (Middle)</quality>
-            <quality>Creature of Comfort (High)</quality>
-            <quality>Creature of Comfort (Luxury)</quality>
-            <quality>Day Job (10 hrs)</quality>
-            <quality>Day Job (20 hrs)</quality>
-            <quality>Day Job (40 hrs)</quality>
-            <quality>Did You Just Call Me Dumb?</quality>
-            <quality>Dimmer Bulb</quality>
-            <quality>Driven</quality>
-            <quality>Flashbacks I</quality>
-            <quality>Flashbacks II</quality>
-            <quality>Hobo with a Shotgun</quality>
-            <quality>Hung Out to Dry</quality>
-            <quality>Illiterate</quality>
-            <quality>In Debt</quality>
-            <quality>Incomplete Deprogramming</quality>
-            <quality>Liar</quality>
-            <quality>Oblivious I</quality>
-            <quality>Oblivious II</quality>
-            <quality>Pacifist I</quality>
-            <quality>Pacifist II</quality>
-            <quality>Paranoia</quality>
-            <quality>Phobia (Uncommon, Mild)</quality>
-            <quality>Phobia (Uncommon, Moderate)</quality>
-            <quality>Phobia (Uncommon, Severe)</quality>
-            <quality>Phobia (Common, Mild)</quality>
-            <quality>Phobia (Common, Moderate)</quality>
-            <quality>Phobia (Common, Severe)</quality>
-            <quality>Pie Iesu Domine. Dona Eis Requiem.</quality>
-            <quality>Poor Self Control (Braggart)</quality>
-            <quality>Poor Self Control (Compulsive I, Personal)</quality>
-            <quality>Poor Self Control (Compulsive II, Personal)</quality>
-            <quality>Poor Self Control (Compulsive III, Personal)</quality>
-            <quality>Poor Self Control (Compulsive IV, Personal)</quality>
-            <quality>Poor Self Control (Compulsive I, Public Single Aspect)</quality>
-            <quality>Poor Self Control (Compulsive II, Public Single Aspect)</quality>
-            <quality>Poor Self Control (Compulsive III, Public Single Aspect)</quality>
-            <quality>Poor Self Control (Compulsive IV, Public Single Aspect)</quality>
-            <quality>Poor Self Control (Compulsive I, Public Broad Aspect)</quality>
-            <quality>Poor Self Control (Compulsive II, Public Broad Aspect)</quality>
-            <quality>Poor Self Control (Compulsive III, Public Broad Aspect)</quality>
-            <quality>Poor Self Control (Compulsive IV, Public Broad Aspect)</quality>
-            <quality>Poor Self Control (Thrill Seeker)</quality>
-            <quality>Poor Self Control (Vindictive)</quality>
-            <quality>Poor Self Control (Combat Monster)</quality>
-            <quality>Records on File</quality>
-            <quality>Signature</quality>
-            <quality>Vendetta</quality>
-            <quality>Wanted</quality>
-            <quality>Emotional Attachment</quality>
-            <quality>Code of Honor: Like a Boss</quality>
-            <quality>Curiosity Killed the Cat</quality>
-            <quality>Data Liberator</quality>
-            <quality>Electronic Witness</quality>
-            <quality>Faraday Himself</quality>
-            <quality>Leeeeeeeroy Jenkins</quality>
-            <quality>Nerdrage</quality>
-            <quality>Prank Warrior</quality>
-            <quality>Wanted by GOD</quality>
-            <quality>Corrupter</quality>
-            <quality>Easily Exploitable</quality>
-            <quality>Fragmentation</quality>
-            <quality>Persnickety Renter</quality>
-            <quality>Real World Naiveté</quality>
-            <quality>Antipathy</quality>
-            <quality>Dead Emotion</quality>
-            <quality>Dry Addict (Mild)</quality>
-            <quality>Dry Addict (Moderate)</quality>
-            <quality>Dry Addict (Severe)</quality>
-            <quality>Dry Addict (Burnout)</quality>
-            <quality>Lack of Focus</quality>
-            <quality>One of Them</quality>
-            <quality>Poor Self Control (Attention-Seeking)</quality>
-            <quality>Poor Self Control (Sadistic)</quality>
-            <quality>So Jacked Up</quality>
-            <quality>Superhuman Psychosis</quality>
-            <quality>Tough and Targeted</quality>
-            <quality>Code of Honor: Avenging Angel</quality>
-            <quality>Impassive</quality>
-            <quality>Faceless</quality>
-            <quality>Accident Prone</quality>
-            <quality>Too Much Data</quality>
-            <quality>Bad Credit</quality>
-            <quality>Elevated Stress</quality>
-            <quality>Force of Chaos</quality>
-            <quality>Corporate Pariah I</quality>
-            <quality>Corporate Pariah II</quality>
-            <quality>Every Man For Himself</quality>
-            <quality>No Man Left Behind</quality>
-            <quality>Stay Out of My Way</quality>
-            <quality>This Is Your Last Chance</quality>
-            <quality>Thousand-Yard Stare</quality>
-            <quality>Buddy System</quality>
-            <quality>Down the Rabbit Hole</quality>
-            <quality>Echo Chamber</quality>
-            <quality>Frostbite</quality>
-            <quality>Information Auctioneer</quality>
-            <quality>Lazy Fingers</quality>
-            <quality>Malware Infection</quality>
-            <quality>Matrix Troll</quality>
-            <quality>Sloppy Code</quality>
-            <quality>Well, Actually...</quality>
-            <quality>Code of Honor: Black Hat</quality>
-            <quality>Data Hog</quality>
-            <quality>Dead SIN</quality>
-            <quality>Hard Luck</quality>
-            <quality>Stolen Gear</quality>
-            <quality>Chronic Dissociation Syndrome</quality>
-            <quality>Delusion</quality>
-            <quality>Dementia</quality>
-            <quality>Emotion Leak</quality>
-            <quality>Hallucinations</quality>
-            <quality>Dissociative Identity Disorder</quality>
-            <quality>An Overwhelming Despair</quality>
-            <quality>A Terrible Fascination</quality>
+          <quality>Addiction (Mild)</quality>
+          <quality>Addiction (Moderate)</quality>
+          <quality>Addiction (Severe)</quality>
+          <quality>Addiction (Burnout)</quality>
+          <quality>Bad Luck</quality>
+          <quality>Bad Rep</quality>
+          <quality>Code of Honor</quality>
+          <quality>Codeblock</quality>
+          <quality>Combat Paralysis</quality>
+          <quality>Dependent (Nuisance)</quality>
+          <quality>Dependent (Inconvenience)</quality>
+          <quality>Dependent (Demanding)</quality>
+          <quality>Gremlins</quality>
+          <quality>Incompetent</quality>
+          <quality>Insomnia (Basic)</quality>
+          <quality>Insomnia (Full)</quality>
+          <quality>Loss of Confidence</quality>
+          <quality>Low Pain Tolerance</quality>
+          <quality>Prejudiced (Common, Biased)</quality>
+          <quality>Prejudiced (Common, Outspoken)</quality>
+          <quality>Prejudiced (Common, Radical)</quality>
+          <quality>Prejudiced (Specific, Biased)</quality>
+          <quality>Prejudiced (Specific, Outspoken)</quality>
+          <quality>Prejudiced (Specific, Radical)</quality>
+          <quality>Scorched</quality>
+          <quality>SINner (Corporate)</quality>
+          <quality>SINner (National)</quality>
+          <quality>SINner (Corporate Limited)</quality>
+          <quality>SINner (Criminal)</quality>
+          <quality>Social Stress</quality>
+          <quality>Uncouth</quality>
+          <quality>Consummate Professional</quality>
+          <quality>Combat Junkie</quality>
+          <quality>Earther</quality>
+          <quality>Uneducated</quality>
+          <quality>Unsteady Hands</quality>
+          <quality>Illness</quality>
+          <quality>Bi-Polar</quality>
+          <quality>Big Regret</quality>
+          <quality>Computer Illiterate</quality>
+          <quality>Creature of Comfort (Middle)</quality>
+          <quality>Creature of Comfort (High)</quality>
+          <quality>Creature of Comfort (Luxury)</quality>
+          <quality>Day Job (10 hrs)</quality>
+          <quality>Day Job (20 hrs)</quality>
+          <quality>Day Job (40 hrs)</quality>
+          <quality>Did You Just Call Me Dumb?</quality>
+          <quality>Dimmer Bulb</quality>
+          <quality>Driven</quality>
+          <quality>Flashbacks I</quality>
+          <quality>Flashbacks II</quality>
+          <quality>Hobo with a Shotgun</quality>
+          <quality>Hung Out to Dry</quality>
+          <quality>Illiterate</quality>
+          <quality>In Debt</quality>
+          <quality>Incomplete Deprogramming</quality>
+          <quality>Liar</quality>
+          <quality>Oblivious I</quality>
+          <quality>Oblivious II</quality>
+          <quality>Pacifist I</quality>
+          <quality>Pacifist II</quality>
+          <quality>Paranoia</quality>
+          <quality>Phobia (Uncommon, Mild)</quality>
+          <quality>Phobia (Uncommon, Moderate)</quality>
+          <quality>Phobia (Uncommon, Severe)</quality>
+          <quality>Phobia (Common, Mild)</quality>
+          <quality>Phobia (Common, Moderate)</quality>
+          <quality>Phobia (Common, Severe)</quality>
+          <quality>Pie Iesu Domine. Dona Eis Requiem.</quality>
+          <quality>Poor Self Control (Braggart)</quality>
+          <quality>Poor Self Control (Compulsive I, Personal)</quality>
+          <quality>Poor Self Control (Compulsive II, Personal)</quality>
+          <quality>Poor Self Control (Compulsive III, Personal)</quality>
+          <quality>Poor Self Control (Compulsive IV, Personal)</quality>
+          <quality>Poor Self Control (Compulsive I, Public Single Aspect)</quality>
+          <quality>Poor Self Control (Compulsive II, Public Single Aspect)</quality>
+          <quality>Poor Self Control (Compulsive III, Public Single Aspect)</quality>
+          <quality>Poor Self Control (Compulsive IV, Public Single Aspect)</quality>
+          <quality>Poor Self Control (Compulsive I, Public Broad Aspect)</quality>
+          <quality>Poor Self Control (Compulsive II, Public Broad Aspect)</quality>
+          <quality>Poor Self Control (Compulsive III, Public Broad Aspect)</quality>
+          <quality>Poor Self Control (Compulsive IV, Public Broad Aspect)</quality>
+          <quality>Poor Self Control (Thrill Seeker)</quality>
+          <quality>Poor Self Control (Vindictive)</quality>
+          <quality>Poor Self Control (Combat Monster)</quality>
+          <quality>Records on File</quality>
+          <quality>Signature</quality>
+          <quality>Vendetta</quality>
+          <quality>Wanted</quality>
+          <quality>Emotional Attachment</quality>
+          <quality>Code of Honor: Like a Boss</quality>
+          <quality>Curiosity Killed the Cat</quality>
+          <quality>Data Liberator</quality>
+          <quality>Electronic Witness</quality>
+          <quality>Faraday Himself</quality>
+          <quality>Leeeeeeeroy Jenkins</quality>
+          <quality>Nerdrage</quality>
+          <quality>Prank Warrior</quality>
+          <quality>Wanted by GOD</quality>
+          <quality>Corrupter</quality>
+          <quality>Easily Exploitable</quality>
+          <quality>Fragmentation</quality>
+          <quality>Persnickety Renter</quality>
+          <quality>Real World Naiveté</quality>
+          <quality>Antipathy</quality>
+          <quality>Dead Emotion</quality>
+          <quality>Dry Addict (Mild)</quality>
+          <quality>Dry Addict (Moderate)</quality>
+          <quality>Dry Addict (Severe)</quality>
+          <quality>Dry Addict (Burnout)</quality>
+          <quality>Lack of Focus</quality>
+          <quality>One of Them</quality>
+          <quality>Poor Self Control (Attention-Seeking)</quality>
+          <quality>Poor Self Control (Sadistic)</quality>
+          <quality>So Jacked Up</quality>
+          <quality>Superhuman Psychosis</quality>
+          <quality>Tough and Targeted</quality>
+          <quality>Code of Honor: Avenging Angel</quality>
+          <quality>Impassive</quality>
+          <quality>Faceless</quality>
+          <quality>Accident Prone</quality>
+          <quality>Too Much Data</quality>
+          <quality>Bad Credit</quality>
+          <quality>Elevated Stress</quality>
+          <quality>Force of Chaos</quality>
+          <quality>Corporate Pariah I</quality>
+          <quality>Corporate Pariah II</quality>
+          <quality>Every Man For Himself</quality>
+          <quality>No Man Left Behind</quality>
+          <quality>Stay Out of My Way</quality>
+          <quality>This Is Your Last Chance</quality>
+          <quality>Thousand-Yard Stare</quality>
+          <quality>Buddy System</quality>
+          <quality>Down the Rabbit Hole</quality>
+          <quality>Echo Chamber</quality>
+          <quality>Frostbite</quality>
+          <quality>Information Auctioneer</quality>
+          <quality>Lazy Fingers</quality>
+          <quality>Malware Infection</quality>
+          <quality>Matrix Troll</quality>
+          <quality>Sloppy Code</quality>
+          <quality>Well, Actually...</quality>
+          <quality>Code of Honor: Black Hat</quality>
+          <quality>Data Hog</quality>
+          <quality>Dead SIN</quality>
+          <quality>Hard Luck</quality>
+          <quality>Stolen Gear</quality>
+          <quality>Chronic Dissociation Syndrome</quality>
+          <quality>Delusion</quality>
+          <quality>Dementia</quality>
+          <quality>Emotion Leak</quality>
+          <quality>Hallucinations</quality>
+          <quality>Dissociative Identity Disorder</quality>
+          <quality>An Overwhelming Despair</quality>
+          <quality>A Terrible Fascination</quality>
         </negative>
       </qualityrestriction>
       <qualities amendoperation="recurse">
@@ -393,344 +393,344 @@
           <depaug>7</depaug>
           <qualityrestriction amendoperation="replace">
             <positive>
-                <quality>Beholden to Fate R1</quality>
-                <quality>Beholden to Fate R2</quality>
-                <quality>Exceptional Depth Augmnetation(CHA)</quality>
-                <quality>Exceptional Depth Augmnetation(INT)</quality>
-                <quality>Exceptional Depth Augmnetation(LOG)</quality>
-                <quality>Exceptional Depth Augmnetation(WIL)</quality>
-                <quality>Depth Augmnetation(CHA)</quality>
-                <quality>Depth Augmnetation(INT)</quality>
-                <quality>Depth Augmnetation(LOG)</quality>
-                <quality>Depth Augmnetation(WIL)</quality>
-                <quality>Fix Luck</quality>
-                <quality>Analytical Mind</quality>
-                <quality>Aptitude</quality>
-                <quality>Bilingual</quality>
-                <quality>Catlike</quality>
-                <quality>Codeslinger</quality>
-                <quality>First Impression</quality>
-                <quality>Gearhead</quality>
-                <quality>Guts</quality>
-                <quality>High Pain Tolerance</quality>
-                <quality>Home Ground</quality>
-                <quality>Indomitable (Mental)</quality>
-                <quality>Indomitable (Social)</quality>
-                <quality>Juryrigger</quality>
-                <quality>Lucky</quality>
-                <quality>Photographic Memory</quality>
-                <quality>Quick Healer</quality>
-                <quality>Deus Vult!</quality>
-                <quality>My Country, Right or Wrong</quality>
-                <quality>Out For Myself</quality>
-                <quality>Strive For Perfection</quality>
-                <quality>Acrobatic Defender</quality>
-                <quality>Agile Defender</quality>
-                <quality>Brand Loyalty (Manufacturer)</quality>
-                <quality>Brand Loyalty (Product)</quality>
-                <quality>One Trick Pony</quality>
-                <quality>Perceptive Defender</quality>
-                <quality>Sharpshooter</quality>
-                <quality>Too Pretty To Hit</quality>
-                <quality>Gifted Healer</quality>
-                <quality>College Education</quality>
-                <quality>Inspired</quality>
-                <quality>Animal Empathy</quality>
-                <quality>Black Market Pipeline</quality>
-                <quality>Born Rich</quality>
-                <quality>City Slicker</quality>
-                <quality>College Education</quality>
-                <quality>Common Sense</quality>
-                <quality>Daredevil</quality>
-                <quality>Digital Doppelganger</quality>
-                <quality>Disgraced</quality>
-                <quality>Erased</quality>
-                <quality>Fame: Local</quality>
-                <quality>Fame: National</quality>
-                <quality>Fame: Megacorporate</quality>
-                <quality>Fame: Global</quality>
-                <quality>Inspired</quality>
-                <quality>Jack of All Trades Master of None</quality>
-                <quality>Linguist</quality>
-                <quality>Made Man</quality>
-                <quality>Overclocker</quality>
-                <quality>Outdoorsman</quality>
-                <quality>Perceptive</quality>
-                <quality>Perfect Time</quality>
-                <quality>Privileged Family Name</quality>
-                <quality>Rank (Neither Military nor Law Enforcement) I</quality>
-                <quality>Rank (Neither Military nor Law Enforcement) II</quality>
-                <quality>Rank (Neither Military nor Law Enforcement) III</quality>
-                <quality>Rank (Military or Law Enforcement) I</quality>
-                <quality>Rank (Military or Law Enforcement) II</quality>
-                <quality>Rank (Military or Law Enforcement) III</quality>
-                <quality>Restricted Gear</quality>
-                <quality>School of Hard Knocks</quality>
-                <quality>Sense of Direction</quality>
-                <quality>Sensei</quality>
-                <quality>Solid Rep</quality>
-                <quality>Legendary Rep</quality>
-                <quality>Speed Reading</quality>
-                <quality>Spike Resistance</quality>
-                <quality>Steely Eyed Wheelman</quality>
-                <quality>Technical School Education</quality>
-                <quality>Trust Fund I</quality>
-                <quality>Trust Fund II</quality>
-                <quality>Trust Fund III</quality>
-                <quality>Trust Fund IV</quality>
-                <quality>Trustworthy</quality>
-                <quality>Vehicle Empathy</quality>
-                <quality>Water Sprite</quality>
-                <quality>Data Anomaly</quality>
-                <quality>Fade to Black</quality>
-                <quality>Go Big or Go Home</quality>
-                <quality>Golden Screwdriver</quality>
-                <quality>I C U</quality>
-                <quality>Ninja Vanish</quality>
-                <quality>Online Fame</quality>
-                <quality>Pain is Gain</quality>
-                <quality>Prime Datahaven Membership</quality>
-                <quality>Profiler</quality>
-                <quality>Quick Config</quality>
-                <quality>Chatty</quality>
-                <quality>Designer</quality>
-                <quality>Exceptional Entity</quality>
-                <quality>Hello World!</quality>
-                <quality>Inherent Program</quality>
-                <quality>Improved Restoration</quality>
-                <quality>Low Profile</quality>
-                <quality>Munge</quality>
-                <quality>Multiprocessing</quality>
-                <quality>Pilot Origins</quality>
-                <quality>Redundancy</quality>
-                <quality>Sapper</quality>
-                <quality>Sensor Upgrade</quality>
-                <quality>Snooper</quality>
-                <quality>Virtual Stability</quality>
-                <quality>Better to be Feared Than Loved</quality>
-                <quality>Revels in Murder</quality>
-                <quality>Barrens Rat</quality>
-                <quality>Poisoner</quality>
-                <quality>Practice, Practice, Practice</quality>
-                <quality>Chaser</quality>
-                <quality>Dealer Connection</quality>
-                <quality>Grease Monkey</quality>
-                <quality>Speed Demon</quality>
-                <quality>Stunt Driver</quality>
-                <quality>Subtle Pilot</quality>
-                <quality>Alibi</quality>
-                <quality>Closer</quality>
-                <quality>Cynic</quality>
-                <quality>Empathic Listener</quality>
-                <quality>Groupthink</quality>
-                <quality>Honest Face</quality>
-                <quality>Innocuous</quality>
-                <quality>Master Debater</quality>
-                <quality>Memory Palace</quality>
-                <quality>Method Actor</quality>
-                <quality>Mnemonic Vault</quality>
-                <quality>Watch the Suit</quality>
-                <quality>Alpha Junkie</quality>
-                <quality>Designated Omega</quality>
-                <quality>Disheveled</quality>
-                <quality>Favored (Common Target, Biased)</quality>
-                <quality>Favored (Common Target, Outspoken)</quality>
-                <quality>Favored (Common Target, Fanatic)</quality>
-                <quality>Favored (Specific Target, Biased)</quality>
-                <quality>Favored (Specific Target, Outspoken)</quality>
-                <quality>Favored (Specific Target, Fanatic)</quality>
-                <quality>One Born Every Minute</quality>
-                <quality>The Goat</quality>
-                <quality>Community Connection</quality>
-                <quality>Corporate Loyalist</quality>
-                <quality>Natural Leader</quality>
-                <quality>Observant</quality>
-                <quality>Battle Hardened</quality>
-                <quality>Deck Builder</quality>
-                <quality>Impenetrable Logic</quality>
-                <quality>Rootkit</quality>
-                <quality>Silence is Golden</quality>
-                <quality>Brilliant Heuristics</quality>
-                <quality>Hold the Door</quality>
-                <quality>Fractal Punch</quality>
-                <quality>Lone Wolf</quality>
-                <quality>Team Player</quality>
-                <quality>Trust Data, Not Lore</quality>
-                <quality>Trust Lore, Not Data</quality>
-                <quality>Unique Avatar</quality>
-                <quality>Hair Trigger</quality>
-                <quality>Hi-Rez</quality>
-                <quality>Instinctive Hack</quality>
-                <quality>Rabble Rouser</quality>
-                <quality>Social Chameleon</quality>
-                <quality>Prototype Materials</quality>
-                <quality>Shoot First, Don't Ask Questions</quality>
-                <quality>Special Modifications</quality>
-                <quality>Special Modifications (Prototype Materials)</quality>
-                <quality>Candle in the Darkness</quality>
-                <quality>Massive Network</quality>
-                <quality>Networker</quality>
-                <quality>Spacer</quality>
-                <quality>History Is Not As Certain As We Are Taught</quality>
-                <quality>Secondary Special Modifications</quality>
-                <quality>Additional Prototype Materials</quality>
+              <quality>Beholden to Fate R1</quality>
+              <quality>Beholden to Fate R2</quality>
+              <quality>Exceptional Depth Augmnetation(CHA)</quality>
+              <quality>Exceptional Depth Augmnetation(INT)</quality>
+              <quality>Exceptional Depth Augmnetation(LOG)</quality>
+              <quality>Exceptional Depth Augmnetation(WIL)</quality>
+              <quality>Depth Augmnetation(CHA)</quality>
+              <quality>Depth Augmnetation(INT)</quality>
+              <quality>Depth Augmnetation(LOG)</quality>
+              <quality>Depth Augmnetation(WIL)</quality>
+              <quality>Fix Luck</quality>
+              <quality>Analytical Mind</quality>
+              <quality>Aptitude</quality>
+              <quality>Bilingual</quality>
+              <quality>Catlike</quality>
+              <quality>Codeslinger</quality>
+              <quality>First Impression</quality>
+              <quality>Gearhead</quality>
+              <quality>Guts</quality>
+              <quality>High Pain Tolerance</quality>
+              <quality>Home Ground</quality>
+              <quality>Indomitable (Mental)</quality>
+              <quality>Indomitable (Social)</quality>
+              <quality>Juryrigger</quality>
+              <quality>Lucky</quality>
+              <quality>Photographic Memory</quality>
+              <quality>Quick Healer</quality>
+              <quality>Deus Vult!</quality>
+              <quality>My Country, Right or Wrong</quality>
+              <quality>Out For Myself</quality>
+              <quality>Strive For Perfection</quality>
+              <quality>Acrobatic Defender</quality>
+              <quality>Agile Defender</quality>
+              <quality>Brand Loyalty (Manufacturer)</quality>
+              <quality>Brand Loyalty (Product)</quality>
+              <quality>One Trick Pony</quality>
+              <quality>Perceptive Defender</quality>
+              <quality>Sharpshooter</quality>
+              <quality>Too Pretty To Hit</quality>
+              <quality>Gifted Healer</quality>
+              <quality>College Education</quality>
+              <quality>Inspired</quality>
+              <quality>Animal Empathy</quality>
+              <quality>Black Market Pipeline</quality>
+              <quality>Born Rich</quality>
+              <quality>City Slicker</quality>
+              <quality>College Education</quality>
+              <quality>Common Sense</quality>
+              <quality>Daredevil</quality>
+              <quality>Digital Doppelganger</quality>
+              <quality>Disgraced</quality>
+              <quality>Erased</quality>
+              <quality>Fame: Local</quality>
+              <quality>Fame: National</quality>
+              <quality>Fame: Megacorporate</quality>
+              <quality>Fame: Global</quality>
+              <quality>Inspired</quality>
+              <quality>Jack of All Trades Master of None</quality>
+              <quality>Linguist</quality>
+              <quality>Made Man</quality>
+              <quality>Overclocker</quality>
+              <quality>Outdoorsman</quality>
+              <quality>Perceptive</quality>
+              <quality>Perfect Time</quality>
+              <quality>Privileged Family Name</quality>
+              <quality>Rank (Neither Military nor Law Enforcement) I</quality>
+              <quality>Rank (Neither Military nor Law Enforcement) II</quality>
+              <quality>Rank (Neither Military nor Law Enforcement) III</quality>
+              <quality>Rank (Military or Law Enforcement) I</quality>
+              <quality>Rank (Military or Law Enforcement) II</quality>
+              <quality>Rank (Military or Law Enforcement) III</quality>
+              <quality>Restricted Gear</quality>
+              <quality>School of Hard Knocks</quality>
+              <quality>Sense of Direction</quality>
+              <quality>Sensei</quality>
+              <quality>Solid Rep</quality>
+              <quality>Legendary Rep</quality>
+              <quality>Speed Reading</quality>
+              <quality>Spike Resistance</quality>
+              <quality>Steely Eyed Wheelman</quality>
+              <quality>Technical School Education</quality>
+              <quality>Trust Fund I</quality>
+              <quality>Trust Fund II</quality>
+              <quality>Trust Fund III</quality>
+              <quality>Trust Fund IV</quality>
+              <quality>Trustworthy</quality>
+              <quality>Vehicle Empathy</quality>
+              <quality>Water Sprite</quality>
+              <quality>Data Anomaly</quality>
+              <quality>Fade to Black</quality>
+              <quality>Go Big or Go Home</quality>
+              <quality>Golden Screwdriver</quality>
+              <quality>I C U</quality>
+              <quality>Ninja Vanish</quality>
+              <quality>Online Fame</quality>
+              <quality>Pain is Gain</quality>
+              <quality>Prime Datahaven Membership</quality>
+              <quality>Profiler</quality>
+              <quality>Quick Config</quality>
+              <quality>Chatty</quality>
+              <quality>Designer</quality>
+              <quality>Exceptional Entity</quality>
+              <quality>Hello World!</quality>
+              <quality>Inherent Program</quality>
+              <quality>Improved Restoration</quality>
+              <quality>Low Profile</quality>
+              <quality>Munge</quality>
+              <quality>Multiprocessing</quality>
+              <quality>Pilot Origins</quality>
+              <quality>Redundancy</quality>
+              <quality>Sapper</quality>
+              <quality>Sensor Upgrade</quality>
+              <quality>Snooper</quality>
+              <quality>Virtual Stability</quality>
+              <quality>Better to be Feared Than Loved</quality>
+              <quality>Revels in Murder</quality>
+              <quality>Barrens Rat</quality>
+              <quality>Poisoner</quality>
+              <quality>Practice, Practice, Practice</quality>
+              <quality>Chaser</quality>
+              <quality>Dealer Connection</quality>
+              <quality>Grease Monkey</quality>
+              <quality>Speed Demon</quality>
+              <quality>Stunt Driver</quality>
+              <quality>Subtle Pilot</quality>
+              <quality>Alibi</quality>
+              <quality>Closer</quality>
+              <quality>Cynic</quality>
+              <quality>Empathic Listener</quality>
+              <quality>Groupthink</quality>
+              <quality>Honest Face</quality>
+              <quality>Innocuous</quality>
+              <quality>Master Debater</quality>
+              <quality>Memory Palace</quality>
+              <quality>Method Actor</quality>
+              <quality>Mnemonic Vault</quality>
+              <quality>Watch the Suit</quality>
+              <quality>Alpha Junkie</quality>
+              <quality>Designated Omega</quality>
+              <quality>Disheveled</quality>
+              <quality>Favored (Common Target, Biased)</quality>
+              <quality>Favored (Common Target, Outspoken)</quality>
+              <quality>Favored (Common Target, Fanatic)</quality>
+              <quality>Favored (Specific Target, Biased)</quality>
+              <quality>Favored (Specific Target, Outspoken)</quality>
+              <quality>Favored (Specific Target, Fanatic)</quality>
+              <quality>One Born Every Minute</quality>
+              <quality>The Goat</quality>
+              <quality>Community Connection</quality>
+              <quality>Corporate Loyalist</quality>
+              <quality>Natural Leader</quality>
+              <quality>Observant</quality>
+              <quality>Battle Hardened</quality>
+              <quality>Deck Builder</quality>
+              <quality>Impenetrable Logic</quality>
+              <quality>Rootkit</quality>
+              <quality>Silence is Golden</quality>
+              <quality>Brilliant Heuristics</quality>
+              <quality>Hold the Door</quality>
+              <quality>Fractal Punch</quality>
+              <quality>Lone Wolf</quality>
+              <quality>Team Player</quality>
+              <quality>Trust Data, Not Lore</quality>
+              <quality>Trust Lore, Not Data</quality>
+              <quality>Unique Avatar</quality>
+              <quality>Hair Trigger</quality>
+              <quality>Hi-Rez</quality>
+              <quality>Instinctive Hack</quality>
+              <quality>Rabble Rouser</quality>
+              <quality>Social Chameleon</quality>
+              <quality>Prototype Materials</quality>
+              <quality>Shoot First, Don't Ask Questions</quality>
+              <quality>Special Modifications</quality>
+              <quality>Special Modifications (Prototype Materials)</quality>
+              <quality>Candle in the Darkness</quality>
+              <quality>Massive Network</quality>
+              <quality>Networker</quality>
+              <quality>Spacer</quality>
+              <quality>History Is Not As Certain As We Are Taught</quality>
+              <quality>Secondary Special Modifications</quality>
+              <quality>Additional Prototype Materials</quality>
             </positive>
             <negative>
-                <quality>Addiction (Mild)</quality>
-                <quality>Addiction (Moderate)</quality>
-                <quality>Addiction (Severe)</quality>
-                <quality>Addiction (Burnout)</quality>
-                <quality>Bad Luck</quality>
-                <quality>Bad Rep</quality>
-                <quality>Code of Honor</quality>
-                <quality>Codeblock</quality>
-                <quality>Combat Paralysis</quality>
-                <quality>Dependent (Nuisance)</quality>
-                <quality>Dependent (Inconvenience)</quality>
-                <quality>Dependent (Demanding)</quality>
-                <quality>Gremlins</quality>
-                <quality>Incompetent</quality>
-                <quality>Insomnia (Basic)</quality>
-                <quality>Insomnia (Full)</quality>
-                <quality>Loss of Confidence</quality>
-                <quality>Low Pain Tolerance</quality>
-                <quality>Prejudiced (Common, Biased)</quality>
-                <quality>Prejudiced (Common, Outspoken)</quality>
-                <quality>Prejudiced (Common, Radical)</quality>
-                <quality>Prejudiced (Specific, Biased)</quality>
-                <quality>Prejudiced (Specific, Outspoken)</quality>
-                <quality>Prejudiced (Specific, Radical)</quality>
-                <quality>Scorched</quality>
-                <quality>SINner (Corporate)</quality>
-                <quality>SINner (National)</quality>
-                <quality>SINner (Corporate Limited)</quality>
-                <quality>SINner (Criminal)</quality>
-                <quality>Social Stress</quality>
-                <quality>Uncouth</quality>
-                <quality>Consummate Professional</quality>
-                <quality>Combat Junkie</quality>
-                <quality>Earther</quality>
-                <quality>Uneducated</quality>
-                <quality>Unsteady Hands</quality>
-                <quality>Illness</quality>
-                <quality>Bi-Polar</quality>
-                <quality>Big Regret</quality>
-                <quality>Computer Illiterate</quality>
-                <quality>Creature of Comfort (Middle)</quality>
-                <quality>Creature of Comfort (High)</quality>
-                <quality>Creature of Comfort (Luxury)</quality>
-                <quality>Day Job (10 hrs)</quality>
-                <quality>Day Job (20 hrs)</quality>
-                <quality>Day Job (40 hrs)</quality>
-                <quality>Did You Just Call Me Dumb?</quality>
-                <quality>Dimmer Bulb</quality>
-                <quality>Driven</quality>
-                <quality>Flashbacks I</quality>
-                <quality>Flashbacks II</quality>
-                <quality>Hobo with a Shotgun</quality>
-                <quality>Hung Out to Dry</quality>
-                <quality>Illiterate</quality>
-                <quality>In Debt</quality>
-                <quality>Incomplete Deprogramming</quality>
-                <quality>Liar</quality>
-                <quality>Oblivious I</quality>
-                <quality>Oblivious II</quality>
-                <quality>Pacifist I</quality>
-                <quality>Pacifist II</quality>
-                <quality>Paranoia</quality>
-                <quality>Phobia (Uncommon, Mild)</quality>
-                <quality>Phobia (Uncommon, Moderate)</quality>
-                <quality>Phobia (Uncommon, Severe)</quality>
-                <quality>Phobia (Common, Mild)</quality>
-                <quality>Phobia (Common, Moderate)</quality>
-                <quality>Phobia (Common, Severe)</quality>
-                <quality>Pie Iesu Domine. Dona Eis Requiem.</quality>
-                <quality>Poor Self Control (Braggart)</quality>
-                <quality>Poor Self Control (Compulsive I, Personal)</quality>
-                <quality>Poor Self Control (Compulsive II, Personal)</quality>
-                <quality>Poor Self Control (Compulsive III, Personal)</quality>
-                <quality>Poor Self Control (Compulsive IV, Personal)</quality>
-                <quality>Poor Self Control (Compulsive I, Public Single Aspect)</quality>
-                <quality>Poor Self Control (Compulsive II, Public Single Aspect)</quality>
-                <quality>Poor Self Control (Compulsive III, Public Single Aspect)</quality>
-                <quality>Poor Self Control (Compulsive IV, Public Single Aspect)</quality>
-                <quality>Poor Self Control (Compulsive I, Public Broad Aspect)</quality>
-                <quality>Poor Self Control (Compulsive II, Public Broad Aspect)</quality>
-                <quality>Poor Self Control (Compulsive III, Public Broad Aspect)</quality>
-                <quality>Poor Self Control (Compulsive IV, Public Broad Aspect)</quality>
-                <quality>Poor Self Control (Thrill Seeker)</quality>
-                <quality>Poor Self Control (Vindictive)</quality>
-                <quality>Poor Self Control (Combat Monster)</quality>
-                <quality>Records on File</quality>
-                <quality>Signature</quality>
-                <quality>Vendetta</quality>
-                <quality>Wanted</quality>
-                <quality>Emotional Attachment</quality>
-                <quality>Code of Honor: Like a Boss</quality>
-                <quality>Curiosity Killed the Cat</quality>
-                <quality>Data Liberator</quality>
-                <quality>Electronic Witness</quality>
-                <quality>Faraday Himself</quality>
-                <quality>Leeeeeeeroy Jenkins</quality>
-                <quality>Nerdrage</quality>
-                <quality>Prank Warrior</quality>
-                <quality>Wanted by GOD</quality>
-                <quality>Corrupter</quality>
-                <quality>Easily Exploitable</quality>
-                <quality>Fragmentation</quality>
-                <quality>Persnickety Renter</quality>
-                <quality>Real World Naiveté</quality>
-                <quality>Antipathy</quality>
-                <quality>Dead Emotion</quality>
-                <quality>Dry Addict (Mild)</quality>
-                <quality>Dry Addict (Moderate)</quality>
-                <quality>Dry Addict (Severe)</quality>
-                <quality>Dry Addict (Burnout)</quality>
-                <quality>Lack of Focus</quality>
-                <quality>One of Them</quality>
-                <quality>Poor Self Control (Attention-Seeking)</quality>
-                <quality>Poor Self Control (Sadistic)</quality>
-                <quality>So Jacked Up</quality>
-                <quality>Superhuman Psychosis</quality>
-                <quality>Tough and Targeted</quality>
-                <quality>Code of Honor: Avenging Angel</quality>
-                <quality>Impassive</quality>
-                <quality>Faceless</quality>
-                <quality>Accident Prone</quality>
-                <quality>Too Much Data</quality>
-                <quality>Bad Credit</quality>
-                <quality>Elevated Stress</quality>
-                <quality>Force of Chaos</quality>
-                <quality>Corporate Pariah I</quality>
-                <quality>Corporate Pariah II</quality>
-                <quality>Every Man For Himself</quality>
-                <quality>No Man Left Behind</quality>
-                <quality>Stay Out of My Way</quality>
-                <quality>This Is Your Last Chance</quality>
-                <quality>Thousand-Yard Stare</quality>
-                <quality>Buddy System</quality>
-                <quality>Down the Rabbit Hole</quality>
-                <quality>Echo Chamber</quality>
-                <quality>Frostbite</quality>
-                <quality>Information Auctioneer</quality>
-                <quality>Lazy Fingers</quality>
-                <quality>Malware Infection</quality>
-                <quality>Matrix Troll</quality>
-                <quality>Sloppy Code</quality>
-                <quality>Well, Actually...</quality>
-                <quality>Code of Honor: Black Hat</quality>
-                <quality>Data Hog</quality>
-                <quality>Dead SIN</quality>
-                <quality>Hard Luck</quality>
-                <quality>Stolen Gear</quality>
-                <quality>Chronic Dissociation Syndrome</quality>
-                <quality>Delusion</quality>
-                <quality>Dementia</quality>
-                <quality>Emotion Leak</quality>
-                <quality>Hallucinations</quality>
-                <quality>Dissociative Identity Disorder</quality>
-                <quality>An Overwhelming Despair</quality>
-                <quality>A Terrible Fascination</quality>
+              <quality>Addiction (Mild)</quality>
+              <quality>Addiction (Moderate)</quality>
+              <quality>Addiction (Severe)</quality>
+              <quality>Addiction (Burnout)</quality>
+              <quality>Bad Luck</quality>
+              <quality>Bad Rep</quality>
+              <quality>Code of Honor</quality>
+              <quality>Codeblock</quality>
+              <quality>Combat Paralysis</quality>
+              <quality>Dependent (Nuisance)</quality>
+              <quality>Dependent (Inconvenience)</quality>
+              <quality>Dependent (Demanding)</quality>
+              <quality>Gremlins</quality>
+              <quality>Incompetent</quality>
+              <quality>Insomnia (Basic)</quality>
+              <quality>Insomnia (Full)</quality>
+              <quality>Loss of Confidence</quality>
+              <quality>Low Pain Tolerance</quality>
+              <quality>Prejudiced (Common, Biased)</quality>
+              <quality>Prejudiced (Common, Outspoken)</quality>
+              <quality>Prejudiced (Common, Radical)</quality>
+              <quality>Prejudiced (Specific, Biased)</quality>
+              <quality>Prejudiced (Specific, Outspoken)</quality>
+              <quality>Prejudiced (Specific, Radical)</quality>
+              <quality>Scorched</quality>
+              <quality>SINner (Corporate)</quality>
+              <quality>SINner (National)</quality>
+              <quality>SINner (Corporate Limited)</quality>
+              <quality>SINner (Criminal)</quality>
+              <quality>Social Stress</quality>
+              <quality>Uncouth</quality>
+              <quality>Consummate Professional</quality>
+              <quality>Combat Junkie</quality>
+              <quality>Earther</quality>
+              <quality>Uneducated</quality>
+              <quality>Unsteady Hands</quality>
+              <quality>Illness</quality>
+              <quality>Bi-Polar</quality>
+              <quality>Big Regret</quality>
+              <quality>Computer Illiterate</quality>
+              <quality>Creature of Comfort (Middle)</quality>
+              <quality>Creature of Comfort (High)</quality>
+              <quality>Creature of Comfort (Luxury)</quality>
+              <quality>Day Job (10 hrs)</quality>
+              <quality>Day Job (20 hrs)</quality>
+              <quality>Day Job (40 hrs)</quality>
+              <quality>Did You Just Call Me Dumb?</quality>
+              <quality>Dimmer Bulb</quality>
+              <quality>Driven</quality>
+              <quality>Flashbacks I</quality>
+              <quality>Flashbacks II</quality>
+              <quality>Hobo with a Shotgun</quality>
+              <quality>Hung Out to Dry</quality>
+              <quality>Illiterate</quality>
+              <quality>In Debt</quality>
+              <quality>Incomplete Deprogramming</quality>
+              <quality>Liar</quality>
+              <quality>Oblivious I</quality>
+              <quality>Oblivious II</quality>
+              <quality>Pacifist I</quality>
+              <quality>Pacifist II</quality>
+              <quality>Paranoia</quality>
+              <quality>Phobia (Uncommon, Mild)</quality>
+              <quality>Phobia (Uncommon, Moderate)</quality>
+              <quality>Phobia (Uncommon, Severe)</quality>
+              <quality>Phobia (Common, Mild)</quality>
+              <quality>Phobia (Common, Moderate)</quality>
+              <quality>Phobia (Common, Severe)</quality>
+              <quality>Pie Iesu Domine. Dona Eis Requiem.</quality>
+              <quality>Poor Self Control (Braggart)</quality>
+              <quality>Poor Self Control (Compulsive I, Personal)</quality>
+              <quality>Poor Self Control (Compulsive II, Personal)</quality>
+              <quality>Poor Self Control (Compulsive III, Personal)</quality>
+              <quality>Poor Self Control (Compulsive IV, Personal)</quality>
+              <quality>Poor Self Control (Compulsive I, Public Single Aspect)</quality>
+              <quality>Poor Self Control (Compulsive II, Public Single Aspect)</quality>
+              <quality>Poor Self Control (Compulsive III, Public Single Aspect)</quality>
+              <quality>Poor Self Control (Compulsive IV, Public Single Aspect)</quality>
+              <quality>Poor Self Control (Compulsive I, Public Broad Aspect)</quality>
+              <quality>Poor Self Control (Compulsive II, Public Broad Aspect)</quality>
+              <quality>Poor Self Control (Compulsive III, Public Broad Aspect)</quality>
+              <quality>Poor Self Control (Compulsive IV, Public Broad Aspect)</quality>
+              <quality>Poor Self Control (Thrill Seeker)</quality>
+              <quality>Poor Self Control (Vindictive)</quality>
+              <quality>Poor Self Control (Combat Monster)</quality>
+              <quality>Records on File</quality>
+              <quality>Signature</quality>
+              <quality>Vendetta</quality>
+              <quality>Wanted</quality>
+              <quality>Emotional Attachment</quality>
+              <quality>Code of Honor: Like a Boss</quality>
+              <quality>Curiosity Killed the Cat</quality>
+              <quality>Data Liberator</quality>
+              <quality>Electronic Witness</quality>
+              <quality>Faraday Himself</quality>
+              <quality>Leeeeeeeroy Jenkins</quality>
+              <quality>Nerdrage</quality>
+              <quality>Prank Warrior</quality>
+              <quality>Wanted by GOD</quality>
+              <quality>Corrupter</quality>
+              <quality>Easily Exploitable</quality>
+              <quality>Fragmentation</quality>
+              <quality>Persnickety Renter</quality>
+              <quality>Real World Naiveté</quality>
+              <quality>Antipathy</quality>
+              <quality>Dead Emotion</quality>
+              <quality>Dry Addict (Mild)</quality>
+              <quality>Dry Addict (Moderate)</quality>
+              <quality>Dry Addict (Severe)</quality>
+              <quality>Dry Addict (Burnout)</quality>
+              <quality>Lack of Focus</quality>
+              <quality>One of Them</quality>
+              <quality>Poor Self Control (Attention-Seeking)</quality>
+              <quality>Poor Self Control (Sadistic)</quality>
+              <quality>So Jacked Up</quality>
+              <quality>Superhuman Psychosis</quality>
+              <quality>Tough and Targeted</quality>
+              <quality>Code of Honor: Avenging Angel</quality>
+              <quality>Impassive</quality>
+              <quality>Faceless</quality>
+              <quality>Accident Prone</quality>
+              <quality>Too Much Data</quality>
+              <quality>Bad Credit</quality>
+              <quality>Elevated Stress</quality>
+              <quality>Force of Chaos</quality>
+              <quality>Corporate Pariah I</quality>
+              <quality>Corporate Pariah II</quality>
+              <quality>Every Man For Himself</quality>
+              <quality>No Man Left Behind</quality>
+              <quality>Stay Out of My Way</quality>
+              <quality>This Is Your Last Chance</quality>
+              <quality>Thousand-Yard Stare</quality>
+              <quality>Buddy System</quality>
+              <quality>Down the Rabbit Hole</quality>
+              <quality>Echo Chamber</quality>
+              <quality>Frostbite</quality>
+              <quality>Information Auctioneer</quality>
+              <quality>Lazy Fingers</quality>
+              <quality>Malware Infection</quality>
+              <quality>Matrix Troll</quality>
+              <quality>Sloppy Code</quality>
+              <quality>Well, Actually...</quality>
+              <quality>Code of Honor: Black Hat</quality>
+              <quality>Data Hog</quality>
+              <quality>Dead SIN</quality>
+              <quality>Hard Luck</quality>
+              <quality>Stolen Gear</quality>
+              <quality>Chronic Dissociation Syndrome</quality>
+              <quality>Delusion</quality>
+              <quality>Dementia</quality>
+              <quality>Emotion Leak</quality>
+              <quality>Hallucinations</quality>
+              <quality>Dissociative Identity Disorder</quality>
+              <quality>An Overwhelming Despair</quality>
+              <quality>A Terrible Fascination</quality>
             </negative>
           </qualityrestriction>
           <qualities amendoperation="recurse">
@@ -769,26 +769,26 @@
     <metatype>
       <name>Elf</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
     <metatype>
       <name>Dwarf</name>
       <metavariants>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
     <metatype>
@@ -796,21 +796,21 @@
       <logmax>6</logmax>
       <logaug>10</logaug>
       <metavariants>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
     <metatype>
@@ -818,676 +818,676 @@
       <logmax>6</logmax>
       <logaug>10</logaug>
       <metavariants>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
     <metatype>
       <name>Shapeshifter: Bovine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
     <metatype>
       <name>Shapeshifter: Canine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Equine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Falconine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Leonine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Lupine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Pantherine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Tigrine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Ursine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
-        <metatype>
+    <metatype>
       <name>Shapeshifter: Vulpine</name>
       <metavariants>
-      <metavariant>
-        <name>Xapiri Thëpë</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Wakyambi</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hanuman</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ork</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Hobgoblin</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Ogre</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Oni</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Troll</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Cyclops</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Fomorian</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Giant</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
-      <metavariant>
-        <name>Minotaur</name>
-        <logmax>6</logmax>
-        <logaug>10</logaug>
-      </metavariant>
+        <metavariant>
+          <name>Xapiri Thëpë</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Wakyambi</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hanuman</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ork</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Hobgoblin</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Ogre</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Oni</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Troll</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Cyclops</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Fomorian</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Giant</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
+        <metavariant>
+          <name>Minotaur</name>
+          <logmax>6</logmax>
+          <logaug>10</logaug>
+        </metavariant>
       </metavariants>
     </metatype>
   </metatypes>

@@ -71,14 +71,14 @@
     </bioware>
     <bioware xpathfilter="name = 'Chameleon Skin' or name = 'Chameleon Skin (Dynamic)' or name = 'Chloroplast Skin' or name = 'Orthoskin' or name = 'Sensitive Skin' or name = 'Silky Skin' or name = 'Skin Pigmentation' or name = 'Skin Pigmentation (Permanent)' or name = 'Skin Pocket'">
       <forbidden amendoperation="append"> <!-- This covers Orthoskin, which has a forbidden node; TODO make this more elegant -->
-	    <oneof amendoperation="addnode" xpathfilter="not(name = 'Striking Skin Pigmentation')">
-	      <quality amendoperation="addnode">Striking Skin Pigmentation</quality>
-	    </oneof>
+        <oneof amendoperation="addnode" xpathfilter="not(name = 'Striking Skin Pigmentation')">
+          <quality amendoperation="addnode">Striking Skin Pigmentation</quality>
+        </oneof>
       </forbidden>
       <forbidden amendoperation="addnode" addifnotfound="False"> <!-- This covers all the remaining Skin qualities -->
-	    <oneof amendoperation="addnode" xpathfilter="not(name = 'Striking Skin Pigmentation')">
-	      <quality amendoperation="addnode">Striking Skin Pigmentation</quality>
-	    </oneof>
+        <oneof amendoperation="addnode" xpathfilter="not(name = 'Striking Skin Pigmentation')">
+          <quality amendoperation="addnode">Striking Skin Pigmentation</quality>
+        </oneof>
       </forbidden>
     </bioware>
     <bioware>
@@ -92,8 +92,8 @@
     <bioware>
       <name>Adapsin</name>
       <bonus>
-      <adapsin amendoperation="remove" />
-      <cyberwaretotalessmultiplier>700</cyberwaretotalessmultiplier>
+        <adapsin amendoperation="remove" />
+        <cyberwaretotalessmultiplier>700</cyberwaretotalessmultiplier>
       </bonus>
     </bioware>
     <bioware>
@@ -214,8 +214,8 @@
       <ess>0</ess>
     </bioware>
     <bioware>
-	<name>Control Rig Optimization</name>
-	<required amendoperation="remove" />
+      <name>Control Rig Optimization</name>
+      <required amendoperation="remove" />
     </bioware>
   </biowares>
 </chummer>

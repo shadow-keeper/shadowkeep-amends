@@ -19,35 +19,35 @@
   https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 xsi:schemaLocation="http://www.w3.org/2001/XMLSchema qualities.xsd">
-	<grades>
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema qualities.xsd">
+  <grades>
     <!-- Future DM -->
-		<grade>
-			<id>6f26d383-4fff-4e8a-9aec-09a47549a9bf</id>
-			<name>Tailored Greyware</name>
-			<ess>31</ess>
-			<cost>1.7</cost>
-			<devicerating>3</devicerating>
-			<avail>+2</avail>
-			<careeronly />
-			<bonus>
-				<specificattribute>
-					<name>MAG</name>
-					<val>-1</val>
-					<max>-1</max>
-				</specificattribute>
-			</bonus>
-			<source>DM</source>
-			<page>0</page>
-		</grade>
+    <grade>
+      <id>6f26d383-4fff-4e8a-9aec-09a47549a9bf</id>
+      <name>Tailored Greyware</name>
+      <ess>31</ess>
+      <cost>1.7</cost>
+      <devicerating>3</devicerating>
+      <avail>+2</avail>
+      <careeronly />
+      <bonus>
+        <specificattribute>
+          <name>MAG</name>
+          <val>-1</val>
+          <max>-1</max>
+        </specificattribute>
+      </bonus>
+      <source>DM</source>
+      <page>0</page>
+    </grade>
     <!-- End Region -->
-	</grades>
-	<categories>
+  </grades>
+  <categories>
     <category blackmarket="Cyberware">Cyborg</category>
     <category blackmarket="Cyberware">EyeMount</category>
   </categories>
-	<cyberwares>
-        <!--<cyberware>
+  <cyberwares>
+    <!--<cyberware>
           <id>9f0590cf-96f6-4e9f-9f9f-5c02503a2265</id>
           <name>Liminal Body, Spider</name>
           <category>Cyberlimb</category>
@@ -242,846 +242,846 @@
           <hide />
           <limbslot>leg</limbslot>
         </cyberware>-->
-		<cyberware>
-			<id>230e61d4-c6a1-4da1-a68b-be0fd55c7422</id>
-      		<name>Hard Skin Mastery Armor</name>
-     		<limit>False</limit>
-      		<category>Bodyware</category>
-      		<ess>0</ess>
-      		<capacity>0</capacity>
-      		<avail>0</avail>
-      		<cost>0</cost>
-      		<source>DM</source>
-      		<page>0</page>
-      		<bonus>
-        		<armor>Rating</armor>
-      		</bonus>
-      		<rating>3</rating>
-            <required>
-              <oneof>
-                <quality>Hard Skin</quality>
-              </oneof>
-            </required>
-		</cyberware>
-		<cyberware>
-			<id>5e159433-21c4-44d9-9d63-f9984e2a53d2</id>
-      		<name>Cranial Containment Unit</name>
-     		 <limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>5.9</ess>
-      		<capacity>50</capacity>
-      		<avail>6</avail>
-      		<cost>0</cost>
-      		<source>DM</source>
-      		<page>0</page>
-            <bannedgrades>
-              <grade>Used</grade>
-              <grade>Used (Adapsin)</grade>
-              <grade>Greyware</grade>
-              <grade>Greyware (Adapsin)</grade>
-              <grade>Alphaware</grade>
-              <grade>Alphaware (Adapsin)</grade>
-		      <grade>Betaware</grade>
-              <grade>Betaware (Adapsin)</grade>
-			  <grade>Deltaware</grade>
-              <grade>Deltaware (Adapsin)</grade>
-              <grade>Greyware</grade>
-              <grade>Greyware (Adapsin)</grade>
-              <grade>Tailored Greyware</grade>
-              <grade>Tailored Greyware (Adapsin)</grade>
-            </bannedgrades>
-			<allowsubsystems>
-        		<category>Cyborg</category>
-      		</allowsubsystems>
-			<subsystems>
-	        	<cyberware>
-	        		<name>Skilljack</name>
-					<rating>6</rating>
-		        </cyberware>
-		        <cyberware>
-		          	<name>Skillwires</name>
-					<rating>5</rating>
-		        </cyberware>
-		        <cyberware>
-		          	<name>Control Rig</name>
-		          	<rating>2</rating>
-		        </cyberware>
-				<cyberware>
-		         	 <name>Matrix Device Port</name>
-		        </cyberware>
-	      	</subsystems>
-			<required>
-              <oneof>
-				<metatype>Cyborg</metatype>
-              </oneof>
-			</required>
-		</cyberware>
     <cyberware>
-			    <id>93daafbe-4d94-4701-bf4a-00160ee9b536</id>
-      		<name>Drone Arm Adaptor</name>
-     		  <limit>140</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[Rating]/Rating</capacity>
-      		<avail>4</avail>
-      		<cost>0</cost>
-      		<source>DM</source>
-			    <required>
-        		<parentdetails>
-					<name>Shell Cyberware Adaptor</name>
-        		</parentdetails>
-      		</required>
-      		<page>0</page>
-		</cyberware>
+      <id>230e61d4-c6a1-4da1-a68b-be0fd55c7422</id>
+      <name>Hard Skin Mastery Armor</name>
+      <limit>False</limit>
+      <category>Bodyware</category>
+      <ess>0</ess>
+      <capacity>0</capacity>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>DM</source>
+      <page>0</page>
+      <bonus>
+        <armor>Rating</armor>
+      </bonus>
+      <rating>3</rating>
+      <required>
+        <oneof>
+          <quality>Hard Skin</quality>
+        </oneof>
+      </required>
+    </cyberware>
     <cyberware>
-			    <id>dae3c74d-0798-4a8b-bb9b-6836e9271447</id>
-      		<name>Drone Leg Adaptor</name>
-     		  <limit>140</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[Rating]/Rating</capacity>
-      		<avail>4</avail>
-      		<cost>0</cost>
-      		<source>DM</source>
-			    <required>
-        		<parentdetails>
-					<name>Shell Cyberware Adaptor</name>
-        		</parentdetails>
-      		</required>
-      		<page>0</page>
-		</cyberware>
-		<cyberware>
-			<id>c3437482-0f7d-4910-ab9d-a6b6bf8015bb</id>
-      		<name>Cranial GPU</name>
-     		<limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[Rating * 5]</capacity>
-      		<avail>((Rating - 1) * 4)+12</avail>
-      		<cost>Rating * 40000</cost>
-      		<source>DM</source>
-      		<page>0</page>
-      		<bonus>
-        		<specificattribute>
-          			<name>INT</name>
-          			<val>Rating</val>
-        		</specificattribute>
-      		</bonus>
-			<required>
-        		<parentdetails>
-					<name>Cranial Containment Unit</name>
-        		</parentdetails>
-      		</required>
-      		<rating>4</rating>
-		</cyberware>
-		<cyberware>
-			<id>b44ccfb7-a74f-4b66-a25d-04a711e928ef</id>
-      		<name>Encephalon Mk 2</name>
-     		<limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[Rating * 5]</capacity>
-      		<avail>Rating * 6</avail>
-      		<cost>Rating * 40000</cost>
-      		<source>DM</source>
-      		<page>0</page>
-      		<bonus>
-        		<specificattribute>
-          			<name>LOG</name>
-          			<val>Rating</val>
-        		</specificattribute>
-				<specificskill>
-          			<name>Computer</name>
-          			<bonus>+1</bonus>
-        		</specificskill>
-				<specificskill>
-          			<name>Hardware</name>
-          			<bonus>+1</bonus>
-        		</specificskill>
-				<specificskill>
-          			<name>Software</name>
-          			<bonus>+1</bonus>
-        		</specificskill>
-      		</bonus>
-			<required>
-        		<parentdetails>
-					<name>Cranial Containment Unit</name>
-        		</parentdetails>
-      		</required>
-      		<rating>4</rating>
-		</cyberware>
-		<cyberware>
-			<id>73aa7626-b3ab-4616-b84d-64b2831a90fc</id>
-      		<name>Skillwires Upgrade</name>
-     		<limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[5]</capacity>
-      		<avail>24</avail>
-      		<cost>20000</cost>
-      		<source>DM</source>
-      		<page>0</page>
-			<subsystem>
-				<cyberware>
-		          	<name>Skillwires</name>
-					<rating>6</rating>
-		        </cyberware>
-			</subsystem>
-			<required>
-        		<parentdetails>
-					<name>Cranial Containment Unit</name>
-        		</parentdetails>
-      		</required>
-			<notes>Does not grant additional Skillwires, it replaces them.</notes>
-		</cyberware>
-		<cyberware>
-			<id>62212b1b-6eb2-47c6-92b9-8d42b2302b2f</id>
-      		<name>Control Rig Upgrade</name>
-     		<limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[15]</capacity>
-      		<avail>15R</avail>
-      		<cost>100000</cost>
-      		<source>DM</source>
-      		<page>0</page>
-			<subsystem>
-				<cyberware>
-		          	<name>Control Rig</name>
-					<rating>3</rating>
-		        </cyberware>
-			</subsystem>
-			<required>
-        		<parentdetails>
-					<name>Cranial Containment Unit</name>
-        		</parentdetails>
-      		</required>
-			<notes>Does not grant an additional Control Rig, it replaces it.</notes>
-		</cyberware>
-		<cyberware>
-			<id>7e45e9fc-4d70-44f6-bcb3-d862fe292795</id>
-      		<name>Chipjack</name>
-     		<limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[Rating * 2]</capacity>
-      		<avail>Rating * 2</avail>
-      		<cost>Rating * 1000</cost>
-      		<source>CF</source>
-      		<page>79</page>
-			<required>
-        		<parentdetails>
-					<name>Cranial Containment Unit</name>
-        		</parentdetails>
-      		</required>
-      		<rating>6</rating>
-		</cyberware>
-		<cyberware>
-			<id>056d373b-356e-4956-b759-19085617fb5f</id>
-      		<name>Internal Router</name>
-     		<limit>False</limit>
-      		<category>Cyborg</category>
-      		<ess>0</ess>
-      		<capacity>[28]</capacity>
-      		<avail>4</avail>
-      		<cost>15000</cost>
-      		<source>CF</source>
-			<required>
-        		<parentdetails>
-					<name>Cranial Containment Unit</name>
-        		</parentdetails>
-      		</required>
-      		<page>84</page>
-		</cyberware>
+      <id>5e159433-21c4-44d9-9d63-f9984e2a53d2</id>
+      <name>Cranial Containment Unit</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>5.9</ess>
+      <capacity>50</capacity>
+      <avail>6</avail>
+      <cost>0</cost>
+      <source>DM</source>
+      <page>0</page>
+      <bannedgrades>
+        <grade>Used</grade>
+        <grade>Used (Adapsin)</grade>
+        <grade>Greyware</grade>
+        <grade>Greyware (Adapsin)</grade>
+        <grade>Alphaware</grade>
+        <grade>Alphaware (Adapsin)</grade>
+        <grade>Betaware</grade>
+        <grade>Betaware (Adapsin)</grade>
+        <grade>Deltaware</grade>
+        <grade>Deltaware (Adapsin)</grade>
+        <grade>Greyware</grade>
+        <grade>Greyware (Adapsin)</grade>
+        <grade>Tailored Greyware</grade>
+        <grade>Tailored Greyware (Adapsin)</grade>
+      </bannedgrades>
+      <allowsubsystems>
+        <category>Cyborg</category>
+      </allowsubsystems>
+      <subsystems>
         <cyberware>
-          <id>6086f4ff-056a-47ff-9aef-bd0947762f43</id>
+          <name>Skilljack</name>
+          <rating>6</rating>
+        </cyberware>
+        <cyberware>
+          <name>Skillwires</name>
+          <rating>5</rating>
+        </cyberware>
+        <cyberware>
+          <name>Control Rig</name>
+          <rating>2</rating>
+        </cyberware>
+        <cyberware>
           <name>Matrix Device Port</name>
-          <limit>False</limit>
-          <category>Cyborg</category>
-          <ess>0</ess>
-          <capacity>[0]</capacity>
-          <avail>0</avail>
-          <cost>0</cost>
-          <source>DM</source>
-          <page>0</page>
-          <allowgear>
-            <gearcategory>Commlinks</gearcategory>
-            <gearcategory>Rigger Command Consoles</gearcategory>
-            <gearcategory>Cyberdecks</gearcategory>
-          </allowgear>
-          <required>
-            <parentdetails>
-                <name>Cranial Containment Unit</name>
-            </parentdetails>
-          </required>
         </cyberware>
+      </subsystems>
+      <required>
+        <oneof>
+          <metatype>Cyborg</metatype>
+        </oneof>
+      </required>
+    </cyberware>
+    <cyberware>
+      <id>93daafbe-4d94-4701-bf4a-00160ee9b536</id>
+      <name>Drone Arm Adaptor</name>
+      <limit>140</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[Rating]/Rating</capacity>
+      <avail>4</avail>
+      <cost>0</cost>
+      <source>DM</source>
+      <required>
+        <parentdetails>
+          <name>Shell Cyberware Adaptor</name>
+        </parentdetails>
+      </required>
+      <page>0</page>
+    </cyberware>
+    <cyberware>
+      <id>dae3c74d-0798-4a8b-bb9b-6836e9271447</id>
+      <name>Drone Leg Adaptor</name>
+      <limit>140</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[Rating]/Rating</capacity>
+      <avail>4</avail>
+      <cost>0</cost>
+      <source>DM</source>
+      <required>
+        <parentdetails>
+          <name>Shell Cyberware Adaptor</name>
+        </parentdetails>
+      </required>
+      <page>0</page>
+    </cyberware>
+    <cyberware>
+      <id>c3437482-0f7d-4910-ab9d-a6b6bf8015bb</id>
+      <name>Cranial GPU</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[Rating * 5]</capacity>
+      <avail>((Rating - 1) * 4)+12</avail>
+      <cost>Rating * 40000</cost>
+      <source>DM</source>
+      <page>0</page>
+      <bonus>
+        <specificattribute>
+          <name>INT</name>
+          <val>Rating</val>
+        </specificattribute>
+      </bonus>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+      <rating>4</rating>
+    </cyberware>
+    <cyberware>
+      <id>b44ccfb7-a74f-4b66-a25d-04a711e928ef</id>
+      <name>Encephalon Mk 2</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[Rating * 5]</capacity>
+      <avail>Rating * 6</avail>
+      <cost>Rating * 40000</cost>
+      <source>DM</source>
+      <page>0</page>
+      <bonus>
+        <specificattribute>
+          <name>LOG</name>
+          <val>Rating</val>
+        </specificattribute>
+        <specificskill>
+          <name>Computer</name>
+          <bonus>+1</bonus>
+        </specificskill>
+        <specificskill>
+          <name>Hardware</name>
+          <bonus>+1</bonus>
+        </specificskill>
+        <specificskill>
+          <name>Software</name>
+          <bonus>+1</bonus>
+        </specificskill>
+      </bonus>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+      <rating>4</rating>
+    </cyberware>
+    <cyberware>
+      <id>73aa7626-b3ab-4616-b84d-64b2831a90fc</id>
+      <name>Skillwires Upgrade</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[5]</capacity>
+      <avail>24</avail>
+      <cost>20000</cost>
+      <source>DM</source>
+      <page>0</page>
+      <subsystem>
         <cyberware>
-          <id>ea790d0d-0d65-487c-b4da-13ea56284a64</id>
-          <name>Single Cybereye Basic System</name>
-          <category>EyeMount</category>
-          <capacity>4/[1]</capacity>
-          <avail>3</avail>
-          <cost>2000</cost>
-          <source>SR5</source>
-          <page>453</page>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Eyeware</category>
-          </allowsubsystems>
-          <subsystems>
-            <cyberware>
-              <name>Image Link</name>
-            </cyberware>
-          </subsystems>
-          <required>
-            <parentdetails>
-              <name>Additional Eye Mount</name>
-            </parentdetails>
-          </required>
+          <name>Skillwires</name>
+          <rating>6</rating>
         </cyberware>
+      </subsystem>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+      <notes>Does not grant additional Skillwires, it replaces them.</notes>
+    </cyberware>
+    <cyberware>
+      <id>62212b1b-6eb2-47c6-92b9-8d42b2302b2f</id>
+      <name>Control Rig Upgrade</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[15]</capacity>
+      <avail>15R</avail>
+      <cost>100000</cost>
+      <source>DM</source>
+      <page>0</page>
+      <subsystem>
         <cyberware>
-          <id>cf00099e-6ab1-427d-b194-7c7d31144fb4</id>
+          <name>Control Rig</name>
+          <rating>3</rating>
+        </cyberware>
+      </subsystem>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+      <notes>Does not grant an additional Control Rig, it replaces it.</notes>
+    </cyberware>
+    <cyberware>
+      <id>7e45e9fc-4d70-44f6-bcb3-d862fe292795</id>
+      <name>Chipjack</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[Rating * 2]</capacity>
+      <avail>Rating * 2</avail>
+      <cost>Rating * 1000</cost>
+      <source>CF</source>
+      <page>79</page>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+      <rating>6</rating>
+    </cyberware>
+    <cyberware>
+      <id>056d373b-356e-4956-b759-19085617fb5f</id>
+      <name>Internal Router</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[28]</capacity>
+      <avail>4</avail>
+      <cost>15000</cost>
+      <source>CF</source>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+      <page>84</page>
+    </cyberware>
+    <cyberware>
+      <id>6086f4ff-056a-47ff-9aef-bd0947762f43</id>
+      <name>Matrix Device Port</name>
+      <limit>False</limit>
+      <category>Cyborg</category>
+      <ess>0</ess>
+      <capacity>[0]</capacity>
+      <avail>0</avail>
+      <cost>0</cost>
+      <source>DM</source>
+      <page>0</page>
+      <allowgear>
+        <gearcategory>Commlinks</gearcategory>
+        <gearcategory>Rigger Command Consoles</gearcategory>
+        <gearcategory>Cyberdecks</gearcategory>
+      </allowgear>
+      <required>
+        <parentdetails>
+          <name>Cranial Containment Unit</name>
+        </parentdetails>
+      </required>
+    </cyberware>
+    <cyberware>
+      <id>ea790d0d-0d65-487c-b4da-13ea56284a64</id>
+      <name>Single Cybereye Basic System</name>
+      <category>EyeMount</category>
+      <capacity>4/[1]</capacity>
+      <avail>3</avail>
+      <cost>2000</cost>
+      <source>SR5</source>
+      <page>453</page>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Eyeware</category>
+      </allowsubsystems>
+      <subsystems>
+        <cyberware>
+          <name>Image Link</name>
+        </cyberware>
+      </subsystems>
+      <required>
+        <parentdetails>
           <name>Additional Eye Mount</name>
-          <limit>False</limit>
-          <category>Bodyware</category>
-          <ess>0.2</ess>
-          <capacity>1/[2]</capacity>
-          <avail>8</avail>
-          <cost>1000</cost>
-          <source>CF</source>
-          <page>75</page>
-          <allowsubsystems>
-            <category>EyeMount</category>
-          </allowsubsystems>
-          <bonus>
-            <limitmodifier>
-              <limit>Physical</limit>
-              <value>-1</value>
-            </limitmodifier>
-          </bonus>
-        </cyberware>
-        <cyberware>
-          <id>dcec5cb6-be7e-4bf6-8bad-09c5bc6215dc</id>
-          <name>Modular Limb Connection, Wrist</name>
-          <limit>{arm}</limit>
-          <category>Cyberlimb</category>
-          <ess>0.25</ess>
-          <avail>4</avail>
-          <cost>0</cost>
-          <source>CF</source>
-          <page>88</page>
-          <modularmount>modularwrist</modularmount>
-          <blocksmounts>wrist,elbow,shoulder</blocksmounts>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>c8d8d40a-5b8b-4a2c-adb1-fd39003ac0e7</id>
-          <name>Modular Limb Connection, Ankle</name>
-          <limit>{leg}</limit>
-          <category>Cyberlimb</category>
-          <ess>0.25</ess>
-          <avail>4</avail>
-          <cost>0</cost>
-          <source>CF</source>
-          <page>88</page>
-          <bonus>
-            <disablequality>Celerity</disablequality>
-          </bonus>
-          <modularmount>modularankle</modularmount>
-          <blocksmounts>ankle,knee,hip</blocksmounts>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>5090ce32-be53-423b-974f-eaa6d9ea7805</id>
-          <name>Modular Limb Connection, Elbow</name>
-          <limit>{arm}</limit>
-          <category>Cyberlimb</category>
-          <ess>0.45</ess>
-          <avail>8</avail>
-          <cost>0</cost>
-          <source>CF</source>
-          <page>88</page>
-          <modularmount>modularelbow</modularmount>
-          <blocksmounts>wrist,elbow,shoulder</blocksmounts>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>d66c6cf5-4a8f-4056-9c0c-76a2f6dd1dde</id>
-          <name>Modular Limb Connection, Knee</name>
-          <limit>{leg}</limit>
-          <category>Cyberlimb</category>
-          <ess>0.45</ess>
-          <avail>8</avail>
-          <cost>0</cost>
-          <source>CF</source>
-          <page>88</page>
-          <bonus>
-            <disablequality>Celerity</disablequality>
-          </bonus>
-          <modularmount>modularknee</modularmount>
-          <blocksmounts>ankle,knee,hip</blocksmounts>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>3bf8378e-c19b-437b-a0be-1ab68f6e45ec</id>
-          <name>Modular Limb Connection, Shoulder</name>
-          <limit>{arm}</limit>
-          <category>Cyberlimb</category>
-          <ess>1</ess>
-          <avail>12</avail>
-          <cost>0</cost>
-          <source>CF</source>
-          <page>88</page>
-          <inheritattributes />
-          <modularmount>modularshoulder</modularmount>
-          <blocksmounts>wrist,elbow,shoulder</blocksmounts>
-          <selectside />
-          <limbslot>arm</limbslot>
-        </cyberware>
-        <cyberware>
-          <id>9fca48a1-7c9f-4fa0-a878-4eb1a7f810e8</id>
-          <name>Modular Limb Connection, Hip</name>
-          <limit>{leg}</limit>
-          <category>Cyberlimb</category>
-          <ess>1</ess>
-          <avail>12</avail>
-          <cost>0</cost>
-          <source>CF</source>
-          <page>88</page>
-          <bonus>
-            <disablequality>Celerity</disablequality>
-          </bonus>
-          <inheritattributes />
-          <modularmount>modularhip</modularmount>
-          <blocksmounts>ankle,knee,hip</blocksmounts>
-          <selectside />
-          <forbidden>
-            <oneof>
-              <cyberwarecontains>Liminal</cyberwarecontains>
-            </oneof>
-          </forbidden>
-          <limbslot>leg</limbslot>
-        </cyberware>
+        </parentdetails>
+      </required>
+    </cyberware>
+    <cyberware>
+      <id>cf00099e-6ab1-427d-b194-7c7d31144fb4</id>
+      <name>Additional Eye Mount</name>
+      <limit>False</limit>
+      <category>Bodyware</category>
+      <ess>0.2</ess>
+      <capacity>1/[2]</capacity>
+      <avail>8</avail>
+      <cost>1000</cost>
+      <source>CF</source>
+      <page>75</page>
+      <allowsubsystems>
+        <category>EyeMount</category>
+      </allowsubsystems>
+      <bonus>
+        <limitmodifier>
+          <limit>Physical</limit>
+          <value>-1</value>
+        </limitmodifier>
+      </bonus>
+    </cyberware>
+    <cyberware>
+      <id>dcec5cb6-be7e-4bf6-8bad-09c5bc6215dc</id>
+      <name>Modular Limb Connection, Wrist</name>
+      <limit>{arm}</limit>
+      <category>Cyberlimb</category>
+      <ess>0.25</ess>
+      <avail>4</avail>
+      <cost>0</cost>
+      <source>CF</source>
+      <page>88</page>
+      <modularmount>modularwrist</modularmount>
+      <blocksmounts>wrist,elbow,shoulder</blocksmounts>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>c8d8d40a-5b8b-4a2c-adb1-fd39003ac0e7</id>
+      <name>Modular Limb Connection, Ankle</name>
+      <limit>{leg}</limit>
+      <category>Cyberlimb</category>
+      <ess>0.25</ess>
+      <avail>4</avail>
+      <cost>0</cost>
+      <source>CF</source>
+      <page>88</page>
+      <bonus>
+        <disablequality>Celerity</disablequality>
+      </bonus>
+      <modularmount>modularankle</modularmount>
+      <blocksmounts>ankle,knee,hip</blocksmounts>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>5090ce32-be53-423b-974f-eaa6d9ea7805</id>
+      <name>Modular Limb Connection, Elbow</name>
+      <limit>{arm}</limit>
+      <category>Cyberlimb</category>
+      <ess>0.45</ess>
+      <avail>8</avail>
+      <cost>0</cost>
+      <source>CF</source>
+      <page>88</page>
+      <modularmount>modularelbow</modularmount>
+      <blocksmounts>wrist,elbow,shoulder</blocksmounts>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>d66c6cf5-4a8f-4056-9c0c-76a2f6dd1dde</id>
+      <name>Modular Limb Connection, Knee</name>
+      <limit>{leg}</limit>
+      <category>Cyberlimb</category>
+      <ess>0.45</ess>
+      <avail>8</avail>
+      <cost>0</cost>
+      <source>CF</source>
+      <page>88</page>
+      <bonus>
+        <disablequality>Celerity</disablequality>
+      </bonus>
+      <modularmount>modularknee</modularmount>
+      <blocksmounts>ankle,knee,hip</blocksmounts>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>3bf8378e-c19b-437b-a0be-1ab68f6e45ec</id>
+      <name>Modular Limb Connection, Shoulder</name>
+      <limit>{arm}</limit>
+      <category>Cyberlimb</category>
+      <ess>1</ess>
+      <avail>12</avail>
+      <cost>0</cost>
+      <source>CF</source>
+      <page>88</page>
+      <inheritattributes />
+      <modularmount>modularshoulder</modularmount>
+      <blocksmounts>wrist,elbow,shoulder</blocksmounts>
+      <selectside />
+      <limbslot>arm</limbslot>
+    </cyberware>
+    <cyberware>
+      <id>9fca48a1-7c9f-4fa0-a878-4eb1a7f810e8</id>
+      <name>Modular Limb Connection, Hip</name>
+      <limit>{leg}</limit>
+      <category>Cyberlimb</category>
+      <ess>1</ess>
+      <avail>12</avail>
+      <cost>0</cost>
+      <source>CF</source>
+      <page>88</page>
+      <bonus>
+        <disablequality>Celerity</disablequality>
+      </bonus>
+      <inheritattributes />
+      <modularmount>modularhip</modularmount>
+      <blocksmounts>ankle,knee,hip</blocksmounts>
+      <selectside />
+      <forbidden>
+        <oneof>
+          <cyberwarecontains>Liminal</cyberwarecontains>
+        </oneof>
+      </forbidden>
+      <limbslot>leg</limbslot>
+    </cyberware>
 
 
-        <cyberware>
-          <id>df2d4cc6-e9b6-4cb7-888e-4d10bc9908a7</id>
-          <name>Obvious Foot, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>4</capacity>
-          <avail>2</avail>
-          <cost>5000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>ankle</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>792a981f-a829-4a11-a934-76692ff4c240</id>
-          <name>Obvious Hand, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>4</capacity>
-          <avail>2</avail>
-          <cost>5000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>wrist</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>414373a1-5053-4e8e-8714-cdfd460a92c0</id>
-          <name>Synthetic Foot, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>2</capacity>
-          <avail>2</avail>
-          <cost>6000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>ankle</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>05f788ca-b109-4c8c-a18b-80161fe454ae</id>
-          <name>Synthetic Hand, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>2</capacity>
-          <avail>2</avail>
-          <cost>6000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>wrist</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-        </cyberware>
-        <cyberware>
-          <id>7f6e466b-e3fe-4ac4-81c1-4ba890974ae8</id>
-          <name>Obvious Lower Arm, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>10</capacity>
-          <avail>4</avail>
-          <cost>10000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>elbow</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <pairbonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </pairbonus>
-          <pairinclude>
-            <name>Obvious Lower Leg</name>
-            <name>Obvious Lower Arm</name>
-            <name>Synthetic Lower Arm</name>
-            <name>Synthetic Lower Leg</name>
-            <name>Obvious Lower Leg, Modular</name>
-            <name>Obvious Lower Arm, Modular</name>
-            <name>Synthetic Lower Arm, Modular</name>
-            <name>Synthetic Lower Leg, Modular</name>
-          </pairinclude>
-        </cyberware>
-        <cyberware>
-          <id>e746c13a-0a9c-4604-b19b-5e60c61ea7cf</id>
-          <name>Obvious Lower Leg, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>12</capacity>
-          <avail>4</avail>
-          <cost>10000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>knee</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <pairbonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </pairbonus>
-          <pairinclude>
-            <name>Obvious Lower Leg</name>
-            <name>Obvious Lower Arm</name>
-            <name>Synthetic Lower Arm</name>
-            <name>Synthetic Lower Leg</name>
-            <name>Obvious Lower Leg, Modular</name>
-            <name>Obvious Lower Arm, Modular</name>
-            <name>Synthetic Lower Arm, Modular</name>
-            <name>Synthetic Lower Leg, Modular</name>
-          </pairinclude>
-        </cyberware>
-        <cyberware>
-          <id>1ae278bb-ab7f-4ba2-afc5-4849bc59a69c</id>
-          <name>Synthetic Lower Arm, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>5</capacity>
-          <avail>4</avail>
-          <cost>12000</cost>
-          <source>SR5</source>
-          <page>456</page>>
-          <mountsto>elbow</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <pairbonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </pairbonus>
-          <pairinclude>
-            <name>Obvious Lower Leg</name>
-            <name>Obvious Lower Arm</name>
-            <name>Synthetic Lower Arm</name>
-            <name>Synthetic Lower Leg</name>
-            <name>Obvious Lower Leg, Modular</name>
-            <name>Obvious Lower Arm, Modular</name>
-            <name>Synthetic Lower Arm, Modular</name>
-            <name>Synthetic Lower Leg, Modular</name>
-          </pairinclude>
-        </cyberware>
-        <cyberware>
-          <id>5ce61281-35c8-4f3f-8e7e-32b26bcf7493</id>
-          <name>Synthetic Lower Leg, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>6</capacity>
-          <avail>4</avail>
-          <cost>12000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>knee</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <pairbonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </pairbonus>
-          <pairinclude>
-            <name>Obvious Lower Leg</name>
-            <name>Obvious Lower Arm</name>
-            <name>Synthetic Lower Arm</name>
-            <name>Synthetic Lower Leg</name>
-            <name>Obvious Lower Leg, Modular</name>
-            <name>Obvious Lower Arm, Modular</name>
-            <name>Synthetic Lower Arm, Modular</name>
-            <name>Synthetic Lower Leg, Modular</name>
-          </pairinclude>
-        </cyberware>
-        <cyberware>
-          <id>1fd8d94f-7146-4e36-a131-05fbfb8f30be</id>
-          <name>Obvious Full Arm, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>15</capacity>
-          <avail>4</avail>
-          <cost>15000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>shoulder</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <bonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </bonus>
-        </cyberware>
-        <cyberware>
-          <id>e344a0d7-43e3-4a06-816f-6e331bbae373</id>
-          <name>Obvious Full Leg, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>20</capacity>
-          <avail>4</avail>
-          <cost>15000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>hip</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <bonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </bonus>
-        </cyberware>
-        <cyberware>
-          <id>3aba3589-9020-4e9a-84fa-7872e2af0052</id>
-          <name>Synthetic Full Arm, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>8</capacity>
-          <avail>4</avail>
-          <cost>20000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>shoulder</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <bonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </bonus>
-        </cyberware>
-        <cyberware>
-          <id>8239f536-3c3d-4dce-8d0a-1adbe081094f</id>
-          <name>Synthetic Full Leg, Mod Connector</name>
-          <limit>False</limit>
-          <category>Cyberlimb</category>
-          <ess>0</ess>
-          <capacity>10</capacity>
-          <avail>4</avail>
-          <cost>20000</cost>
-          <source>SR5</source>
-          <page>456</page>
-          <mountsto>hip</mountsto>
-          <allowgear>
-            <gearcategory>Custom</gearcategory>
-            <gearcategory>Sensors</gearcategory>
-          </allowgear>
-          <allowsubsystems>
-            <category>Bodyware</category>
-            <category>Cosmetic Enhancement</category>
-            <category>Cyberlimb</category>
-            <category>Cyberlimb Enhancement</category>
-            <category>Cyberlimb Accessory</category>
-            <category>Cyber Implant Weapon</category>
-            <category>Headware</category>
-            <category>Nanocybernetics</category>
-          </allowsubsystems>
-          <selectside />
-          <bonus>
-            <conditionmonitor>
-              <physical>1</physical>
-            </conditionmonitor>
-          </bonus>
-        </cyberware>
-	</cyberwares>
+    <cyberware>
+      <id>df2d4cc6-e9b6-4cb7-888e-4d10bc9908a7</id>
+      <name>Obvious Foot, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>4</capacity>
+      <avail>2</avail>
+      <cost>5000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>ankle</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>792a981f-a829-4a11-a934-76692ff4c240</id>
+      <name>Obvious Hand, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>4</capacity>
+      <avail>2</avail>
+      <cost>5000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>wrist</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>414373a1-5053-4e8e-8714-cdfd460a92c0</id>
+      <name>Synthetic Foot, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>2</capacity>
+      <avail>2</avail>
+      <cost>6000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>ankle</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>05f788ca-b109-4c8c-a18b-80161fe454ae</id>
+      <name>Synthetic Hand, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>2</capacity>
+      <avail>2</avail>
+      <cost>6000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>wrist</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+    </cyberware>
+    <cyberware>
+      <id>7f6e466b-e3fe-4ac4-81c1-4ba890974ae8</id>
+      <name>Obvious Lower Arm, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>10</capacity>
+      <avail>4</avail>
+      <cost>10000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>elbow</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <pairbonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </pairbonus>
+      <pairinclude>
+        <name>Obvious Lower Leg</name>
+        <name>Obvious Lower Arm</name>
+        <name>Synthetic Lower Arm</name>
+        <name>Synthetic Lower Leg</name>
+        <name>Obvious Lower Leg, Modular</name>
+        <name>Obvious Lower Arm, Modular</name>
+        <name>Synthetic Lower Arm, Modular</name>
+        <name>Synthetic Lower Leg, Modular</name>
+      </pairinclude>
+    </cyberware>
+    <cyberware>
+      <id>e746c13a-0a9c-4604-b19b-5e60c61ea7cf</id>
+      <name>Obvious Lower Leg, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>12</capacity>
+      <avail>4</avail>
+      <cost>10000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>knee</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <pairbonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </pairbonus>
+      <pairinclude>
+        <name>Obvious Lower Leg</name>
+        <name>Obvious Lower Arm</name>
+        <name>Synthetic Lower Arm</name>
+        <name>Synthetic Lower Leg</name>
+        <name>Obvious Lower Leg, Modular</name>
+        <name>Obvious Lower Arm, Modular</name>
+        <name>Synthetic Lower Arm, Modular</name>
+        <name>Synthetic Lower Leg, Modular</name>
+      </pairinclude>
+    </cyberware>
+    <cyberware>
+      <id>1ae278bb-ab7f-4ba2-afc5-4849bc59a69c</id>
+      <name>Synthetic Lower Arm, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>5</capacity>
+      <avail>4</avail>
+      <cost>12000</cost>
+      <source>SR5</source>
+      <page>456</page>>
+      <mountsto>elbow</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <pairbonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </pairbonus>
+      <pairinclude>
+        <name>Obvious Lower Leg</name>
+        <name>Obvious Lower Arm</name>
+        <name>Synthetic Lower Arm</name>
+        <name>Synthetic Lower Leg</name>
+        <name>Obvious Lower Leg, Modular</name>
+        <name>Obvious Lower Arm, Modular</name>
+        <name>Synthetic Lower Arm, Modular</name>
+        <name>Synthetic Lower Leg, Modular</name>
+      </pairinclude>
+    </cyberware>
+    <cyberware>
+      <id>5ce61281-35c8-4f3f-8e7e-32b26bcf7493</id>
+      <name>Synthetic Lower Leg, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>6</capacity>
+      <avail>4</avail>
+      <cost>12000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>knee</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <pairbonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </pairbonus>
+      <pairinclude>
+        <name>Obvious Lower Leg</name>
+        <name>Obvious Lower Arm</name>
+        <name>Synthetic Lower Arm</name>
+        <name>Synthetic Lower Leg</name>
+        <name>Obvious Lower Leg, Modular</name>
+        <name>Obvious Lower Arm, Modular</name>
+        <name>Synthetic Lower Arm, Modular</name>
+        <name>Synthetic Lower Leg, Modular</name>
+      </pairinclude>
+    </cyberware>
+    <cyberware>
+      <id>1fd8d94f-7146-4e36-a131-05fbfb8f30be</id>
+      <name>Obvious Full Arm, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>15</capacity>
+      <avail>4</avail>
+      <cost>15000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>shoulder</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <bonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </bonus>
+    </cyberware>
+    <cyberware>
+      <id>e344a0d7-43e3-4a06-816f-6e331bbae373</id>
+      <name>Obvious Full Leg, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>20</capacity>
+      <avail>4</avail>
+      <cost>15000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>hip</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <bonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </bonus>
+    </cyberware>
+    <cyberware>
+      <id>3aba3589-9020-4e9a-84fa-7872e2af0052</id>
+      <name>Synthetic Full Arm, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>8</capacity>
+      <avail>4</avail>
+      <cost>20000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>shoulder</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <bonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </bonus>
+    </cyberware>
+    <cyberware>
+      <id>8239f536-3c3d-4dce-8d0a-1adbe081094f</id>
+      <name>Synthetic Full Leg, Mod Connector</name>
+      <limit>False</limit>
+      <category>Cyberlimb</category>
+      <ess>0</ess>
+      <capacity>10</capacity>
+      <avail>4</avail>
+      <cost>20000</cost>
+      <source>SR5</source>
+      <page>456</page>
+      <mountsto>hip</mountsto>
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <allowsubsystems>
+        <category>Bodyware</category>
+        <category>Cosmetic Enhancement</category>
+        <category>Cyberlimb</category>
+        <category>Cyberlimb Enhancement</category>
+        <category>Cyberlimb Accessory</category>
+        <category>Cyber Implant Weapon</category>
+        <category>Headware</category>
+        <category>Nanocybernetics</category>
+      </allowsubsystems>
+      <selectside />
+      <bonus>
+        <conditionmonitor>
+          <physical>1</physical>
+        </conditionmonitor>
+      </bonus>
+    </cyberware>
+  </cyberwares>
 </chummer>
