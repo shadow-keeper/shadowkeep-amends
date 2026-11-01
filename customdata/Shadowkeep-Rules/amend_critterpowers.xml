@@ -19,7 +19,7 @@
   https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.w3.org/2001/XMLSchema critterpowers.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema critterpowers.xsd">
 
   <powers>
     <power>
@@ -91,8 +91,8 @@
       <source amendoperation="replace">RF</source>
       <page amendoperation="replace">143</page>
     </power>
-    
-  <!-- Drake Stuff -->
+
+    <!-- Drake Stuff -->
     <power>
       <id>dafb81bd-7b92-487a-a739-465c69bcefcd</id>
       <!-- Adaptive Coloration -->

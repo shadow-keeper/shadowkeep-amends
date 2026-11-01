@@ -19,24 +19,24 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema books.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema books.xsd">
 
-	<books>
-		<book>
-			<id>63342c01-3891-4242-966a-cda8ec2d55b9</id>
-			<name>The Way Of The Samurai</name>
-			<code>WotS</code>
-			<match>
-				<language>en-us</language>
-			</match>
-		</book>
-		<book>
-			<id>c5474cb2-18ba-48e1-a54d-f118cc9d8d19</id>
-			<name>Defiance Manifest</name>
-			<code>DM</code>
-			<match>
-				<language>en-us</language>
-			</match>
-		</book>
-	</books>
+  <books>
+    <book>
+      <id>63342c01-3891-4242-966a-cda8ec2d55b9</id>
+      <name>The Way Of The Samurai</name>
+      <code>WotS</code>
+      <match>
+        <language>en-us</language>
+      </match>
+    </book>
+    <book>
+      <id>c5474cb2-18ba-48e1-a54d-f118cc9d8d19</id>
+      <name>Defiance Manifest</name>
+      <code>DM</code>
+      <match>
+        <language>en-us</language>
+      </match>
+    </book>
+  </books>
 </chummer>

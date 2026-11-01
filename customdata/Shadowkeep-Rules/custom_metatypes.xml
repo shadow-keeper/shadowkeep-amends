@@ -19,8 +19,8 @@
   https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 xsi:schemaLocation="http://www.w3.org/2001/XMLSchema metatypes.xsd">
-    <metatypes>
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema metatypes.xsd">
+  <metatypes>
     <metatype>
       <id>0c268f5f-4f11-47a2-8bf0-465088820492</id>
       <name>Cyborg</name>
@@ -73,12 +73,12 @@
       <source>DM</source>
       <page>0</page>
       <bonus>
-      <addware>
-        <type>cyberware</type>
-        <name>Cranial Containment Unit</name>
-        <grade>Standard</grade>
-      </addware>
-    </bonus>
+        <addware>
+          <type>cyberware</type>
+          <name>Cranial Containment Unit</name>
+          <grade>Standard</grade>
+        </addware>
+      </bonus>
     </metatype>
-    </metatypes>
+  </metatypes>
 </chummer>

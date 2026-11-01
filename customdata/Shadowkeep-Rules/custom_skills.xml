@@ -19,261 +19,261 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema skills.xsd">
-    <skills>
-        <skill>
-          <id>f613f587-0b44-4aff-b5c3-0131e77efa66</id>
-          <name>Nonconventional Ballistics</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>dd8cf7f7-4bdb-4ad8-aa77-81b5ae8d6543</id>
-          <name>Tensile Weapons</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>29309682-5ec4-4d16-9b01-621a1995551f</id>
-          <name>Non-Ballistic Firearms</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>1dedf178-ffd1-498d-a345-472e5f62d417</id>
-          <name>Exotic Natural Weapons</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>True</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>effecd7e-429b-4a9b-a6ca-0af661fd9a4d</id>
-          <name>Laser Weapons</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>71672abf-094e-4d7a-9308-e6e15f001136</id>
-          <name>Rolling Blades</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>f171d542-98d8-4f07-8d04-3cc15f605586</id>
-          <name>Chainsaws</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>SR5</source>
-          <page>131</page>
-        </skill>
-        <skill>
-          <id>21c72052-a071-4ac2-8730-807bb3bc16da</id>
-          <name>Implanted/Natural Ranged Attacks</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>True</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-        <skill>
-          <id>bccf95de-1a91-4d33-a013-79bd353d2654</id>
-          <name>Battering Weapons</name>
-          <attribute>AGI</attribute>
-          <category>Combat Active</category>
-          <default>False</default>
-          <skillgroup />
-          <specs />
-          <source>DM</source>
-          <page>0</page>
-        </skill>
-    </skills>
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema skills.xsd">
+  <skills>
+    <skill>
+      <id>f613f587-0b44-4aff-b5c3-0131e77efa66</id>
+      <name>Nonconventional Ballistics</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>dd8cf7f7-4bdb-4ad8-aa77-81b5ae8d6543</id>
+      <name>Tensile Weapons</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>29309682-5ec4-4d16-9b01-621a1995551f</id>
+      <name>Non-Ballistic Firearms</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>1dedf178-ffd1-498d-a345-472e5f62d417</id>
+      <name>Exotic Natural Weapons</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>True</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>effecd7e-429b-4a9b-a6ca-0af661fd9a4d</id>
+      <name>Laser Weapons</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>71672abf-094e-4d7a-9308-e6e15f001136</id>
+      <name>Rolling Blades</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>f171d542-98d8-4f07-8d04-3cc15f605586</id>
+      <name>Chainsaws</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>SR5</source>
+      <page>131</page>
+    </skill>
+    <skill>
+      <id>21c72052-a071-4ac2-8730-807bb3bc16da</id>
+      <name>Implanted/Natural Ranged Attacks</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>True</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+    <skill>
+      <id>bccf95de-1a91-4d33-a013-79bd353d2654</id>
+      <name>Battering Weapons</name>
+      <attribute>AGI</attribute>
+      <category>Combat Active</category>
+      <default>False</default>
+      <skillgroup />
+      <specs />
+      <source>DM</source>
+      <page>0</page>
+    </skill>
+  </skills>
 
-	<knowledgeskills>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf000</id>
-			<name>Magical Groups</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Schools</spec>
-				<spec>Religions/Cults</spec>
-				<spec>Corporate</spec>
-				<spec>Political Factions</spec>
-				<spec>Magical Nations</spec>
-				<spec>Criminal</spec>
-				<spec>[Specific Magical Group]</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf001</id>
-			<name>Magical Goods</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Foci</spec>
-				<spec>Orichalcum</spec>
-				<spec>Reagents</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf002</id>
-			<name>Manasphere Studies</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Artificial Biospheres</spec>
-				<spec>Background Counts</spec>
-				<spec>Geomancy</spec>
-				<spec>Mana Storms</spec>
-				<spec>Ley Lines</spec>
-				<spec>Lodges</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf003</id>
-			<name>Astral Topography</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Alchera</spec>
-				<spec>Astral Nexus Points</spec>
-				<spec>Astral Rifts</spec>
-				<spec>Landmarks</spec>
-				<spec>Ley Lines</spec>
-				<spec>[Metaplane specific]</spec>
-				<spec>[Metaplane cluster]</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf004</id>
-			<name>Talismongering</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Appraisal</spec>
-				<spec>Artifacts</spec>
-				<spec>Crafting Process</spec>
-				<spec>Foci</spec>
-				<spec>Formulae</spec>
-				<spec>Reagents</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf005</id>
-			<name>Thaumaturgy</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Sorcery</spec>
-				<spec>Conjuring</spec>
-				<spec>Enchanting</spec>
-				<spec>Foci</spec>
-				<spec>Astral World</spec>
-				<spec>Metaplanes</spec>
-				<spec>Initiation</spec>
-				<spec>Mentor Spirits</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>0bbb3078-a940-4003-b4f3-fa23937cf006</id>
-			<name>Arcano-Archaeology</name>
-			<attribute>LOG</attribute>
-			<category>Academic</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Artifacts</spec>
-				<spec>Divine/Spiritual</spec>
-				<spec>Draconic</spec>
-				<spec>Fey</spec>
-				<spec>Ritual</spec>
-				<spec>Sorcery</spec>
-				<spec>Atlantis</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>27bbce45-81df-44f4-9749-56b0ea2b9543</id>
-			<name>4th World Knowledge</name>
-			<attribue>INT</attribue>
-			<category>Interest</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>4th World Magic</spec>
-				<spec>Dragons</spec>
-				<spec>Metahuman Settlements</spec>
-			</specs>
-		</skill>
-		<skill>
-			<id>beea7ff9-7ddd-456d-b10f-09993cce03a1</id>
-			<name>The Enemy</name>
-			<attribute>INT</attribute>
-			<category>Interest</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Tactics</spec>
-				<spec>History</spec>
-				<spec>The Bridge</spec>
-			</specs>
-		</skill>
-        <skill>
-			<id>db1ca118-5785-4e83-a79e-905b15535226</id>
-			<name>The Scourge</name>
-			<attribute>INT</attribute>
-			<category>Interest</category>
-			<default>False</default>
-			<skillgroup />
-			<specs>
-				<spec>Tactics</spec>
-				<spec>History</spec>
-			</specs>
-		</skill>
-	</knowledgeskills>
+  <knowledgeskills>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf000</id>
+      <name>Magical Groups</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Schools</spec>
+        <spec>Religions/Cults</spec>
+        <spec>Corporate</spec>
+        <spec>Political Factions</spec>
+        <spec>Magical Nations</spec>
+        <spec>Criminal</spec>
+        <spec>[Specific Magical Group]</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf001</id>
+      <name>Magical Goods</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Foci</spec>
+        <spec>Orichalcum</spec>
+        <spec>Reagents</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf002</id>
+      <name>Manasphere Studies</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Artificial Biospheres</spec>
+        <spec>Background Counts</spec>
+        <spec>Geomancy</spec>
+        <spec>Mana Storms</spec>
+        <spec>Ley Lines</spec>
+        <spec>Lodges</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf003</id>
+      <name>Astral Topography</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Alchera</spec>
+        <spec>Astral Nexus Points</spec>
+        <spec>Astral Rifts</spec>
+        <spec>Landmarks</spec>
+        <spec>Ley Lines</spec>
+        <spec>[Metaplane specific]</spec>
+        <spec>[Metaplane cluster]</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf004</id>
+      <name>Talismongering</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Appraisal</spec>
+        <spec>Artifacts</spec>
+        <spec>Crafting Process</spec>
+        <spec>Foci</spec>
+        <spec>Formulae</spec>
+        <spec>Reagents</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf005</id>
+      <name>Thaumaturgy</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Sorcery</spec>
+        <spec>Conjuring</spec>
+        <spec>Enchanting</spec>
+        <spec>Foci</spec>
+        <spec>Astral World</spec>
+        <spec>Metaplanes</spec>
+        <spec>Initiation</spec>
+        <spec>Mentor Spirits</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>0bbb3078-a940-4003-b4f3-fa23937cf006</id>
+      <name>Arcano-Archaeology</name>
+      <attribute>LOG</attribute>
+      <category>Academic</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Artifacts</spec>
+        <spec>Divine/Spiritual</spec>
+        <spec>Draconic</spec>
+        <spec>Fey</spec>
+        <spec>Ritual</spec>
+        <spec>Sorcery</spec>
+        <spec>Atlantis</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>27bbce45-81df-44f4-9749-56b0ea2b9543</id>
+      <name>4th World Knowledge</name>
+      <attribue>INT</attribue>
+      <category>Interest</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>4th World Magic</spec>
+        <spec>Dragons</spec>
+        <spec>Metahuman Settlements</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>beea7ff9-7ddd-456d-b10f-09993cce03a1</id>
+      <name>The Enemy</name>
+      <attribute>INT</attribute>
+      <category>Interest</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Tactics</spec>
+        <spec>History</spec>
+        <spec>The Bridge</spec>
+      </specs>
+    </skill>
+    <skill>
+      <id>db1ca118-5785-4e83-a79e-905b15535226</id>
+      <name>The Scourge</name>
+      <attribute>INT</attribute>
+      <category>Interest</category>
+      <default>False</default>
+      <skillgroup />
+      <specs>
+        <spec>Tactics</spec>
+        <spec>History</spec>
+      </specs>
+    </skill>
+  </knowledgeskills>
 </chummer>

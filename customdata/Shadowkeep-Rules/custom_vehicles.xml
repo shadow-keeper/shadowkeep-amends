@@ -19,7 +19,7 @@
   https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema qualities.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema qualities.xsd">
   <categories>
     <category blackmarket="Vehicles" >Drones: Cyborg Shell</category>
   </categories>
@@ -160,21 +160,21 @@
       </required>
     </vehicle>
   </vehicles>
-	<mods>
-		<mod>
-			<id>5e7d3a5a-f0f0-4303-8346-a82f26f5e5a2</id>
-			<name>Ejection Seats</name>
-			<page>164</page>
-			<source>R5</source>
-			<avail>0</avail>
-			<category>Cosmetic</category>
-			<cost>100</cost>
-  		<rating>0</rating>
-  		<slots>0</slots>
-  	</mod>
+  <mods>
+    <mod>
+      <id>5e7d3a5a-f0f0-4303-8346-a82f26f5e5a2</id>
+      <name>Ejection Seats</name>
+      <page>164</page>
+      <source>R5</source>
+      <avail>0</avail>
+      <category>Cosmetic</category>
+      <cost>100</cost>
+      <rating>0</rating>
+      <slots>0</slots>
+    </mod>
     <mod>
       <id>55728da7-1ac3-4005-bcb6-d07ecb5e22ef</id>
-    <name>Shell Armor</name>
+      <name>Shell Armor</name>
       <page>0</page>
       <source>DM</source>
       <avail>12</avail>

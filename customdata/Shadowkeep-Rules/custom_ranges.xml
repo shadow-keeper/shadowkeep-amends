@@ -19,23 +19,23 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ranges.xsd">
-	<ranges>
-		<range>
-			<name>Carbines</name>
-			<min>0</min>
-			<short>10</short>
-			<medium>40</medium>
-			<long>80</long>
-			<extreme>150</extreme>
-		</range>
-        <range>
-			<name>Magic</name>
-			<min>0</min>
-			<short>{MAG}</short>
-			<medium>{MAG}*2</medium>
-			<long>{MAG}*3</long>
-			<extreme>{MAG}*4</extreme>
-		</range>
-	</ranges>
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ranges.xsd">
+  <ranges>
+    <range>
+      <name>Carbines</name>
+      <min>0</min>
+      <short>10</short>
+      <medium>40</medium>
+      <long>80</long>
+      <extreme>150</extreme>
+    </range>
+    <range>
+      <name>Magic</name>
+      <min>0</min>
+      <short>{MAG}</short>
+      <medium>{MAG}*2</medium>
+      <long>{MAG}*3</long>
+      <extreme>{MAG}*4</extreme>
+    </range>
+  </ranges>
 </chummer>

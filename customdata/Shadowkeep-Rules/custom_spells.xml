@@ -19,78 +19,78 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema spells.xsd">
-	<spells>
-      <!-- Homebrew touch spells -->
-      <spell>
-        <id>9fd3f183-1160-4710-a22e-0c45648c0a27</id>
-        <name>Flamestrike</name>
-        <page>0</page>
-        <source>DM</source>
-        <category>Combat</category>
-        <damage>P</damage>
-        <descriptor>Indirect, Elemental</descriptor>
-        <duration>I</duration>
-        <dv>F-6</dv>
-        <range>T</range>
-        <type>P</type>
-        <notes>This spell causes touch-ranged indirect fire damage. Despite claims on magic-related matrix hosts by new users of the spell, a properly performed flamestrike does not burn the caster..</notes>
-      </spell>
-      <spell>
-        <id>b1ed1581-0201-437d-ad63-91894a2947d1</id>
-        <name>Taser Fist</name>
-        <page>0</page>
-        <source>DM</source>
-        <category>Combat</category>
-        <damage>P</damage>
-        <descriptor>Indirect, Elemental</descriptor>
-        <duration>I</duration>
-        <dv>F-6</dv>
-        <range>T</range>
-        <type>P</type>
-        <notes>This spell causes touch-ranged indirect electrical damage. It has a number of less flippant names among some traditions where it is more commonly used, such as the ‘Touch of Zeus’ in the Olympianist tradition. </notes>
-      </spell>
-      <spell>
-        <id>8154938d-0824-4566-9b2a-618a4a6be69a</id>
-        <name>Caustic Touch</name>
-        <page>0</page>
-        <source>DM</source>
-        <category>Combat</category>
-        <damage>P</damage>
-        <descriptor>Indirect, Elemental</descriptor>
-        <duration>I</duration>
-        <dv>F-6</dv>
-        <range>T</range>
-        <type>P</type>
-        <notes>This spell causes touch-ranged indirect acid damage. There’s a bit of a tricky technique involved in this spell - a quick touch and release. Most of the masters of it are Buddhist Mystic Adepts, but rumours abound of a boxer-turned-magician on the streets of LA. </notes>
-      </spell>
-      <spell>
-        <id>303a7635-60f3-4020-8059-ac02fce0d784</id>
-        <name>Ice Claw</name>
-        <page>0</page>
-        <source>DM</source>
-        <category>Combat</category>
-        <damage>P</damage>
-        <descriptor>Indirect, Elemental</descriptor>
-        <duration>I</duration>
-        <dv>F-6</dv>
-        <range>T</range>
-        <type>P</type>
-        <notes>This spell causes touch-ranged indirect cold damage. Like the spells ‘Ice Spear’ and ‘Ice Storm’ it creates shards of damaging ice. Unlike them, the caster must deliver these shards themselves rather than relying on magic.</notes>
-      </spell>
-      <spell>
-        <id>63325d27-3f15-4387-9dcd-58f1c6b944aa</id>
-        <name>Sunstrike</name>
-        <page>0</page>
-        <source>DM</source>
-        <category>Combat</category>
-        <damage>P</damage>
-        <descriptor>Indirect</descriptor>
-        <duration>I</duration>
-        <dv>F-4</dv>
-        <range>T</range>
-        <type>P</type>
-        <notes>This spell functions as ‘Sunbeam’ (SSP 17) but is instead a touch-ranged spell. Like other touch spells, the caster is protected from the destructive energies of the magic, so Infected mages can cast the spell without being hurt by it themselves. Indeed, surveys of shadow matrix hosts revealed that the two most common traditions amongst casters of this spell were Christian Theurgy and Dark Magic.</notes>
-      </spell>
-      <!-- End Homebrew touch spells -->
-	</spells>
+  <spells>
+    <!-- Homebrew touch spells -->
+    <spell>
+      <id>9fd3f183-1160-4710-a22e-0c45648c0a27</id>
+      <name>Flamestrike</name>
+      <page>0</page>
+      <source>DM</source>
+      <category>Combat</category>
+      <damage>P</damage>
+      <descriptor>Indirect, Elemental</descriptor>
+      <duration>I</duration>
+      <dv>F-6</dv>
+      <range>T</range>
+      <type>P</type>
+      <notes>This spell causes touch-ranged indirect fire damage. Despite claims on magic-related matrix hosts by new users of the spell, a properly performed flamestrike does not burn the caster..</notes>
+    </spell>
+    <spell>
+      <id>b1ed1581-0201-437d-ad63-91894a2947d1</id>
+      <name>Taser Fist</name>
+      <page>0</page>
+      <source>DM</source>
+      <category>Combat</category>
+      <damage>P</damage>
+      <descriptor>Indirect, Elemental</descriptor>
+      <duration>I</duration>
+      <dv>F-6</dv>
+      <range>T</range>
+      <type>P</type>
+      <notes>This spell causes touch-ranged indirect electrical damage. It has a number of less flippant names among some traditions where it is more commonly used, such as the ‘Touch of Zeus’ in the Olympianist tradition. </notes>
+    </spell>
+    <spell>
+      <id>8154938d-0824-4566-9b2a-618a4a6be69a</id>
+      <name>Caustic Touch</name>
+      <page>0</page>
+      <source>DM</source>
+      <category>Combat</category>
+      <damage>P</damage>
+      <descriptor>Indirect, Elemental</descriptor>
+      <duration>I</duration>
+      <dv>F-6</dv>
+      <range>T</range>
+      <type>P</type>
+      <notes>This spell causes touch-ranged indirect acid damage. There’s a bit of a tricky technique involved in this spell - a quick touch and release. Most of the masters of it are Buddhist Mystic Adepts, but rumours abound of a boxer-turned-magician on the streets of LA. </notes>
+    </spell>
+    <spell>
+      <id>303a7635-60f3-4020-8059-ac02fce0d784</id>
+      <name>Ice Claw</name>
+      <page>0</page>
+      <source>DM</source>
+      <category>Combat</category>
+      <damage>P</damage>
+      <descriptor>Indirect, Elemental</descriptor>
+      <duration>I</duration>
+      <dv>F-6</dv>
+      <range>T</range>
+      <type>P</type>
+      <notes>This spell causes touch-ranged indirect cold damage. Like the spells ‘Ice Spear’ and ‘Ice Storm’ it creates shards of damaging ice. Unlike them, the caster must deliver these shards themselves rather than relying on magic.</notes>
+    </spell>
+    <spell>
+      <id>63325d27-3f15-4387-9dcd-58f1c6b944aa</id>
+      <name>Sunstrike</name>
+      <page>0</page>
+      <source>DM</source>
+      <category>Combat</category>
+      <damage>P</damage>
+      <descriptor>Indirect</descriptor>
+      <duration>I</duration>
+      <dv>F-4</dv>
+      <range>T</range>
+      <type>P</type>
+      <notes>This spell functions as ‘Sunbeam’ (SSP 17) but is instead a touch-ranged spell. Like other touch spells, the caster is protected from the destructive energies of the magic, so Infected mages can cast the spell without being hurt by it themselves. Indeed, surveys of shadow matrix hosts revealed that the two most common traditions amongst casters of this spell were Christian Theurgy and Dark Magic.</notes>
+    </spell>
+    <!-- End Homebrew touch spells -->
+  </spells>
 </chummer>

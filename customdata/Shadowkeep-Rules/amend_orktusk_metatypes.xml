@@ -21,107 +21,107 @@
   <metatypes>
     <metatype>
       <name>Troll</name>
-        <metavariants>
-          <metavariant xpathfilter="name = 'Cyclops'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Minotaur'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Fomorian'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-        </metavariants>
-        <qualities>
-          <negative amendoperation="addnode">
-            <quality removable="True">Tusks</quality>
-          </negative>
-        </qualities>
+      <metavariants>
+        <metavariant xpathfilter="name = 'Cyclops'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Minotaur'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Fomorian'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+      </metavariants>
+      <qualities>
+        <negative amendoperation="addnode">
+          <quality removable="True">Tusks</quality>
+        </negative>
+      </qualities>
     </metatype>
     <metatype>
       <name>Ork</name>
-        <metavariants>
-          <metavariant xpathfilter="name = 'Oni'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Ogre'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-        </metavariants>
+      <metavariants>
+        <metavariant xpathfilter="name = 'Oni'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Ogre'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+      </metavariants>
     </metatype>
-      <metatype xpathfilter="contains(name,'Shapeshifter')">
-        <metavariants>
-          <metavariant xpathfilter="name = 'Troll'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Cyclops'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Minotaur'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Fomorian'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Hobgoblin'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Oni'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-          <metavariant xpathfilter="name = 'Ogre'">
-            <qualities>
-              <negative amendoperation="addnode">
-                <quality removable="True">Tusks</quality>
-              </negative>
-            </qualities>
-          </metavariant>
-        </metavariants>
-      </metatype>
+    <metatype xpathfilter="contains(name,'Shapeshifter')">
+      <metavariants>
+        <metavariant xpathfilter="name = 'Troll'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Cyclops'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Minotaur'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Fomorian'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Hobgoblin'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Oni'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+        <metavariant xpathfilter="name = 'Ogre'">
+          <qualities>
+            <negative amendoperation="addnode">
+              <quality removable="True">Tusks</quality>
+            </negative>
+          </qualities>
+        </metavariant>
+      </metavariants>
+    </metatype>
   </metatypes>
 </chummer>
 

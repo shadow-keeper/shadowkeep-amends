@@ -19,7 +19,7 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema metamagic.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema metamagic.xsd">
 
   <metamagics>
     <metamagic>
@@ -149,7 +149,7 @@
       <required>
         <allof>
           <quality>The Spiritual Way</quality>
-            <metamagic>Exorcism</metamagic>
+          <metamagic>Exorcism</metamagic>
         </allof>
       </required>
       <source>DM</source>
@@ -185,8 +185,8 @@
       <magician>True</magician>
       <required>
         <allof>
-		  <quality>Mystic Adept</quality>
-		  <quality>The Spiritual Way</quality>
+          <quality>Mystic Adept</quality>
+          <quality>The Spiritual Way</quality>
         </allof>
       </required>
       <source>SG</source>

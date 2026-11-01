@@ -34,7 +34,7 @@
 
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema traditions.xsd">
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema traditions.xsd">
   <traditions>
     <tradition>
       <name>Insect Shaman</name>
@@ -128,7 +128,7 @@
       <name>Blood Shade</name>
       <hide />
     </spirit>
-	  <spirit>
+    <spirit>
       <name>Carcass Spirit</name>
       <hide />
     </spirit>

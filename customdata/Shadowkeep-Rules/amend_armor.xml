@@ -39,10 +39,10 @@
 -->
 
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema armor.xsd">
-    <!-- Region Street Lethal-->
-    <!-- End Region -->
-    <!-- Region Kill Code -->
-    <!-- End Region -->
+  <!-- Region Street Lethal-->
+  <!-- End Region -->
+  <!-- Region Kill Code -->
+  <!-- End Region -->
   <mods>
     <!-- Region Shadowrun 5 -->
     <mod>

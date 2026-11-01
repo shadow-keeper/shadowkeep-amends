@@ -19,746 +19,746 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema lifestyles.xsd">
-	<qualities>
-		<quality>
-		  <id>8095f9b9-a3c5-4059-870b-7bbc618c575c</id>
-		  <name>National SIN Tax</name>
-		  <category>Negative</category>
-		  <lp>0</lp>
-		  <source>SR5</source>
-		  <multiplier>15</multiplier>
-		  <page>84</page>
-		</quality>
-		<quality>
-		  <id>a7440305-1553-41e4-9185-ab2375866e73</id>
-		  <name>Criminal SIN Tax</name>
-		  <category>Negative</category>
-		  <lp>0</lp>
-		  <source>SR5</source>
-		  <multiplier>15</multiplier>
-		  <page>84</page>
-		</quality>
-		<quality>
-		  <id>e6bc4e0e-d848-454d-8b92-d2e4af0713c9</id>
-		  <name>Corporate Limited SIN Tax</name>
-		  <category>Negative</category>
-		  <lp>0</lp>
-		  <source>SR5</source>
-		  <multiplier>20</multiplier>
-		  <page>84</page>
-		</quality>
-		<quality>
-		  <id>e4de4d96-889f-4f15-ac6c-3c63ea662a7d</id>
-		  <name>Corporate SIN Tax</name>
-		  <category>Negative</category>
-		  <lp>0</lp>
-		  <source>SR5</source>
-		  <multiplier>10</multiplier>
-		  <page>84</page>
-		</quality>
-		<quality>
-		  <id>50d6e92a-dd6b-452e-ab70-e390d4b1a50e</id>
-		  <name>Base Lifestyle Reduction -100Y</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-500</cost>
-		  <page>165</page>
-		</quality>
-		<quality>
-		  <id>6be8ac65-d73f-407f-8a91-3ddf4c768fc6</id>
-		  <name>Base Lifestyle Reduction -500Y</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-500</cost>
-		  <page>165</page>
-		</quality>
-		<quality>
-		  <id>e21dd279-6b33-44a9-9019-be63b0a9478c</id>
-		  <name>Base Lifestyle Reduction -1kY</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-1000</cost>
-		  <page>165</page>
-		</quality>
-		<quality>
-		  <id>c1ede74f-4231-4f91-8b4a-010f085e339c</id>
-		  <name>Base Lifestyle Reduction -5kY</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-5000</cost>
-		  <page>165</page>
-		</quality>
-        <quality>
-		  <id>b8329dbd-f514-41c5-82a9-37abfe978ed0</id>
-		  <name>Base Lifestyle Reduction -10kY</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-10000</cost>
-		  <page>165</page>
-		</quality>
-        <quality>
-		  <id>9628bd43-cfba-484d-b559-b9bb29e0db62</id>
-		  <name>Lifestyle Payout -100Y</name>
-		  <category>Contracts</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-500</cost>
-		  <page>165</page>
-		</quality>
-        <quality>
-		  <id>5b4592c9-63e7-47e0-afe3-6bc30f39e6be</id>
-		  <name>Lifestyle Payout -500Y</name>
-		  <category>Contracts</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-500</cost>
-		  <page>165</page>
-		</quality>
-		<quality>
-		  <id>e0d0ecda-4028-4c98-b52b-f4545dc06e1c</id>
-		  <name>Lifestyle Payout -1kY</name>
-		  <category>Contracts</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-1000</cost>
-		  <page>165</page>
-		</quality>
-		<quality>
-		  <id>fcb85489-6e34-4711-97ff-50d20b8486d2</id>
-		  <name>Lifestyle Payout -5kY</name>
-		  <category>Contracts</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-5000</cost>
-		  <page>165</page>
-		</quality>
-        <quality>
-		  <id>79ce069b-68ff-4cde-b9f5-6b8756ebc00b</id>
-		  <name>Lifestyle Payout -10kY</name>
-		  <category>Contracts</category>
-		  <lp>0</lp>
-		  <source>BTB</source>
-		  <cost>-10000</cost>
-		  <page>165</page>
-		</quality>
-        <quality>
-		  <id>c84cc1b5-29e3-4f08-8b18-54f501513b55</id>
-		  <name>Illness Treatment 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BB</source>
-		  <cost>1000</cost>
-		  <page>12</page>
-		</quality>
-        <quality>
-		  <id>6c2b41c5-3ad8-42e7-9cca-75ad4cbaefbe</id>
-		  <name>Illness Treatment 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BB</source>
-		  <cost>2000</cost>
-		  <page>12</page>
-		</quality>
-        <quality>
-		  <id>114c7358-4b54-4a93-b011-33f9ae946eb1</id>
-		  <name>Illness Treatment 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>BB</source>
-		  <cost>3000</cost>
-		  <page>12</page>
-		</quality>
-        <quality>
-		  <id>5be4d1e3-af50-417f-b6d0-72032c258665</id>
-		  <name>Going Solo</name>
-		  <category>Entertainment - Service</category>
-		  <lp>2</lp>
-          <allowed>High,Luxury</allowed>
-		  <source>DM</source>
-		  <cost>2000</cost>
-		  <page>0</page>
-          <required>
-            <oneof>
-			  <metatype>Cyborg</metatype>
-            </oneof>
-		  </required>
-		</quality>
-        <quality>
-		  <id>1e5ccb52-3eef-43c9-9710-c96b778b0097</id>
-		  <name>Corporate Support</name>
-		  <category>Entertainment - Service</category>
-		  <lp>4</lp>
-          <allowed>High,Luxury</allowed>
-		  <source>DM</source>
-		  <cost>6000</cost>
-		  <page>0</page>
-          <required>
-            <oneof>
-			  <metatype>Cyborg</metatype>
-            </oneof>
-		  </required>
-		</quality>
+  xsi:schemaLocation="http://www.w3.org/2001/XMLSchema lifestyles.xsd">
+  <qualities>
+    <quality>
+      <id>8095f9b9-a3c5-4059-870b-7bbc618c575c</id>
+      <name>National SIN Tax</name>
+      <category>Negative</category>
+      <lp>0</lp>
+      <source>SR5</source>
+      <multiplier>15</multiplier>
+      <page>84</page>
+    </quality>
+    <quality>
+      <id>a7440305-1553-41e4-9185-ab2375866e73</id>
+      <name>Criminal SIN Tax</name>
+      <category>Negative</category>
+      <lp>0</lp>
+      <source>SR5</source>
+      <multiplier>15</multiplier>
+      <page>84</page>
+    </quality>
+    <quality>
+      <id>e6bc4e0e-d848-454d-8b92-d2e4af0713c9</id>
+      <name>Corporate Limited SIN Tax</name>
+      <category>Negative</category>
+      <lp>0</lp>
+      <source>SR5</source>
+      <multiplier>20</multiplier>
+      <page>84</page>
+    </quality>
+    <quality>
+      <id>e4de4d96-889f-4f15-ac6c-3c63ea662a7d</id>
+      <name>Corporate SIN Tax</name>
+      <category>Negative</category>
+      <lp>0</lp>
+      <source>SR5</source>
+      <multiplier>10</multiplier>
+      <page>84</page>
+    </quality>
+    <quality>
+      <id>50d6e92a-dd6b-452e-ab70-e390d4b1a50e</id>
+      <name>Base Lifestyle Reduction -100Y</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-500</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>6be8ac65-d73f-407f-8a91-3ddf4c768fc6</id>
+      <name>Base Lifestyle Reduction -500Y</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-500</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>e21dd279-6b33-44a9-9019-be63b0a9478c</id>
+      <name>Base Lifestyle Reduction -1kY</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-1000</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>c1ede74f-4231-4f91-8b4a-010f085e339c</id>
+      <name>Base Lifestyle Reduction -5kY</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-5000</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>b8329dbd-f514-41c5-82a9-37abfe978ed0</id>
+      <name>Base Lifestyle Reduction -10kY</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-10000</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>9628bd43-cfba-484d-b559-b9bb29e0db62</id>
+      <name>Lifestyle Payout -100Y</name>
+      <category>Contracts</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-500</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>5b4592c9-63e7-47e0-afe3-6bc30f39e6be</id>
+      <name>Lifestyle Payout -500Y</name>
+      <category>Contracts</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-500</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>e0d0ecda-4028-4c98-b52b-f4545dc06e1c</id>
+      <name>Lifestyle Payout -1kY</name>
+      <category>Contracts</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-1000</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>fcb85489-6e34-4711-97ff-50d20b8486d2</id>
+      <name>Lifestyle Payout -5kY</name>
+      <category>Contracts</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-5000</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>79ce069b-68ff-4cde-b9f5-6b8756ebc00b</id>
+      <name>Lifestyle Payout -10kY</name>
+      <category>Contracts</category>
+      <lp>0</lp>
+      <source>BTB</source>
+      <cost>-10000</cost>
+      <page>165</page>
+    </quality>
+    <quality>
+      <id>c84cc1b5-29e3-4f08-8b18-54f501513b55</id>
+      <name>Illness Treatment 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BB</source>
+      <cost>1000</cost>
+      <page>12</page>
+    </quality>
+    <quality>
+      <id>6c2b41c5-3ad8-42e7-9cca-75ad4cbaefbe</id>
+      <name>Illness Treatment 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BB</source>
+      <cost>2000</cost>
+      <page>12</page>
+    </quality>
+    <quality>
+      <id>114c7358-4b54-4a93-b011-33f9ae946eb1</id>
+      <name>Illness Treatment 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>BB</source>
+      <cost>3000</cost>
+      <page>12</page>
+    </quality>
+    <quality>
+      <id>5be4d1e3-af50-417f-b6d0-72032c258665</id>
+      <name>Going Solo</name>
+      <category>Entertainment - Service</category>
+      <lp>2</lp>
+      <allowed>High,Luxury</allowed>
+      <source>DM</source>
+      <cost>2000</cost>
+      <page>0</page>
+      <required>
+        <oneof>
+          <metatype>Cyborg</metatype>
+        </oneof>
+      </required>
+    </quality>
+    <quality>
+      <id>1e5ccb52-3eef-43c9-9710-c96b778b0097</id>
+      <name>Corporate Support</name>
+      <category>Entertainment - Service</category>
+      <lp>4</lp>
+      <allowed>High,Luxury</allowed>
+      <source>DM</source>
+      <cost>6000</cost>
+      <page>0</page>
+      <required>
+        <oneof>
+          <metatype>Cyborg</metatype>
+        </oneof>
+      </required>
+    </quality>
     <!--AI LS-->
     <quality>
-		  <id>9b8b75c6-be3c-3672-a5a8-d8a3c3f4f534</id>
-		  <name>Device upkeep DR 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>0</cost>
-		  <page>0</page>
+      <id>9b8b75c6-be3c-3672-a5a8-d8a3c3f4f534</id>
+      <name>Device upkeep DR 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>0</cost>
+      <page>0</page>
       <required>
         <allof>
-		      <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Street</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>30a554c7-db47-3639-aa84-09896bcf03b5</id>
-		  <name>Device upkeep DR 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-250</cost>
-		  <page>0</page>
+      <id>30a554c7-db47-3639-aa84-09896bcf03b5</id>
+      <name>Device upkeep DR 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-250</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Squatter</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>8de17059-6218-358f-b4cc-263f7c04d416</id>
-		  <name>Device upkeep DR 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-1000</cost>
-		  <page>0</page>
+      <id>8de17059-6218-358f-b4cc-263f7c04d416</id>
+      <name>Device upkeep DR 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-1000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Low</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>3c3bfda5-587c-3fbc-b704-c8627b913af1</id>
-		  <name>Device upkeep DR 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-2500</cost>
-		  <page>0</page>
+      <id>3c3bfda5-587c-3fbc-b704-c8627b913af1</id>
+      <name>Device upkeep DR 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-2500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Medium</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>91d25247-5564-3e60-a514-7c13efc47e65</id>
-		  <name>Device upkeep DR 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-5000</cost>
-		  <page>0</page>
+      <id>91d25247-5564-3e60-a514-7c13efc47e65</id>
+      <name>Device upkeep DR 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-5000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>High</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>5d1ab210-7f64-324f-ba21-3db95e09aa13</id>
-		  <name>Device upkeep DR 1</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-50000</cost>
-		  <page>0</page>
+      <id>5d1ab210-7f64-324f-ba21-3db95e09aa13</id>
+      <name>Device upkeep DR 1</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Luxury</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>fc72beeb-f790-36ee-a73d-33888c9d8880</id>
-		  <name>Device upkeep DR 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>250</cost>
-		  <page>0</page>
+      <id>fc72beeb-f790-36ee-a73d-33888c9d8880</id>
+      <name>Device upkeep DR 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>250</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Street</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>1e46afa2-6176-3cd3-9750-3015846723df</id>
-		  <name>Device upkeep DR 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-250</cost>
-		  <page>0</page>
+      <id>1e46afa2-6176-3cd3-9750-3015846723df</id>
+      <name>Device upkeep DR 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-250</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Squatter</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>0042b01d-95bd-343f-bd9f-3186bfd63508</id>
-		  <name>Device upkeep DR 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-1000</cost>
-		  <page>0</page>
+      <id>0042b01d-95bd-343f-bd9f-3186bfd63508</id>
+      <name>Device upkeep DR 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-1000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Low</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>115ff52f-d605-3b4b-98fe-c0ea57f4930c</id>
-		  <name>Device upkeep DR 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-2500</cost>
-		  <page>0</page>
+      <id>115ff52f-d605-3b4b-98fe-c0ea57f4930c</id>
+      <name>Device upkeep DR 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-2500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Medium</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>ed0221e8-ac7d-393b-821d-25183567885b</id>
-		  <name>Device upkeep DR 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-5000</cost>
-		  <page>0</page>
+      <id>ed0221e8-ac7d-393b-821d-25183567885b</id>
+      <name>Device upkeep DR 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-5000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>High</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>508ef333-85a6-314c-bcf3-17ddc32b2216</id>
-		  <name>Device upkeep DR 2</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-50000</cost>
-		  <page>0</page>
+      <id>508ef333-85a6-314c-bcf3-17ddc32b2216</id>
+      <name>Device upkeep DR 2</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Luxury</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>d2568554-93ec-30c7-9e15-f383be19e5bb</id>
-		  <name>Device upkeep DR 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>1000</cost>
-		  <page>0</page>
+      <id>d2568554-93ec-30c7-9e15-f383be19e5bb</id>
+      <name>Device upkeep DR 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>1000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Street</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>800e59a7-dd0f-3114-8e58-ab7e213895ca</id>
-		  <name>Device upkeep DR 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>500</cost>
-		  <page>0</page>
+      <id>800e59a7-dd0f-3114-8e58-ab7e213895ca</id>
+      <name>Device upkeep DR 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Squatter</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>3b7d03f0-e067-3d72-84f4-e410ac36ef57</id>
-		  <name>Device upkeep DR 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-1000</cost>
-		  <page>0</page>
+      <id>3b7d03f0-e067-3d72-84f4-e410ac36ef57</id>
+      <name>Device upkeep DR 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-1000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Low</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>8762be68-de95-391a-94a0-c5fd0446e037</id>
-		  <name>Device upkeep DR 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-2500</cost>
-		  <page>0</page>
+      <id>8762be68-de95-391a-94a0-c5fd0446e037</id>
+      <name>Device upkeep DR 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-2500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Medium</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>2bd8b4c9-01af-3cd0-aced-94ee6e2004b8</id>
-		  <name>Device upkeep DR 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-5000</cost>
-		  <page>0</page>
+      <id>2bd8b4c9-01af-3cd0-aced-94ee6e2004b8</id>
+      <name>Device upkeep DR 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-5000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>High</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>a627d6a4-394a-33f5-b68e-22bfb6488d01</id>
-		  <name>Device upkeep DR 3</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-50000</cost>
-		  <page>0</page>
+      <id>a627d6a4-394a-33f5-b68e-22bfb6488d01</id>
+      <name>Device upkeep DR 3</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Luxury</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>09370cda-89a4-3a48-b592-9c0486e0d5e4</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>2500</cost>
-		  <page>0</page>
+      <id>09370cda-89a4-3a48-b592-9c0486e0d5e4</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>2500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Street</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>de5980d3-a137-373c-850b-ca3e5f100779</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>2000</cost>
-		  <page>0</page>
+      <id>de5980d3-a137-373c-850b-ca3e5f100779</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>2000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Squatter</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>9441501d-f633-365a-8955-9df443edc762</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>500</cost>
-		  <page>0</page>
+      <id>9441501d-f633-365a-8955-9df443edc762</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Low</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>434ada18-13ce-3c08-8b40-a1a1ae030569</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-2500</cost>
-		  <page>0</page>
+      <id>434ada18-13ce-3c08-8b40-a1a1ae030569</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-2500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Medium</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>a13b6160-bd23-3710-a150-41d800dd30b4</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-5000</cost>
-		  <page>0</page>
+      <id>a13b6160-bd23-3710-a150-41d800dd30b4</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-5000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>High</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>73a67c12-c5f0-3288-ad6a-c78aea0917b0</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-50000</cost>
-		  <page>0</page>
+      <id>73a67c12-c5f0-3288-ad6a-c78aea0917b0</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Luxury</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>819f86a3-31d5-3e72-a83e-142c3a3e4832</id>
-		  <name>Device upkeep DR 5</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>5000</cost>
-		  <page>0</page>
+      <id>819f86a3-31d5-3e72-a83e-142c3a3e4832</id>
+      <name>Device upkeep DR 5</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>5000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Street</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>9957b433-ddc8-3113-a3e6-5512cf13dab1</id>
-		  <name>Device upkeep DR 5</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>4500</cost>
-		  <page>0</page>
+      <id>9957b433-ddc8-3113-a3e6-5512cf13dab1</id>
+      <name>Device upkeep DR 5</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>4500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Squatter</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>5aab6e0c-b7d3-379c-92e3-2bfbb5572511</id>
-		  <name>Device upkeep DR 5</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>3000</cost>
-		  <page>0</page>
+      <id>5aab6e0c-b7d3-379c-92e3-2bfbb5572511</id>
+      <name>Device upkeep DR 5</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>3000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Low</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>11c8ff30-3a7d-3547-80a7-d61b8abeeda8</id>
-		  <name>Device upkeep DR 5</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>0</cost>
-		  <page>0</page>
+      <id>11c8ff30-3a7d-3547-80a7-d61b8abeeda8</id>
+      <name>Device upkeep DR 5</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>0</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Medium</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>98799b9f-1c5e-30b3-930f-e412b862cbe4</id>
-		  <name>Device upkeep DR 5</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-5000</cost>
-		  <page>0</page>
+      <id>98799b9f-1c5e-30b3-930f-e412b862cbe4</id>
+      <name>Device upkeep DR 5</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-5000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>High</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>9bdf2544-31d8-3555-94b0-6a749118a996</id>
-		  <name>Device upkeep DR 5</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-50000</cost>
-		  <page>0</page>
+      <id>9bdf2544-31d8-3555-94b0-6a749118a996</id>
+      <name>Device upkeep DR 5</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Luxury</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>27633695-d603-391f-a0c3-ae2a069976bc</id>
-		  <name>Device upkeep DR 6+</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>50000</cost>
-		  <page>0</page>
+      <id>27633695-d603-391f-a0c3-ae2a069976bc</id>
+      <name>Device upkeep DR 6+</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Street</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>d6ff7451-147f-3657-831a-246df9f7b166</id>
-		  <name>Device upkeep DR 6+</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>49500</cost>
-		  <page>0</page>
+      <id>d6ff7451-147f-3657-831a-246df9f7b166</id>
+      <name>Device upkeep DR 6+</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>49500</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Squatter</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>ad1c0a44-7676-30ac-9422-bb7de243b53c</id>
-		  <name>Device upkeep DR 6+</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>48000</cost>
-		  <page>0</page>
+      <id>ad1c0a44-7676-30ac-9422-bb7de243b53c</id>
+      <name>Device upkeep DR 6+</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>48000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Low</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>a8eda007-0926-3c9b-b350-2b74cbe2d0da</id>
-		  <name>Device upkeep DR 6+</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>45000</cost>
-		  <page>0</page>
+      <id>a8eda007-0926-3c9b-b350-2b74cbe2d0da</id>
+      <name>Device upkeep DR 6+</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>45000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Medium</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>f0f9dd0a-c0e5-3880-bb3d-d094dac3d265</id>
-		  <name>Device upkeep DR 6+</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>40000</cost>
-		  <page>0</page>
+      <id>f0f9dd0a-c0e5-3880-bb3d-d094dac3d265</id>
+      <name>Device upkeep DR 6+</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>40000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>High</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>e9a44ef4-11c8-3f65-a5d9-7c7afcb848dc</id>
-		  <name>Device upkeep DR 6+</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>-50000</cost>
-		  <page>0</page>
+      <id>e9a44ef4-11c8-3f65-a5d9-7c7afcb848dc</id>
+      <name>Device upkeep DR 6+</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>-50000</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Luxury</lifestyle>
         </allof>
-	    </required>
-		</quality>
+      </required>
+    </quality>
     <quality>
-		  <id>e9a44ef4-11c8-2946-a5d9-7c7afcb848dc</id>
-		  <name>Device upkeep DR 4</name>
-		  <category>Positive</category>
-		  <lp>0</lp>
-		  <source>DM</source>
-		  <cost>0</cost>
-		  <page>0</page>
+      <id>e9a44ef4-11c8-2946-a5d9-7c7afcb848dc</id>
+      <name>Device upkeep DR 4</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <source>DM</source>
+      <cost>0</cost>
+      <page>0</page>
       <required>
         <allof>
-			    <metatype>A.I.</metatype>
+          <metatype>A.I.</metatype>
           <lifestyle>Commercial</lifestyle>
         </allof>
-	    </required>
-		</quality>
-	</qualities>
+      </required>
+    </quality>
+  </qualities>
 </chummer>
