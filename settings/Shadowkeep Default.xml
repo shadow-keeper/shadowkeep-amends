@@ -45,8 +45,8 @@
 	<specializationsbreakskillgroups>True</specializationsbreakskillgroups>
 	<metatypecostskarma>True</metatypecostskarma>
 	<metatypecostskarmamultiplier>1</metatypecostskarmamultiplier>
-	<limbcount>6</limbcount>
-	<excludelimbslot />
+	<limbcount>5</limbcount>
+	<excludelimbslot>skull</excludelimbslot>
 	<allowcyberwareessdiscounts>False</allowcyberwareessdiscounts>
 	<maximumarmormodifications>False</maximumarmormodifications>
 	<armordegredation>False</armordegredation>
